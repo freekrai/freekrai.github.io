@@ -1,91 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Roger Stringer</title>
-    <description>Full-Stack Web Developer and author</description>
+    <title></title>
+    <description></description>
     <link></link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Running: to the Press</title>
-        <description>&lt;p&gt;Louie Mantia:&lt;/p&gt;
+        <title>Changing Some Things Up</title>
+        <description>&lt;h1&gt;Changing Some Things Up&lt;/h1&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;Apple warns against “running to the press” saying that it “never helps,” but we all know that it does help. And developers will continue to do it because Apple’s suggested channel of communicating doesn’t work. &lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p class=&quot;meta&quot;&gt;May 31st, 2015&lt;/p&gt;
 
-&lt;p&gt;And it’s even worse for the &lt;em&gt;vast&lt;/em&gt; majority of iOS and Mac developers who &lt;em&gt;don’t&lt;/em&gt; have any Apple contacts or developer-relations representatives. You don’t just get an Apple rep when you sign up — you just need to wait until, hopefully, one contacts you, then you hold onto that email address.&lt;/p&gt;
+
+&lt;p&gt;I&#39;ve decided to change freekrai.net a little bit, for years it&#39;s been mostly a marketing-type site, and I&#39;ve made the decision to switch it to more of a content site.&lt;/p&gt;
+
+&lt;p&gt;Rather than looking through pages and pages to find what you need, I&#39;m displaying it all right here as one big page.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 17 Dec 2014 00:00:00 -0800</pubDate>
-        <link>/2014/12/17/running-press/</link>
-        <guid isPermaLink="true">/2014/12/17/running-press/</guid>
-      </item>
-    
-      <item>
-        <title>Zucchini Parmesan Crisps</title>
-        <description>&lt;p&gt;&lt;img src=&quot;http://d.pr/i/1f96.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Cooking spray&lt;/li&gt;
-  &lt;li&gt;2 medium zucchini (about 1 pound total)&lt;/li&gt;
-  &lt;li&gt;1 tablespoon olive oil&lt;/li&gt;
-  &lt;li&gt;1/4 cup freshly grated Parmesan (3/4-ounce)&lt;/li&gt;
-  &lt;li&gt;1/4 cup plain dry bread crumbs&lt;/li&gt;
-  &lt;li&gt;1/8 teaspoon salt&lt;/li&gt;
-  &lt;li&gt;Freshly ground black pepper&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;directions&quot;&gt;Directions&lt;/h3&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Preheat the oven to 450 degrees F. Coat a baking sheet with cooking spray.&lt;/li&gt;
-  &lt;li&gt;Slice the zucchini into 1/4-inch thick rounds. In a medium bowl, toss the zucchini with the oil. In a small bowl, combine the Parmesan, bread crumbs, salt, and a few turns of pepper. Dip each round into the Parmesan mixture, coating it evenly on both sides, pressing the coating on to stick, and place in a single layer on the prepared baking sheet.&lt;/li&gt;
-  &lt;li&gt;Bake the zucchini rounds until browned and crisp, 25 to 30 minutes. Remove with spatula. Serve immediately.&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-        <pubDate>Sun, 02 Nov 2014 00:00:00 -0700</pubDate>
-        <link>/food/2014/11/02/zucchini-parmesan-crisps/</link>
-        <guid isPermaLink="true">/food/2014/11/02/zucchini-parmesan-crisps/</guid>
-      </item>
-    
-      <item>
-        <title>Linked Post Test</title>
-        <description>&lt;p&gt;Does this thing work? Is this thing on?&lt;/p&gt;
-
-&lt;p&gt;Trying out Jekyll….&lt;/p&gt;
-
-&lt;p&gt;echo… echo..&lt;/p&gt;
-</description>
-        <pubDate>Sat, 01 Nov 2014 00:00:00 -0700</pubDate>
-        <link>/2014/11/01/Linked-Post-Test/</link>
-        <guid isPermaLink="true">/2014/11/01/Linked-Post-Test/</guid>
-      </item>
-    
-      <item>
-        <title>Is this thing on?</title>
-        <description>&lt;p&gt;Does this thing work? Is this thing on?&lt;/p&gt;
-
-&lt;p&gt;Trying out Jekyll….&lt;/p&gt;
-
-&lt;p&gt;echo… echo…&lt;/p&gt;
-</description>
-        <pubDate>Fri, 31 Oct 2014 00:00:00 -0700</pubDate>
-        <link>/2014/10/31/Test-Post/</link>
-        <guid isPermaLink="true">/2014/10/31/Test-Post/</guid>
-      </item>
-    
-      <item>
-        <title>Hello world</title>
-        <description>&lt;p&gt;Ignore this post.. Just testing from editor…&lt;/p&gt;
-
-&lt;p&gt;hi&lt;/p&gt;
-</description>
-        <pubDate>Mon, 03 Mar 2014 00:00:00 -0800</pubDate>
-        <link>/2014/03/03/Hello-World/</link>
-        <guid isPermaLink="true">/2014/03/03/Hello-World/</guid>
+        <pubDate>Sun, 31 May 2015 00:00:00 -0700</pubDate>
+        <link>/2015/05/31/changing-things-up.html</link>
+        <guid isPermaLink="true">/2015/05/31/changing-things-up.html</guid>
       </item>
     
   </channel>
-</rss>
+  </rss>

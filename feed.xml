@@ -18,4 +18,4 @@ layout: null
       </item>
     {% endfor %}
   </channel>
-</rss>
+  </rss>

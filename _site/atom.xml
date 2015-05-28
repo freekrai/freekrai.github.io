@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Roger Stringer</title>
+ <link href="http://freekrai.net/atom.xml" rel="self"/>
+ <link href="http://freekrai.net/"/>
+ <updated>2015-05-27T20:16:12-07:00</updated>
+ <id>http://freekrai.net/</id>
+ <author>
+   <name>Roger Stringer</name>
+   <email>roger@freekrai.net</email>
+ </author>
+
+ 
+ <entry>
+   <title>Changing Some Things Up</title>
+   <link href="http://freekrai.net/2015/05/31/changing-things-up.html"/>
+   <updated>2015-05-31T00:00:00-07:00</updated>
+   <id>http://freekrai.net/2015/05/31/changing-things-up</id>
+   <content type="html">&lt;h1&gt;Changing Some Things Up&lt;/h1&gt;
+
+&lt;p class=&quot;meta&quot;&gt;May 31st, 2015&lt;/p&gt;
+
+
+&lt;p&gt;I&#39;ve decided to change freekrai.net a little bit, for years it&#39;s been mostly a marketing-type site, and I&#39;ve made the decision to switch it to more of a content site.&lt;/p&gt;
+
+&lt;p&gt;Rather than looking through pages and pages to find what you need, I&#39;m displaying it all right here as one big page.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>

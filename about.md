@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /about/
 ---
@@ -40,11 +40,11 @@ I use [Byword][17] and [Poster][18] to draft and edit posts, usually on either m
 
 I’m available for one-on-one and group workflow consultations. I’m a handy guy to have on call when it comes to Twilio, PHP or WordPress questions, and I live to speed up workflows and help your company get things working. [Contact me here][22].
 
-### Are you available for product reviews,  speaking, etc.?
+### Are you available for product reviews,  speaking, etc.?
 
-I am [available for speaking][23], depending on availability, on a wide range of topics from startups, Twilio, PHP, API or WordPress development. Please contact me if you'd like to speak about these type of opportunities.
+I am [available for speaking][23], depending on availability, on a wide range of topics from startups, Twilio, PHP, API or WordPress development. Please contact me if you'd like to speak about these type of opportunities.
 
-I’m always available for product reviews as I enjoy checking out new gadgets, books and apps. [Contact me here][22].
+I’m always available for product reviews as I enjoy checking out new gadgets, books and apps. [Contact me here][22].
 
 ### Contact
 

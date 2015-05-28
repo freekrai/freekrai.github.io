@@ -1,32 +1,15 @@
-<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
-<head>
-	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-	<title>Roger Stringer</title>
-	<meta name="author" content="Roger Stringer" />
-	<link href="/feed.xml" rel="alternate" title="Roger Stringer" type="application/atom+xml" />
-	<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Press+Start+2P">
-	<!-- syntax highlighting CSS -->
-	<link rel="stylesheet" href="/css/syntax.css" type="text/css" />
-	
-	<!-- Homepage CSS -->
-	<link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen, projection" />
-</head>
-<body>
-	<div class="site">
-		<div class="title">
-			<h1 class="page-title"><a href="/">Roger Stringer</a></h1>
-			<a class="extra" href="/">home</a>
-			<a class="extra" href="/about/">About</a>
-		</div>
-		
-		<div id="home">
+---
+layout: default
+title: Roger Stringer
+---
+
+<div id="home">
 
 	<h1>Blog Posts</h1>
 	<ul class="posts">
-		
-		<li><span>31 May 2015</span> &raquo; <a href="/2015/05/31/changing-things-up.html">Changing Some Things Up</a></li>
-		
+		{% for post in site.posts %}
+		<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+		{% endfor %}
 	</ul>
 	
 	<h1>Highlighted Posts From <a href="http://rogerstringer.com">Roger Stringer.com</a></h1>
@@ -96,40 +79,3 @@
 		<li><a href="http://workerpod.com/">WorkerPod:</a> an online service designed for the sole purpose of helping web professionals find their next job, promote their availability and trade skills with like minded people. We bring together the latest data from leading and niche web job boards, add our own meta data such as key skills and location and notify subscribers.</li>
 	</ul>
 </div>
-
-		
-		<div class="footer">
-			<div class="contact">
-				<p>
-					Roger Stringer<br />
-					Founder of <a href="http://datamcfly.com/">Data McFly</a><br />
-					roger@freekrai.net
-				</p>
-			</div>
-			<div class="contact">
-				<p>
-					<a href="http://github.com/freekrai/">github.com/freekrai</a><br />
-					<a href="http://twitter.com/freekrai/">twitter.com/freekrai</a><br />
-				</p>
-			</div>
-			<div class="rss">
-				<a href="/feed.xml">
-				<img src="/images/rss.png" alt="Subscribe to RSS Feed" />
-				</a>
-			</div>
-		</div>
-	</div>
-
-<!-- Google Analytics -->
-<script type="text/javascript">
-	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script>
-<script type="text/javascript">
-	var pageTracker = _gat._getTracker("UA-126274-1");
-	pageTracker._trackPageview();
-</script>
-<!-- Google Analytics end -->
-
-</body>
-</html>
