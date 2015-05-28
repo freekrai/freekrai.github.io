@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>/2014/12/17/running-press/</loc>
-    <lastmod>2014-12-17T00:00:00-08:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>/food/2014/11/02/zucchini-parmesan-crisps/</loc>
     <lastmod>2014-11-02T00:00:00-07:00</lastmod>
     <priority>0.8</priority>
@@ -27,19 +22,19 @@
   </url>
   <url>
     <loc>/404/</loc>
-    <lastmod>2014-12-27T12:16:40-08:00</lastmod>
+    <lastmod>2015-03-06T17:31:36-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>/about/</loc>
-    <lastmod>2014-12-27T12:16:40-08:00</lastmod>
+    <lastmod>2015-03-06T17:31:36-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>/</loc>
-    <lastmod>2014-12-27T12:16:40-08:00</lastmod>
+    <lastmod>2015-03-06T17:31:36-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
