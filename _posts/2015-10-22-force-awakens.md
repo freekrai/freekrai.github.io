@@ -8,6 +8,8 @@ ogtype: "article"
 bodyclass: "post"
 ---
 
+{% raw %}
 <span class="embed-youtube" style="text-align:center; display: block;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sGbxmsDFVnE" frameborder="0" allowfullscreen></iframe>
 </span>
+{% endraw %}
