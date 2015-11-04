@@ -15,7 +15,7 @@ title: Home
 		<div class="day"><div class="articles">
 	{% endif %}
 {% endcomment %}
-	<article>
+	<article class="{% if post.link %}link{% endif %}">
 		<header>
 			<h2>
 			{% if post.link %}
