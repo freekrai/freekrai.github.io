@@ -1,0 +1,66 @@
+#topshelf { 
+	padding: 0 0 30px 20px; 
+	position: relative; 
+	margin: 0 0 50px 0;
+	font-size: 42px;
+	text-align: center;
+}
+#topshelf:after { 
+	content: ""; 
+	position: absolute; 
+	width: 100%;
+	 height: 20px; 
+	 bottom: 0; 
+	 left: 0; 
+	 background: url(../img/woodshelf.jpg); 
+	 -webkit-box-shadow: 0 8px 20px -7px rgba(0, 0, 0, 0.5),
+	                     0 1px 4px       rgba(0, 0, 0, 0.3), 
+	                     0 0   40px      rgba(0, 0, 0, 0.1) inset; 
+	 -moz-box-shadow:    0 8px 20px -7px rgba(0, 0, 0, 0.5), 
+	                     0 1px 4px rgba(0, 0, 0, 0.3), 
+	                     0 0 40px rgba(0, 0, 0, 0.1) inset;
+	 box-shadow:         0 8px 20px -7px rgba(0, 0, 0, 0.5), 
+	                     0 1px 4px rgba(0, 0, 0, 0.3), 
+	                     0 0 40px rgba(0, 0, 0, 0.1) inset; 
+}
+#topshelf:before { 
+	content: ""; 
+	position: absolute; 
+	border-bottom: 20px solid #ecd5b6; 
+	border-left: 50px solid transparent; 
+	border-right: 50px solid transparent; 
+	height: 0; 
+	width: 100%; 
+	bottom: 20px; 
+	left: 0; 
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+
+.shelf{
+	padding-left:175px;position:relative;margin:0 0 5px 0
+}
+.shelf:hover img{
+	-webkit-transform:perspective(500px) rotateY(0deg);-moz-transform:perspective(500px) rotateY(0deg);-ms-transform:perspective(500px) rotateY(0deg);-o-transform:perspective(500px) rotateY(0deg);transform:perspective(500px) rotateY(0deg);box-shadow:none
+}
+@media (max-width: 43.75em){
+	.shelf{padding-left:100px}
+}
+.books-note{
+	margin-top:-100px;margin-bottom:60px
+}
+@media (max-width: 43.75em){
+	.books-note{margin-top:-90px;margin-bottom:50px}
+}
+.book-wrap{
+	position:absolute;top:0;left:0
+}
+.book-wrap img{
+	width:155px;-webkit-transform:perspective(500px) rotateY(22deg);-moz-transform:perspective(500px) rotateY(22deg);-ms-transform:perspective(500px) rotateY(22deg);-o-transform:perspective(500px) rotateY(22deg);transform:perspective(500px) rotateY(22deg);-webkit-transition:all 0.2s ease;-moz-transition:all 0.2s ease;-o-transition:all 0.2s ease;transition:all 0.2s ease;box-shadow:-2px 0 -1px #000,-4px 0 -2px #000,-6px 0 -3px #000,-8px 0 -4px #000,-10px 0 -5px #000
+}
+@media (
+	max-width: 43.75em){.book-wrap img{width:80px}
+}
+.book-author{color:#d6d5d5;text-transform:uppercase;letter-spacing:3px}

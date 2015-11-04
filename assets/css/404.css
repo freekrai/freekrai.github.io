@@ -1,0 +1,58 @@
+body, div, h1, h2, h3, h4, h5, h6, p, ul, ol, li, dl, dt, dd, img, form, fieldset, input, textarea, blockquote {
+	margin: 0; padding: 0; border: 0;
+}
+
+body {
+	background-color: #000;
+	background-image: url(../img/static.gif);
+	font-family: 'Montserrat', sans-serif; text-transform: uppercase; letter-spacing: 0.3em;
+	font-size: 62.5%;
+}
+
+body, html, div {
+	height: 100%;
+}
+
+#tv {
+	background-image: url(../img/tv.png), url(../img/shading.png);
+	background-size: 100% 100%;
+}
+
+#content {
+	width: 60%; height: 65%; position: relative; top: 20%; left: 10%;
+	text-align: center; color: #fff; 
+}
+
+#logo {
+	display: block; 
+	width: 20%; 	margin: 0 auto 2em auto; 
+}
+	#logo img {
+		max-width: 100%; 
+	}
+
+
+
+h1 {
+	font-family: Serif; font-size: 10em;
+	margin: 0 0 0.1em 0;
+}
+
+h2 {
+	font-size: 3em; text-transform: uppercase; line-height: 1.5em;  margin: 0 0 1.3em 0;
+}
+	h2 span {
+		font-size: 2.05em; display: block;
+	}
+
+p {
+	font-size: 2em; 
+}
+	
+a {
+ color: #ded7bd; text-decoration: none;
+}
+	a:hover {
+		color: #af9a77;
+	}
+	

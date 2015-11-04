@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+	<title>{% if page.title %}{{ page.title }}{% endif %} - {{ site.title }}</title>
+	<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+	<meta name="author" content="Roger Stringer">
+
+	<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="/rss.xml" />
+	<link rel="alternate" type="application/rss+xml" title="{{ site.title }} with link posts pointed to {{ site.title }}" href="/rss-alternate.xml" />
+
+	<meta property="article:author" content="604781976">
+<!-- Twitter Cards -->	
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="flybaseio">
+	<meta name="twitter:creator" content="flybaseio">
+	<meta name="twitter:title" content="{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}">
+	<meta name="twitter:description" content="{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}">
+	<meta name="twitter:image" content="{% if page.image %}{{ page.image }}{% else %}http://rogerstringer.com/media/logo.png{% endif %}" />	
+<!-- Facebook Open Graph -->
+	<meta property="og:type" content="{% if page.path contains '_posts' %}article{% else %}website{% endif %}">
+	<meta property="og:title" content="{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}">
+	<meta property="og:site_name" content="{{ site.title }}">
+	<meta property="og:image" content="{% if page.image %}{{ page.image }}{% else %}http://rogerstringer.com/media/logo.png{% endif %}" />	
+	<meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+	<meta property="og:description" content="{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}">
+	<meta property="og:locale" content="en_US">
+
+	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+
+	<link rel="shortcut icon" href="/assets/favicon.ico" type="image/x-icon" />
+	<link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+	<script src="/assets/jquery-2.0.3.min.js"></script>
+	<script src="/assets/bigfoot.min.js"></script>
+<!--
+	<script src="/assets/social.js"></script>
+-->
+	<script src="/assets/js/jquery.fitvids.js"></script>
+	<script src="https://cdn.flybase.io/flybase.js?20150219.a"></script>
+	<script src="/js/camelrelated.js"></script>
+	<script src="/js/prism.js"></script>
+	<script src="/js/rs.js?20150629.a"></script>
+
+	<link rel="author" href="https://plus.google.com/110703673421158974551/posts" />
+
+	<link rel="stylesheet" type="text/css" media="all"  href="/assets/css/bigfoot-default.css" />
+	<link rel="stylesheet" type="text/css" media="all"  href="/assets/css/grid.css" />
+	<link rel="stylesheet" type="text/css" media="all"  href="/assets/css/main.css" />
+	<link rel="stylesheet" type="text/css" media="all"  href="/css/prism.css?12.2e" />
+	<link rel="stylesheet" type="text/css" media="all"  href="/css/style.css?12.4a" />
+{% comment %}
+	if page.url == "/index.html"
+	if page.path contains '_posts' 
+		post
+	else 
+		homepage
+	endif
+	<body class="
+		if page.bodyclass 
+			{{ page.bodyclass }}
+		endif">
+{% endcomment %}
+</head>
+<body class="{% if page.bodyclass %}{{ page.bodyclass }}{% endif %}">
+<div class="page-wrap">
+	<div id="mastheadbackground">&nbsp;</div>
+	<section id="posts">
+		<div id="masthead">
+			<h1><a href="/">Roger Stringer</a>
+			<span id="tinyabout" class="fa_normal">&nbsp;&nbsp;<a href="#" id="tinyhref">About &#x25BE;</a></span></h1>
+			<div id="fullabout" class="fa_normal">
+				<p id="description">
+I'm <a href="/about">Roger Stringer</a>, a <a href="/devops">DevOps</a> engineer, <a href="/code">developer</a>, <a href="/writing">author</a>, <a href="/food">chef</a>, speaker, dad. Founder of <a href="http://flybase.io">Flybase</a>.
+				</p>
+				<nav>
+					<a href="/about">About</a> &#9670;
+					<a href="/speaking">Speaking</a> &#9670; 
+					<a href="/support">Reader Support</a> &#9670; 
+					<a href="/contact">Contact</a>
+				</nav>
+			</div>
+			<div id="navbox" class="fa_normal">
+<script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?zoneid=1698&serve=CVYD42E&placement=rogerstringercom" id="_carbonads_js"></script>
+			</div>
+		</div>
+		<div id="main">

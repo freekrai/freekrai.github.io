@@ -1,15 +1,80 @@
 ---
 layout: default
 ---
-<div class="post">
-
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-  </header>
-
-  <article class="post-content">
-    {{ content }}
-  </article>
-
-</div>
+<article>
+	<header>
+		<h2>
+		{% if page.link %}
+		<a href="{{ page.link }}" class="post-title linked">{{ page.title }} <span class="link-arrow">&rarr;</span></a>
+		{% else %}
+		<a class="post-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+		{% endif %}
+		</h2>
+		<div class="meta">
+			<span class="postDate">
+				<i class="fa fa-calendar"></i> <time class="time" dateTime="{{ page.date | date: "%Y-%m-%d" }}">{{ page.date | date: "%b %-d, %Y" }}</time>
+			</span>
+			{% if page.tags.size > 0 %}
+			<span class="tag">
+				<i class="fa fa-tag"></i> 
+				{% for tag in page.tags %}
+				<a href="/tags/{{ tag | downcase | replace:' ','-'}}" class="tag">{{ tag | capitalize }}</a>
+				{% if forloop.last %}{% else %}, {% endif %}
+				{% endfor %}
+			</span>
+			{% endif %}
+			<a class="permalink" title="Permalink to {{page.title}}" href="{{ page.url }}"><i class="fa fa-anchor"></i></a>
+		</div>
+	</header>
+	<div class="entry">
+		{{ content }}
+		<br />
+		{% assign hasSimilar = '' %}
+		{% for post in site.related_posts %}
+			{% assign postHasSimilar = false %}
+			{% for tag in page.tags %}
+				{% for thisTag in page.tags %}
+					{% if postHasSimilar == false and hasSimilar.size < 6 and post != page and tag == thisTag %}
+						{% if hasSimilar.size == 0 %}
+							<div class="relatedbox">
+							<h3>Theoretically related posts</h3>
+							<ul class="related-posts">
+						{% endif %}
+						<li class="relatedPost">
+						    <a href="{{ post.url }}">{{ post.title }}
+						    {% if post.series %}
+						        (Series: {{ post.series }})
+						    {% endif %}
+						    </a>
+						</li>
+						{% capture hasSimilar %}{{ hasSimilar }}*{% endcapture %}
+						{% assign postHasSimilar = true %}
+					{% endif %}
+				{% endfor %}
+			{% endfor %}
+		{% endfor %}
+		{% if hasSimilar.size > 0 %}
+				</ul>
+			</div>
+		{% endif %}
+	</div>
+	<br />
+	<div id="authorbio">
+		<img alt='' src='//0.gravatar.com/avatar/49d7a2e94ec557de5d277f82cdabc2a3?s=96&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D96&amp;r=G' class='avatar avatar-96 photo' height='96' width='96' />
+		<p>
+			<strong>Roger Stringer</strong> spends most of his time solving problems for people, and otherwise occupying himself with being a dad, cooking, speaking, learning, writing, reading, and the overall pursuit of life. He lives in Penticton, BC.
+		</p>
+		<p class="author-meta">
+			Connect:
+			<a href="https://twitter.com/freekrai">Twitter</a>&nbsp;|&nbsp;
+			<a href="https://www.google.com/+RogerStringer">Google+</a>
+			<br />
+			This content is <a href="/support">supported by readers like you.</a>
+		</p>
+	</div>
+</article>
+<script type='text/javascript'>
+$(function(){
+	var popular = new mostPopular().updatePage("{{ page.url }}", "{{page.title}}");
+});	
+</script>

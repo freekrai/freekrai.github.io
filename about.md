@@ -1,11 +1,53 @@
 ---
 layout: page
+bodyclass: page
 title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I’m Roger Stringer, and I’m a DevOps Engineer, full-stack software developer, [writer](/writing), and speaker in Penticton, British Columbia, Canada.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+This blog is where I write and share. You will see everything from reviews, posts about tech and design, to [food](/tags/food).
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I’m the founder of [Flybase](http://flybase.io/ "Flybase"), a real-time app platform that enables developers to quickly build apps without having to worry about the backend stuff. You can find me blogging at the [Flybase Blog](http://blog.flybase.io) on various topics, and also at the [MVPin30](http://mvpin30.com) blog.
+
+I also work heavily with [Twilio](http://twiliocookbook.com), PHP, Node.js / JavaScript, NoSQL, APIs, [DevOps](http://devops.freekrai.net), and WordPress, so you’ll see some posts about all of these on here, as well as a variety of other topics.
+
+I’m also a dad, music lover and a [chef](/tags/food). I spend my spare time doing fun stuff with my daughter, and cooking up new recipes to post on here as well as on my food blogs.
+
+I’m also a type-2 insulin dependant diabetic, so once in a while, you’ll see some posts related to that as well.
+
+### Additional Endeavors
+
+- I also blog at [MVPin30](http://mvpin30.com/), where we talk about growth hacking, and building MVPs.
+- I can also be found occasionally blogging about [DevOps](http://devops.freekrai.net) at my DevOps blog.
+- I wrote the [Twilio Cookbook](http://www.packtpub.com/twilio-cookbook/book) for Pakt Publishing 
+- Founder, and lead developer at [Freekrai.net](http://freekrai.net)
+- Founder of [WorkerPod.com](http://workerpod.com "WorkerPod"), a job search site that brings together job listings from across the Internet and geared towards tech professionals
+- Developer of the [Jolt Micro Framework](http://joltframework.com) for PHP.
+
+### Colophon
+
+This site is coded by hand in [Coda 2](http://panic.com/coda/) on a 13″ MacBook Pro with Retina, and [Diet Coda](http://panic.com/dietcoda) on an iPad Air 2. It is powered by a modified version of the [Camel.js](https://github.com/DataMcFly/camel/) blog engine by [Casey Liss](http://www.caseyliss.com/) and is hosted on [Heroku](http://heroku.com).
+
+I use [Byword](http://bywordapp.com/) to draft and edit posts, usually on either my MacBook Pro, my iPad, iPad Mini or my iPhone.
+
+### Twitter
+
+- [@freekrai](http://twitter.com/freekrai): My personal account.
+- [@flybaseio](http://twitter.com/flybaseio): My business account.
+- [@rogerstringer_](http://twitter.com/rogerstringer_): A feed of this site’s posts.
+
+### Are you available for consulting?
+
+I’m available for one-on-one and group workflow consultations. I’m a handy guy to have on call when it comes to DevOps, Twilio, Node.js, APIs, PHP or WordPress questions, and I live to speed up workflows and help your company get things working. [Contact me here](/contact "Contact Me").
+
+### Are you available for product reviews,  speaking, etc.?
+
+I am [available for speaking](/contact), depending on availability, on a wide range of topics from startups, DevOps, Twilio, PHP, Node.js, API or WordPress development. Please contact me if you’d like me to speak about these types of opportunities.
+
+I’m always available for product reviews as I enjoy checking out new gadgets, books and apps. [Contact me here](/contact "Contact Me").
+
+### Contact
+
+Feel free to [contact me](/contact "Contact Me") any time about anything!
