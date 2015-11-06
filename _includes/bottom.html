@@ -46,7 +46,7 @@
 		<div class="grid">
 			<div class="row">
 				<div class="col1-5 clearfix">
-					Copyright © 2003-@@CurrentYear@@ Roger Stringer
+					Copyright © 2003-{{ site.time | date: '%Y' }} Roger Stringer
 				</div>
 				<div class="col7-12 offset1" style="text-align:right;">				
 <nav id="socialnav">
@@ -64,7 +64,7 @@
 	</div>
 </footer>
 <script type='text/javascript'>
-$( document ).ready(function() {
+$( document ).ready(function() { 
 //	var popular = new mostPopular();
 //	popular.getPages("#mostpopular");
 });	

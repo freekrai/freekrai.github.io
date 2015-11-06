@@ -1,3 +1,163 @@
-{% include top.html %}
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+	<title>{% if page.title %}{{ page.title }}{% endif %} - {{ site.title }}</title>
+	<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+	<meta name="author" content="Roger Stringer">
+
+	<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="/rss" />
+	<link rel="alternate" type="application/rss+xml" title="{{ site.title }} with link posts pointed to {{ site.title }}" href="/rss-alternate" />
+
+	<meta property="article:author" content="604781976">
+<!-- Twitter Cards -->	
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="flybaseio">
+	<meta name="twitter:creator" content="flybaseio">
+	<meta name="twitter:title" content="{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}">
+	<meta name="twitter:description" content="{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}">
+	<meta name="twitter:image" content="{% if page.image %}{{ page.image }}{% else %}http://rogerstringer.com/media/logo.png{% endif %}" />	
+<!-- Facebook Open Graph -->
+	<meta property="og:type" content="{% if page.path contains '_posts' %}article{% else %}website{% endif %}">
+	<meta property="og:title" content="{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}">
+	<meta property="og:site_name" content="{{ site.title }}">
+	<meta property="og:image" content="{% if page.image %}{{ page.image }}{% else %}http://rogerstringer.com/media/logo.png{% endif %}" />	
+	<meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+	<meta property="og:description" content="{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}">
+	<meta property="og:locale" content="en_US">
+
+	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+
+	<link rel="shortcut icon" href="/assets/favicon.ico" type="image/x-icon" />
+	<link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+	<script src="/assets/jquery-2.0.3.min.js"></script>
+	<script src="/assets/bigfoot.min.js"></script>
+<!--
+	<script src="/assets/social.js"></script>
+-->
+	<script src="/assets/js/jquery.fitvids.js"></script>
+	<script src="https://cdn.flybase.io/flybase.js?20150219.a"></script>
+	<script src="/js/camelrelated.js"></script>
+	<script src="/js/prism.js"></script>
+	<script src="/js/rs.js?20150629.a"></script>
+
+	<link rel="author" href="https://plus.google.com/110703673421158974551/posts" />
+
+	<link rel="stylesheet" type="text/css" media="all"  href="/assets/css/bigfoot-default.css" />
+	<link rel="stylesheet" type="text/css" media="all"  href="/assets/css/grid.css" />
+	<link rel="stylesheet" type="text/css" media="all"  href="/assets/css/main.css" />
+	<link rel="stylesheet" type="text/css" media="all"  href="/css/prism.css?12.2e" />
+	<link rel="stylesheet" type="text/css" media="all"  href="/css/style.css?12.4a" />
+</head>
+<body class="{% if page.bodyclass %}{{ page.bodyclass }}{% endif %}">
+<div class="page-wrap">
+	<div id="mastheadbackground">&nbsp;</div>
+	<section id="posts">
+		<div id="masthead">
+			<h1><a href="/">Roger Stringer</a>
+			<span id="tinyabout" class="fa_normal">&nbsp;&nbsp;<a href="#" id="tinyhref">About &#x25BE;</a></span></h1>
+			<div id="fullabout" class="fa_normal">
+				<p id="description">
+I'm <a href="/about">Roger Stringer</a>, a <a href="/devops">DevOps</a> engineer, <a href="/code">developer</a>, <a href="/writing">author</a>, <a href="/food">chef</a>, speaker, dad. Founder of <a href="http://flybase.io">Flybase</a>.
+				</p>
+				<nav>
+					<a href="/about">About</a> &#9670;
+					<a href="/speaking">Speaking</a> &#9670; 
+					<a href="/support">Reader Support</a> &#9670; 
+					<a href="/contact">Contact</a>
+				</nav>
+			</div>
+			<div id="navbox" class="fa_normal">
+<script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?zoneid=1698&serve=CVYD42E&placement=rogerstringercom" id="_carbonads_js"></script>
+			</div>
+		</div>
+		<div id="main">
 {{ content }}
-{% include bottom.html %}
+		</div> <!-- // main -->
+	</section>
+</div>
+<footer class="site-footer">
+	<div class="above-footer">
+		<div class="grid">
+			<div class="row">
+				<div class="col1-5 clearfix">
+					<p>Follow RogerStringer.com posts: <a href="https://twitter.com/rogerstringer_">Twitter</a>, <a href="/rss">RSS feed</a>, or the <a href="/rss-alternate">alternate RSS feed</a> in which link posts always point here first instead of their targets.
+					</p>
+					<p><a href="https://twitter.com/freekrai">Follow @freekrai on Twitter</a> if you’d like.</p>
+					<hr class="soften" />
+					<h3>Topics of Interest</h3>
+					<p>
+						<a href="/reading">The Bookshelf</a>, 
+						<a href="/tags/articles">Articles</a>, <a href="/tags/food">Food</a>, <a href="/tags/links">Links</a>, <a href="/tags/code">Code</a>, <a href="/tags/reviews">Reviews</a>, <a href="/tags/images">Images</a>, <a href="/tags/video">Video</a>, <a href="/tags/audio">Audio</a>,  <a href="/tags/quotes">Quotes</a></p>
+					<hr class="soften" />
+					<h3>Links</h3>
+					<p>
+						<a href="/about">About</a>, 
+						<a href="/speaking">Speaking</a>, 
+						<a href="/writing">Writing</a>, 
+						<a href="/support">Reader Support</a>, 
+						<a href="/contact">Contact</a>,
+						<a href="http://devops.freekrai.net" target="_blank">DevOps</a>,
+						<a href="http://flybase.io" target="_blank">Flybase</a>
+					</p>
+					<br />
+				</div>
+				<div class="col7-12 offset1" style="text-align:left;">
+					<form id="SiteSearch" action="/search" method="get" style="margin-bottom: 2.5em;">
+					<div style="width: 100%;text-align:left;">
+						<input name="s" type="text" value="" placeholder="search here &hellip;" style="">
+						<button type="submit" class="button">&#xf002;</button>
+					</div>
+					</form>
+					<hr class="soften" />
+<h3>Latest <a href="http://www.twitter.com/freekrai">Tweet</a></h3>
+<a class="twitter-timeline" href="https://twitter.com/freekrai" data-widget-id="400363963352748033" data-chrome="noheader nofooter noborders noscrollbar transparent" data-tweet-limit="1">Tweets by @freekrai</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="footer">
+		<div class="grid">
+			<div class="row">
+				<div class="col1-5 clearfix">
+					Copyright © 2003-{{ site.time | date: '%Y' }} Roger Stringer
+				</div>
+				<div class="col7-12 offset1" style="text-align:right;">				
+<nav id="socialnav">
+	<a href="https://twitter.com/freekrai" title="Twitter"><i class="fa fa-twitter"></i></a>&nbsp;&nbsp;
+	<a href="https://www.google.com/+RogerStringer" title="Google+"><i class="fa fa-google-plus"></i></a>&nbsp;&nbsp;
+	<a href="https://github.com/freekrai" title="Github"><i class="fa fa-github"></i></a>&nbsp;&nbsp;
+	<a href="http://instagram.com/freekrai" title="InstaGram"><i class="fa fa-instagram"></i></a>&nbsp;&nbsp;
+	<a href="http://ca.linkedin.com/in/rogerstringer" title="LinkedIn"><i class="fa fa-linkedin"></i></a>&nbsp;&nbsp;
+	<a href="/support" title="Buy Me A Cup Of Coffee"><i class="fa fa-coffee"></i></a>&nbsp;&nbsp;
+	<a href="/rss" class=""><i class="fa fa-rss"></i></a>
+</nav>
+				</div>
+			</div>
+		</div>
+	</div>
+</footer>
+<script type='text/javascript'>
+$( document ).ready(function() {
+//	var popular = new mostPopular();
+//	popular.getPages("#mostpopular");
+});	
+</script>
+<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  
+	ga('create', 'UA-126274-13', 'rogerstringer.com');
+	var pixelRatio = (window.devicePixelRatio >= 1.5) ? "HiDPI" : "1X"; 
+	if (window.devicePixelRatio){
+		ga('set', 'dimension1', pixelRatio );
+	}
+	ga('send', 'pageview');
+</script>
+	</body>
+</html>
