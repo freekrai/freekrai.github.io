@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Stickers: Apple`s latest MacBook Air ad"
+title: "Stickers: Apple's latest MacBook Air ad"
 tags: 
 - "video"
 date: "2014-07-22 19:28:35"
@@ -8,7 +8,9 @@ ogtype: "article"
 bodyclass: "post"
 ---
 
-<span class="embed-youtube" style="text-align:center; display: block;"><iframe allowfullscreen="true" class="youtube-player" frameborder="0" height="390" src="http://www.youtube.com/embed/7PzntWQ-sVY?version=3&rel=1&fs=1&showsearch=0&showinfo=1&iv_load_policy=1&wmode=transparent" type="text/html" width="640"></iframe></span>
+{% raw %}
+<iframe allowfullscreen="true" class="youtube-player" frameborder="0" height="390" src="http://www.youtube.com/embed/7PzntWQ-sVY?version=3&rel=1&fs=1&showsearch=0&showinfo=1&iv_load_policy=1&wmode=transparent" type="text/html" width="640"></iframe>
+{% endraw %}
 
 Not your usual MacBook ad, but an interesting one nonetheless…
 
