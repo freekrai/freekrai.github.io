@@ -10,7 +10,7 @@ bodyclass: "post"
 
 I’m working on a project currently where I am using UUIDs as unique identifiers. PHP doesn’t have a good UUID function for this, so I wrote one that let me generate one.
 
-```php
+{% highlight php %}
 <?php
 function generate_uuid() {
 	return sprintf( '%04x%04x-%04x-%04x-%04x-%04x%04x%04x',
@@ -22,7 +22,7 @@ function generate_uuid() {
 	);
 }
 ?>
-```
+{% endhighlight %}
 
 For anyone who doesn’t know, a UUID, or a Universally Unique Identifier is an identifier standard used in software construction, standardized by the Open Software Foundation (OSF) as part of the Distributed Computing Environment (DCE).
 
@@ -30,9 +30,9 @@ UUIDs are meant to enable distributed systems to uniquely identify information w
 
 A UUID is a 16-octet (128-bit) number. In its canonical form, a UUID is represented by 32 hexadecimal digits, displayed in five groups separated by hyphens, in the form 8-4-4-4-12 for a total of 36 characters (32 alphanumeric characters and four hyphens). For example:
 
-```php
+{% highlight php %}
 a8d5c97d-9978-4b0b-9947-7a95dcb31d0f	
-```
+{% endhighlight %}
 
 There are several versions of UUIDs, in this case the function uses version 4, which is the random UUID generation. This is generally defined as follows
 
