@@ -1,5 +1,9 @@
-@@ Title=Writing
-@@ BodyClass=page
+---
+layout: page
+bodyclass: page
+title: Writing
+permalink: /writing/
+---
 
 I have over fifteen years of experience in developing web copy, ebooks, whitepapers, in-depth guides, print articles and blog content in a variety of verticals. 
 
