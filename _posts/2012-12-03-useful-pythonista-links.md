@@ -16,16 +16,15 @@ To start, one of the most useful resources is the [Pythonista forum](http://omz-
 
 First, to make adding these snippets easier, let’s add some code to download any gist links and create a new script:
 
-Copy the code at this url: “[https://gist.github.com/b0644f5ed1d94bd32805](https://gist.github.com/b0644f5ed1d94bd32805)” and save it as a new script.
-
-Then go to settings > Actions Menu and select to add the script to your actions.
+1. Copy the code at this url: “[https://gist.github.com/b0644f5ed1d94bd32805](https://gist.github.com/b0644f5ed1d94bd32805)” and save it as a new script.
+2. Then go to `Settings > Actions Menu` and select to add the script to your actions.
 
 Now you can copy the gist URL into your browser and then when you open up pythonista and choose “import from gist” from your actions menu, it will add the snippet as a new script.. Handy.. Very handy..
 
 Now, let’s look at DropBox Integration.. This is handy as you can keep all your files in DropBox and sync between devices..
 
-To start, let’s add the ability to [login to DropBox](https://gist.github.com/4034526)  
- Once you add this script, you will have to set up an app at [http://dropbox.com/developers/apps](http://dropbox.com/developers/apps) and make sure it is limited to one folder, rather than all of DropBox.
+1. To start, let’s add the ability to [login to DropBox](https://gist.github.com/4034526)  
+2. Once you add this script, you will have to set up an app at [http://dropbox.com/developers/apps](http://dropbox.com/developers/apps) and make sure it is limited to one folder, rather than all of DropBox.
 
 Now, let’s add the [DropBox sync app](https://gist.github.com/4183134)
 
