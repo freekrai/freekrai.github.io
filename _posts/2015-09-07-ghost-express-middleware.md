@@ -16,9 +16,9 @@ We're going to set this up as a new express app, but you'll see how to go about 
 
 1. Create a new app (or add ghost to your existing express app)
 
-{% highlight javascript %}
+```javascript
 npm install express ghost
-{% endhighlight %}
+```
 
 2. Create a folder called `ghost-app/` this will let us keep our ghost related content in one place, we only need one folder from Ghost and a config file.
 
@@ -26,7 +26,7 @@ npm install express ghost
 
 3. Copy the following `ghost-app/config.js` file, this is the default config.js file, with `/blog/` added to the URLs. _It is very important that these URLs point to `/blog/` or where ever you decide to set up Ghost_
 
-{% highlight javascript %}
+```javascript
 var path = require('path'),
     config;
 
@@ -160,11 +160,11 @@ config = {
 };
 
 module.exports = config;
-{% endhighlight %}
+```
 
 4. Now, we want to create `ghost-app/ghost-in-the-middle.js`:
 
-{% highlight javascript %}
+```javascript
 var ghost = require( 'ghost' )
 
 function processBuffer( buffer, app ){
@@ -193,11 +193,11 @@ function makeGhostMiddleware( options ){
 }
 
 module.exports = makeGhostMiddleware
-{% endhighlight %}
+```
 
 5. Use the included `index.js` to see how to include Ghost
 
-{% highlight javascript %}
+```javascript
 var express = require('express');
 var path = require('path');
 var ghost = require('./ghost-app/ghost-in-the-middle');
@@ -219,7 +219,7 @@ var server = app.listen(3000, function () {
 	
 	console.log('Example app listening at http://%s:%s', host, port);
 });
-{% endhighlight %}
+```
 
 You've now got Ghost running inside your express app via middleware, When you want to edit your ghost theme, you can do that via `ghost-app/content`, this lets you keep your ghost files separate from the rest of your app, you could also just include them in the root.
 
