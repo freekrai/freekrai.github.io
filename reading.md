@@ -46,9 +46,9 @@ permalink: /reading/
 		<div class="fin">~&bull;~</div>
 		<article class="shelf">
 			<p class="book-wrap"><a href="http://amzn.to/1ejdakT"><img src="http://cdn.rogerstringer.com/wp-content/uploads/2014/02/Screenshot-2014-02-02-16.43.04.png" class="book"></a></p>
-			<h2><a href="http://amzn.to/1ejdakT">Being Geek: The Software Developer`s Career Handbook</a></h2>
+			<h2><a href="http://amzn.to/1ejdakT">Being Geek: The Software Developer's Career Handbook</a></h2>
 			<p class="book-author"><span>by:</span> Michael Lopp</p>
-			<p>As a software engineer, you recognize at some point that there`s much more to your career than dealing with code. Is it time to become a manager? Tell your boss he’s a jerk? Join that startup? Author Michael Lopp recalls his own make-or-break moments with Silicon Valley giants such as Apple, Netscape, and Symantec in Being Geek &#8212; an insightful and entertaining book that will help you make better career decisions.</p>
+			<p>As a software engineer, you recognize at some point that there's much more to your career than dealing with code. Is it time to become a manager? Tell your boss he’s a jerk? Join that startup? Author Michael Lopp recalls his own make-or-break moments with Silicon Valley giants such as Apple, Netscape, and Symantec in Being Geek &#8212; an insightful and entertaining book that will help you make better career decisions.</p>
 			<p><a href="http://amzn.to/1ejdakT" class="button">Buy from Amazon</a></p>
 		</article>
 		<div class="fin">~&bull;~</div>
@@ -81,7 +81,7 @@ permalink: /reading/
 			<p class="book-wrap"><a href="http://www.abookapart.com/"><img src="http://cdn.rogerstringer.com/wp-content/uploads/2013/02/content-stategy-for-mobile.jpg" class="book"></a></p>
 			<h2><a href="http://www.abookapart.com/">A Book Apart Books</a></h2>
 			<p class="book-author"><span>by:</span> Various</p>
-			<p>I put Karen McGrane`s book "Content Strategy for Mobile" as the image as it`s a fantastic read, but I endorse the entire collection of A Book Apart books. They are nice and short as well as timely and timeless.</p>
+			<p>I put Karen McGrane's book "Content Strategy for Mobile" as the image as it's a fantastic read, but I endorse the entire collection of A Book Apart books. They are nice and short as well as timely and timeless.</p>
 			<p><a href="http://www.abookapart.com/" class="button">Buy from ABA</a></p>
 		</article>
 		<div class="fin">~&bull;~</div>
@@ -89,15 +89,15 @@ permalink: /reading/
 			<p class="book-wrap"><a href="http://www.amazon.com/gp/product/032145345X?ie=UTF8&tag=phpprof-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=032145345X"><img src="http://cdn.rogerstringer.com/wp-content/uploads/2013/02/designing-the-obvious.jpg" class="book"></a></p>
 			<h2><a href="http://www.amazon.com/gp/product/032145345X?ie=UTF8&tag=phpprof-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=032145345X">Designing The Obvious</a></h2>
 			<p class="book-author"><span>by:</span> Robert Hoekman, jr.</p>
-			<p>Where <em>Don`t Make Me Think</em> talks about web design in general, <em>Designing the Obvious </em>focuses on web <strong>applications</strong>. Robert is an experienced master of user interface in web applications and this book does a fantastic job of sharing practical advice in making yours better.</p>
+			<p>Where <em>Don't Make Me Think</em> talks about web design in general, <em>Designing the Obvious </em>focuses on web <strong>applications</strong>. Robert is an experienced master of user interface in web applications and this book does a fantastic job of sharing practical advice in making yours better.</p>
 			<p><a href="http://www.amazon.com/gp/product/032145345X?ie=UTF8&tag=phpprof-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=032145345X" class="button">Buy from Amazon</a></p>
 		</article>
 		<div class="fin">~&bull;~</div>
 		<article class="shelf">
 			<p class="book-wrap"><a href="http://www.amazon.com/gp/product/0321344758?ie=UTF8&tag=phpprof-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0321344758"><img src="http://cdn.rogerstringer.com/wp-content/uploads/2013/02/dontmakemethink.jpg" class="book"></a></p>
-			<h2><a href="http://www.amazon.com/gp/product/0321344758?ie=UTF8&tag=phpprof-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0321344758">Don`t Make Me Think!</a></h2>
+			<h2><a href="http://www.amazon.com/gp/product/0321344758?ie=UTF8&tag=phpprof-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0321344758">Don't Make Me Think!</a></h2>
 			<p class="book-author"><span>by:</span> Steve Krug</p>
-			<p>It`s funny that we need a book like this, as web designers, to remind us to use our own common sense when designing. There are so many patterns that get ingrained into us on how websites work that we often forget simple things that would make life for our visitors so much easier. This book is short and sweet, which is part of what makes it so great and worth every cent.</p>
+			<p>It's funny that we need a book like this, as web designers, to remind us to use our own common sense when designing. There are so many patterns that get ingrained into us on how websites work that we often forget simple things that would make life for our visitors so much easier. This book is short and sweet, which is part of what makes it so great and worth every cent.</p>
 			<p><a href="http://www.amazon.com/gp/product/0321344758?ie=UTF8&tag=phpprof-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0321344758" class="button">Buy from Amazon</a></p>
 		</article>
 		<div class="fin">~&bull;~</div>
@@ -105,7 +105,7 @@ permalink: /reading/
 			<p class="book-wrap"><a href="http://www.amazon.com/gp/product/0321821688/ref=as_li_ss_tl?ie=UTF8&tag=phpprof-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0321821688"><img src="http://cdn.rogerstringer.com/wp-content/uploads/2013/02/implementing-responsive-design.jpg" class="book"></a></p>
 			<h2><a href="http://www.amazon.com/gp/product/0321821688/ref=as_li_ss_tl?ie=UTF8&tag=phpprof-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0321821688">Implementing Responsive Design</a></h2>
 			<p class="book-author"><span>by:</span>  Tim Kadlec</p>
-			<p>Maybe you "get" responsive design. It`s all about fluid grids, and media queries and making things fit. But there are about a million things that can go wrong or stand in your way of doing that right, starting with your very approach to the project. It also gets into how your server can help. RWD doesn`t need to be exclusively a front end endeavour.</p>
+			<p>Maybe you "get" responsive design. It's all about fluid grids, and media queries and making things fit. But there are about a million things that can go wrong or stand in your way of doing that right, starting with your very approach to the project. It also gets into how your server can help. RWD doesn't need to be exclusively a front end endeavour.</p>
 			<p><a href="http://www.amazon.com/gp/product/0321821688/ref=as_li_ss_tl?ie=UTF8&tag=phpprof-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0321821688" class="button">Buy from Amazon</a></p>
 		</article>
 		<div class="fin">~&bull;~</div>
@@ -121,15 +121,15 @@ permalink: /reading/
 			<p class="book-wrap"><a href="http://www.amazon.com/gp/product/0321643380?ie=UTF8&tag=phpprof-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0321643380"><img src="http://cdn.rogerstringer.com/wp-content/uploads/2013/02/handcrafted_css.png" class="book"></a></p>
 			<h2><a href="http://www.amazon.com/gp/product/0321643380?ie=UTF8&tag=phpprof-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0321643380">Handcrafted CSS</a></h2>
 			<p class="book-author"><span>by:</span> Dan Cederholm</p>
-			<p>This is the most modern CSS book out there right now. It covers using CSS3 in a progressive enhancement style to do very cool things in modern browsers and perfectly acceptable things in older browsers. Dan has a great casual-yet-masterful style full of humor and can`t miss information.</p>
+			<p>This is the most modern CSS book out there right now. It covers using CSS3 in a progressive enhancement style to do very cool things in modern browsers and perfectly acceptable things in older browsers. Dan has a great casual-yet-masterful style full of humor and can't miss information.</p>
 			<p><a href="http://www.amazon.com/gp/product/0321643380?ie=UTF8&tag=phpprof-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0321643380" class="button">Buy from Amazon</a></p>
 		</article>
 		<div class="fin">~&bull;~</div>
 		<article class="shelf">
 			<p class="book-wrap"><a href="http://www.amazon.com/dp/0307720683/ref=rdr_ext_tmb&tag=phpprof-20"><img src="http://cdn.rogerstringer.com/wp-content/uploads/2013/02/book-of-better.png" class="book"></a></p>
-			<h2><a href="http://www.amazon.com/dp/0307720683/ref=rdr_ext_tmb&tag=phpprof-20">The Book of Better: Life with Diabetes Can`t Be Perfect. Make It Better</a></h2>
+			<h2><a href="http://www.amazon.com/dp/0307720683/ref=rdr_ext_tmb&tag=phpprof-20">The Book of Better: Life with Diabetes Can't Be Perfect. Make It Better</a></h2>
 			<p class="book-author"><span>by:</span> Chuck Eichten</p>
-			<p>I came across this book a couple months ago, and have found it a interesting read, as one diabetic to another diabetic. I`ve done everything to learn as much as I can about it. I`ve made more idiot mistakes-accidentally and on purpose-with diabetes than you think would be safe. I`ve managed to stay very healthy. And by some standards, my life is pretty "normal".</p>
+			<p>I came across this book a couple months ago, and have found it a interesting read, as one diabetic to another diabetic. I've done everything to learn as much as I can about it. I've made more idiot mistakes-accidentally and on purpose-with diabetes than you think would be safe. I've managed to stay very healthy. And by some standards, my life is pretty "normal".</p>
 			<p><a href="http://www.amazon.com/dp/0307720683/ref=rdr_ext_tmb&tag=phpprof-20" class="button">Buy from Amazon</a></p>
 		</article>
 		<div class="fin">~&bull;~</div>
@@ -137,7 +137,7 @@ permalink: /reading/
 			<p class="book-wrap"><a href="http://www.amazon.com/Building-iPhone-Apps-HTML-JavaScript/dp/0596805780/ref=sr_1_1?ie=UTF8&qid=1336147490&sr=8-1&tag=phpprof-20"><img src="http://cdn.rogerstringer.com/wp-content/uploads/2013/02/building-iphone-apps.jpg" class="book"></a></p>
 			<h2><a href="http://www.amazon.com/Building-iPhone-Apps-HTML-JavaScript/dp/0596805780/ref=sr_1_1?ie=UTF8&qid=1336147490&sr=8-1&tag=phpprof-20">Building iPhone Apps with HTML, CSS, and JavaScript: Making App Store Apps Without Objective-C or Cocoa</a></h2>
 			<p class="book-author"><span>by:</span> Jonathan Stark</p>
-			<p>This book is a handy starting point for getting into PhoneGap development, and learning to use JQTouch. With this book, you`ll learn how to use these open source web technologies to design and build apps for the iPhone and iPod Touch on the platform of your choice-without using Objective-C or Cocoa.</p>
+			<p>This book is a handy starting point for getting into PhoneGap development, and learning to use JQTouch. With this book, you'll learn how to use these open source web technologies to design and build apps for the iPhone and iPod Touch on the platform of your choice-without using Objective-C or Cocoa.</p>
 			<p><a href="http://www.amazon.com/Building-iPhone-Apps-HTML-JavaScript/dp/0596805780/ref=sr_1_1?ie=UTF8&qid=1336147490&sr=8-1&tag=phpprof-20" class="button">Buy from Amazon</a></p>
 		</article>
 		<div class="fin">~&bull;~</div>
