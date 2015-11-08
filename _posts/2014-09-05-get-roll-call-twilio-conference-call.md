@@ -20,7 +20,7 @@ So, today, we’re going to show you how to set up a roll call system. To do thi
 
 First, let’s set up the non-moderated caller TwiML when participants call in:
 
-```markup
+```javascript
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
 	<Say>The conference will begin when the moderator joins</Say>
@@ -36,7 +36,7 @@ Callers who call into this number will be met with a message that the conference
 
 Second, we need the TwiML for moderators. So that when a moderator joins, we could append an `action` on to the `<Dial>` that would trigger a call to a file which would then announce the end of the conference.
 
-```markup
+```javascript
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
 	<Dial action="rollcall.php" method="POST" hangupOnStar="true" timeLimit="1800">
