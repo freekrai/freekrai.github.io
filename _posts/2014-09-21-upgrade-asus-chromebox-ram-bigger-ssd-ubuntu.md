@@ -24,7 +24,8 @@ The model I picked up, the [M004U][1] has the following specs:
   
 This post will cover how to go about upgrading the hardware, and get it up and running in a dual boot mode to ChromeOS and Chrubuntu.  
   
-Here are the parts I used;  
+Here are the parts I used:
+  
 * ASUS CHROMEBOX-M004U Desktop PC Celeron 2955U (1.4GHz) 2GB DDR3 16GB SSD HDD from [Amazon][1]
 * Crucial 8GB Kit (4GBx2) DDR3/DDR3L 1600 MT/s (PC3-12800) CL11 SODIMM 204-Pin 1.35V/1.5V Memory For Mac CT2C4G3S160BM from [Amazon][2]
 * MyDigitalSSD SC2 Super Cache 2 42mm SATA III 6G M.2 NGFF M2 SSD Solid State Drive (128GB) From [Amazon][3]
@@ -33,7 +34,7 @@ I also had a wireless Logitech k360 keyboard and mouse I could use, as well as a
   
 ### Getting into the Hardware
 
-  First off, you don't need to make any kind of system image before modifying the unit, you can simply remove the installed SSD and RAM and insert your new parts and go from there. In the instructions below, you'll make a USB stick that can be used to restore the disk to a factory fresh image of Chrome OS.  
+First off, you don't need to make any kind of system image before modifying the unit, you can simply remove the installed SSD and RAM and insert your new parts and go from there. In the instructions below, you'll make a USB stick that can be used to restore the disk to a factory fresh image of Chrome OS.  
   
 To do this, first remove the four rubber feet on the bottom of the unit. You may need to use a small flat head screwdriver to help get them off. Don't place them anywhere sticky side down!  
   
