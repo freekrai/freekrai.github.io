@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "AnandTech’s Microsoft Surface Book review" 
 date: 2015-11-10T17:18:34.327Z 
 link: http://www.anandtech.com/show/9767/microsoft-surface-book-2015-review 
