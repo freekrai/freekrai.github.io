@@ -1,6 +1,5 @@
 ---
 layout: post 
-published: false 
 title: "The iPad Pro’s nifty battery trick" 
 date: 2015-11-11T16:00:34.459Z 
 link: http://techcrunch.com/2015/11/11/test-2/ 
