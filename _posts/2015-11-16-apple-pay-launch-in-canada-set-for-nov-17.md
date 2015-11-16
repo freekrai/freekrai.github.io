@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true
 title: "Apple Pay Launch in Canada Set for Nov. 17" 
 date: 2015-11-16T23:40:47.376Z 
 link: http://www.iphoneincanada.ca/news/amex-apple-pay-launch-nov-17/ 
