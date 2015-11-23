@@ -14,7 +14,7 @@ I've mentioned using Chromebooks [^1] and Chromeboxes [^2] a few times before.
 
 But I thought I'd compare a couple Chromebook models as I recently got to try a few different ones out curtesy of Google.
 
-I'm specifically comparing the [Acer C720P](http://amzn.to/1C7oehq) which I've had for a year and the [Acer C670](http://amzn.to/1N7Ozj9). I'll also talk briefly about the ASUS Flip chromebook.
+I'm specifically comparing the [Acer C720P](http://amzn.to/1C7oehq) which I've had for a year and the [Acer C670](http://amzn.to/1N7Ozj9). I'll also talk briefly about the [ASUS Flip](http://amzn.to/1N7Qm87) chromebook.
 
 ---
 
