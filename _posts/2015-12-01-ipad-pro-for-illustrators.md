@@ -1,7 +1,7 @@
 ---
 layout: post 
-published: false 
-title: "iPad Pro, for Illustrators" 
+published: true 
+title: "An Illustrator's Take On The iPad Pro" 
 date: 2015-12-01T23:18:59.745Z 
 link: https://jellystyle.com/2015/12/ipad-pro-for-illustrators 
 tags:
