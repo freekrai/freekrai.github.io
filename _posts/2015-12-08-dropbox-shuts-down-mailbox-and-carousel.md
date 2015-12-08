@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true
 title: "Dropbox shuts down Mailbox and Carousel" 
 date: 2015-12-08T18:39:05.508Z 
 link: https://blogs.dropbox.com/mailbox/2015/12/saying-goodbye/ 
