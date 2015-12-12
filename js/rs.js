@@ -191,12 +191,21 @@ mostPopular.prototype.updatePage = function( url, title ){
 */
 	this.flybaseRef.where({ "key": key }).on('value',function( data ){
 		if( data.count() ){
+			var first = true;
 			data.forEach( function(snapshot) {
 				var item = snapshot.value();
-				item.views = item.views + 1;
-				_this.flybaseRef.update(item._id,item, function(resp) {
-					console.log( key + " updated" );
-				});
+				if( first ){
+					item.views = item.views + 1;
+					_this.flybaseRef.update(item._id,item, function(resp) {
+						console.log( key + " updated" );
+					});
+				}else{
+					// clean up...
+					_this.flybaseRef.deleteDocument(item._id, function(resp) {
+						console.log( item._id + " deleted");
+					});
+				}
+				first = false;
 			});
 		}else{
 			// no count, so never added before..
