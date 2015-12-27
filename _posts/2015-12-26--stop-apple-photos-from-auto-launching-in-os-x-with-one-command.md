@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "    Stop Apple Photos from Auto Launching in OS X with One Command" 
 date: 2015-12-27T05:47:51.019Z 
 link: http://petapixel.com/2015/12/21/stop-apple-photos-from-auto-launching-in-os-x-with-one-command/ 
@@ -14,6 +14,6 @@ bodyclass: post
 > 
 > Melbourne-based photographer Ben Fon tells PetaPixel that all you need to do is Open up Terminal, and enter the following line:
 > 
-> defaults -currentHost write com.apple.ImageCapture disableHotPlug -bool YES
+> `defaults -currentHost write com.apple.ImageCapture disableHotPlug -bool YES`
 > 
 > Then press Enter.
