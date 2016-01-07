@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Why the 2012 non-Retina MacBook Pro still sells" 
 date: 2016-01-07T02:26:34.780Z 
 link: https://marco.org/2016/01/04/md101ll-a 
