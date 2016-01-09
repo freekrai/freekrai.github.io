@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true
 title: "Not cool Uber" 
 date: 2016-01-09T17:41:19.698Z 
 link: https://medium.com/@davecraige/not-cool-uber-194198bed715#.5t51v4mt5 
@@ -21,3 +21,5 @@ Dave Crage:
 > Uber is now officially underpaying drivers
 > 
 > Ok. Uber has gone too far. They have made pushed this issue too much.The frog is going to jump out of the slowly boiling water.
+
+Uber continues to make moves to make them more unpopular with their own drivers (and everyone else). This is just one more move.
