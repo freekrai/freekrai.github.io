@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Apple Has This, Others Do Not" 
 date: 2016-01-13T18:48:20.398Z 
 link: http://mac360.com/2016/01/apple-has-this-others-do-not/ 
