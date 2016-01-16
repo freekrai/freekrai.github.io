@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "iAd App Network will be Discontinued" 
 date: 2016-01-16T05:46:10.798Z 
 link: https://developer.apple.com/news/?id=01152016a 
