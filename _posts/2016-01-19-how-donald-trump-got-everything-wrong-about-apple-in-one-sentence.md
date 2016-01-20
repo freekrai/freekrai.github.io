@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "How Donald Trump Got Everything Wrong About Apple in One Sentence" 
 date: 2016-01-20T00:03:54.464Z 
 link: http://recode.net/2016/01/19/how-donald-trump-got-everything-wrong-about-apple-in-one-sentence/ 
