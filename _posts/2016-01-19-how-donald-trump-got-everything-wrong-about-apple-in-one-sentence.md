@@ -16,7 +16,7 @@ Re/code:
 > 
 > When it comes to understanding technology, as he has proven time and again, Trump doesn’t know what he’s talking about.
 
-This guy is a complete buffoon. He’s either ignorant about the power he’d have as president or being deliberately stupid. 
+This guy is a complete buffoon. I can't tell if he's ignorant about the power he’d have as president or else just being deliberately stupid. 
 
 Either way, he’s proving unfit for the job he wants, let alone the job he has. 
 
