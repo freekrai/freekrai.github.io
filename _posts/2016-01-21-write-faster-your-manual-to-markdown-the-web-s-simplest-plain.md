@@ -1,14 +1,15 @@
 ---
 layout: post
 published: true
-title: "Write Faster: Your Manual to Markdown, the Web's Simplest Plain"
-date: 2016-01-21T17:38:16.011Z
+title: "Write Faster: Your Manual to Markdown"
+date: {}
 link: "https://zapier.com/blog/beginner-ultimate-guide-markdown/"
 tags: 
   - links
 ogtype: article
 bodyclass: post
 ---
+
 
 
 > Writing only requires words, a bit of punctuation, and perhaps some paragraph breaks to organize thoughts. Headings, italicized text, images, fancy quotes, footnotes, bullet points and more are just decoration.
