@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: "Write Faster: Your Manual to Markdown"
-date: {}
+date: 2016-01-21 00:02:09 UTC
 link: "https://zapier.com/blog/beginner-ultimate-guide-markdown/"
 tags: 
   - links
