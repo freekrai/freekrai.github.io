@@ -18,8 +18,6 @@ Cabel Sasser, writing for the Panic blog, on the challenge of making money build
 > 
 > So, once again, we will investigate raising our iOS app prices in 2016, with two hopes: that the awesome customers that love and need these apps understand the incredible amount of work that goes into them and that these people are also willing to pay more for a quality professional app (whereas, say, the casual gamer would not).
 
-Gabe's right, pricing your iOS apps is a tough nut to crack. 
+Gabe is 100% right, pricing your iOS apps is a tough nut to crack. It's tough to know the right apps to develop and even tougher to find the right pricing sweet spot at which to sell them.
 
-Tough to know the right apps to develop and tough to find the right pricing sweet spot at which to sell them.
-
-I'm a fan of Panic's software: Transmit, Coda and Prompt are used by me almost daily in my work, and am looking forward to the release of [Firewatch](http://www.firewatchgame.com/) next week.
+Personally, I am a fan of Panic's software: Transmit, Coda and Prompt are used by me almost daily in my work, and am looking forward to the release of [Firewatch](http://www.firewatchgame.com/) next week.
