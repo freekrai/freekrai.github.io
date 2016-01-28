@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true
 title: "The Panic of Pricing iOs apps" 
 date: 2016-01-28T19:22:35.092Z 
 link: https://panic.com/blog/the-2015-panic-report/ 
@@ -17,7 +17,6 @@ Cabel Sasser, writing for the Panic blog, on the challenge of making money build
 > More and more I’m beginning to think we simply made the wrong type of apps for iOS — we made professional tools that aren’t really “in demand” on that platform — and that price isn’t our problem, but interest is.
 > 
 > So, once again, we will investigate raising our iOS app prices in 2016, with two hopes: that the awesome customers that love and need these apps understand the incredible amount of work that goes into them and that these people are also willing to pay more for a quality professional app (whereas, say, the casual gamer would not).
-
 
 Gabe's right, pricing your iOS apps is a tough nut to crack. 
 
