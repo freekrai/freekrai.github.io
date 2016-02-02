@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Apple Press Event: March 15" 
 date: 2016-02-02T23:19:58.682Z 
 link: http://www.buzzfeed.com/johnpaczkowski/apple-to-debut-new-ipad-smaller-iphone-at-march-15-event#.woq0D2DOR 
