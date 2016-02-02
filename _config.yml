@@ -10,11 +10,10 @@ twitter_username: freekrai
 github_username:  freekrai
 
 # Build settings
-#markdown: kramdown
-markdown: redcarpet
+markdown: kramdown
 redcarpet:
   extensions: ["smart", "tables", "no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", "with_toc_data", "footnotes"]
-highlighter: pygments
+highlighter: rouge
 paginate: 10
 permalink: pretty
 
