@@ -1,7 +1,7 @@
 ---
 layout: post 
 published: true
-title: "The Panic of Pricing iOs apps" 
+title: "The Panic of Pricing iOS apps" 
 date: 2016-01-28T19:22:35.092Z 
 link: https://panic.com/blog/the-2015-panic-report/ 
 tags:
