@@ -40,7 +40,7 @@ First, You will need to create an account with [Heroku](http://www.heroku.com), 
 
 Then you'll need to download the latest version of the Heroku tool-belt [here](https://toolbelt.heroku.com/). Once the download has finished you will be able to use `heroku` commands from the command line. _(You'll see why you want to do this in step 3)_
 
-#### Step 1 — Push the button
+#### 1. Push the button
 
 In your browser, go to: `https://github.com/ParsePlatform/parse-server-example`, this is a sample node.js app that uses express.js and parse server to 
 
@@ -48,7 +48,7 @@ You'll see a purple button here that says `Deploy to heroku`.
 
 Press it, press it right now.
 
-#### Step 2 — Prepare the app with Heroku
+#### 2. Prepare the app with Heroku
 
 Heroku's one button deploys are handy for creating a new app, when you clicked the button in step 1, it took you to a page inside Heroku that asked you to name your app, give it a nice random name, or Heroku will name it for you.
 
@@ -68,7 +68,7 @@ Once done, you can enter your parse server app by the [https://NAME_OF_YOUR_HERO
 
 This is placeholder text, and tells you it worked.
 
-#### Step 3 — Modifying your parse server
+#### 3. Modifying your parse server
 
 From the terminal, you want to use the Heroku toolbelt I mentioned before step 1 to download your Heroku'd Parse server and make changes.
 
