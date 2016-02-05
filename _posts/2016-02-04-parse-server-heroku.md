@@ -188,7 +188,7 @@ The biggest feature that is missing is Push Notifications. But as it happens, it
 
 Background jobs was another feature missing, but you can look at queue systems or cron jobs to replace them easily. I also plan to write about migrated background jobs to `node-cron` scheduled jobs.
 
-I also recommend installing the free new relic add-on inside your heroku app for handy analytics.
+I also recommend installing the free `New Relic` add-on inside your heroku app for handy analytics.
 
 ### Is Heroku really free?
 
