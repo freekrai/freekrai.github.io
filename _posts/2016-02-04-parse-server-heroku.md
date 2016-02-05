@@ -190,7 +190,7 @@ Background jobs was another feature missing, but you can look at queue systems o
 
 I also recommend installing the free new relic add-on inside your heroku app for handy analytics.
 
-## Is Heroku really free?
+### Is Heroku really free?
 
 Yes and no, when you first start out, it's free, but when you are ready to actually use your Parse Server apps then you'll want to look at the [$7 hobby plan](https://www.heroku.com/pricing) at least, the reason for this is because free heroku apps are required to sleep after 30 minutes of inactivity and must sleep for 6 hours in a 24 hour period. This is fine for development, but when ready to actually make use of it, you want to upgrade to the hobby plan for starters. 
 
