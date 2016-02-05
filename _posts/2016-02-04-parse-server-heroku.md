@@ -186,7 +186,7 @@ It is worth mentioning that several features that made Parse really useful, will
 
 The biggest feature that is missing is Push Notifications. But as it happens, it's pretty easy to add Push Notification support to node.js, and I'll cover in a later tutorial just how to add Push to your new Parse Server.
 
-Background jobs was another feature missing, but you can look at queue systems or cron jobs to replace them easily. I also plan to write about migrated background jobs to `node-cron` scheduled jobs.
+Background jobs was another feature missing, but you can look at queue systems or cron jobs to replace them easily. I also plan to write about migrated background jobs to a queued jobs setup.
 
 I also recommend installing the free `New Relic` add-on inside your heroku app for handy analytics.
 
