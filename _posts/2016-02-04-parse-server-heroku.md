@@ -12,7 +12,7 @@ bodyclass: post
 
 Last week, Parse announced they would be shutting down their hosting by January 28th 2017, and like just about every other developer out there, I immediately started playing around with their open sourced [Parse Server](https://github.com/ParsePlatform/parse-server), and setting it up on Heroku.
 
-For some background, I actually host most of my apps on Flybase (for data), Github Pages or S3 (for frontend) and Heroku for quick node.js apps. I also use Digital Ocean or AWS EC2 for other hosting, but I wanted to demonstrate how to quickly host Parse Server on Heroku first, I'll show how to set Parse Server up on Digital Ocean and AWS EC2 later in other posts.
+_For the record, I actually host most of my apps on Flybase (for data), Github Pages or S3 (for frontend) and Heroku for quick node.js apps. I also use Digital Ocean or AWS EC2 for other hosting, but I wanted to demonstrate how to quickly host Parse Server on Heroku first, I'll show how to set Parse Server up on Digital Ocean and AWS EC2 later in other posts._
 
 Parse Server is actually a pretty nicely written library, and I've even forked it to include [Flybase](https://flybase.io) support instead of Mongo, as well as having a version that supports multiple apps in one install, but today we'll look at simply getting Parse Server running on Heroku.
 
