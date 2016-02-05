@@ -18,6 +18,8 @@ Parse Server is actually a pretty nicely written library, and I've even forked i
 
 ---
 
+### Some Background
+
 Until this week, if you were a Parse user, then you did not need to know how your client side code interacted with your Parse database, and even now, you just need a vague understanding of how it works.
 
 But, there is a lot happening behind the scenes when you host your own `Parse Server`.  So, now that you are going to be hosting it yourself, you should understand how some of it works.
@@ -30,13 +32,13 @@ That means that all you have to keep in mind when explaining how your self-hoste
 2. Server-side code that receives and processes these requests
 3. A Database where the server-side code stores and retrieves data from.
 
-Previously, Parse took care of all of this, but now, we have to arrange our mongo database and server. Luckily, Heroku and Mongolabs work together nicely and almost automatic in this process. 
+Previously, Parse took care of all of this, but now, we have to setup our mongo database and web server. Luckily, Heroku and Mongolabs work together nicely and _almost_ automatically in this process. 
 
 ### Let's get started already!
 
-First, You will need to create an account with [Heroku](http://www.heroku.com), it’s free and quick, so go create one now if you haven't already.
+First, You will need to create an account with [Heroku](http://www.heroku.com), so go create one now if you haven't already.
 
-Then you need to download the latest version of the Heroku tool-belt [here](https://toolbelt.heroku.com/). Once the download has finished you will be able to use heroku commands from the command line._ (You'll see why you want to do this in step 3)_
+Then you'll need to download the latest version of the Heroku tool-belt [here](https://toolbelt.heroku.com/). Once the download has finished you will be able to use `heroku` commands from the command line. _(You'll see why you want to do this in step 3)_
 
 #### Step 1 — Push the button
 
@@ -150,7 +152,7 @@ Your queries all work the same as before.
 
 ---
 
-It is worth noting, that several features that made Parse really useful, will not be available in your parse server. 
+It is worth mentioning that several features that made Parse really useful, will not be available in your parse server right away.
 
 The biggest feature that is missing is Push Notifications. But as it happens, it's pretty easy to add Push Notification support to node.js, and I'll cover in a later tutorial just how to add Push to your new Parse Server.
 
@@ -158,4 +160,4 @@ I also recommend installing the free new relic add-on inside your heroku app for
 
 ### Still Confused?
 
-If you have more questions about Parse Server, setting up push notifications, moving your data from Parse to MongoDB _or Flybase_, then just feel free to [get in touch](http://rogerstringer.com/contact/) at anytime and I'll be happy to answer any questions or lend a hand or two.
+If you have questions about Parse Server, setting up push notifications, moving your data from Parse to MongoDB _or Flybase_, then just feel free to [get in touch](/contact/) at anytime and I'll be happy to answer any questions or lend a hand or two.
