@@ -142,6 +142,36 @@ When you change code locally, it isn't updated on Heroku automatically, so you h
 
 Also, where you see `My first commit`, it helps to update that to reflect any changes you've made.
 
+#### About Cloud Code
+
+you may have noticed this line:
+
+```javascript
+  cloud: process.env.CLOUD_CODE_MAIN || __dirname + '/cloud/main.js',
+```
+
+This tells your server where your cloud code is located. [Cloud code](https://parse.com/docs/cloudcode/guide) is a feature from Parse that serves as short functions that you can call quickly via HTTP requests such as this one:
+
+```javascript
+curl -X POST \
+	-H "X-Parse-Application-Id: myAppId" \
+	-H "Content-Type: application/json" \
+	-d '{}' \
+	https://NAME_OF_YOUR_HEROKU_APP.herokuapp.com/parse/functions/hello
+```
+
+When you migrate from Parse to a self-hosted Parse Server, you can also move over any cloud code you've set up so that you just call it when you want to work with it.
+
+The default, included cloud code function is:
+
+```javascript
+Parse.Cloud.define('hello', function(req, res) {
+	res.success('Hi');
+});
+```
+
+Which means when you make the HTTP request above, you get a return of `Hi`, where `hello` is the name of the function you created. You can have as many function as you want, and they all serve different purposes.
+
 #### FINISHED
 
 You can now use your client side Parse code just as you always did, and  works as it did before. 
@@ -155,6 +185,8 @@ Your queries all work the same as before.
 It is worth mentioning that several features that made Parse really useful, will not be available in your parse server right away.
 
 The biggest feature that is missing is Push Notifications. But as it happens, it's pretty easy to add Push Notification support to node.js, and I'll cover in a later tutorial just how to add Push to your new Parse Server.
+
+Background jobs was another feature missing, but you can look at queue systems or cron jobs to replace them easily. I also plan to write about migrated background jobs to `node-cron` scheduled jobs.
 
 I also recommend installing the free new relic add-on inside your heroku app for handy analytics.
 
