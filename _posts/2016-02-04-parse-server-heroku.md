@@ -190,6 +190,12 @@ Background jobs was another feature missing, but you can look at queue systems o
 
 I also recommend installing the free new relic add-on inside your heroku app for handy analytics.
 
+## Is Heroku really free?
+
+Yes and no, when you first start out, it's free, but when you are ready to actually use your Parse Server apps then you'll want to look at the [$7 hobby plan](https://www.heroku.com/pricing) at least, the reason for this is because free heroku apps are required to sleep after 30 minutes of inactivity and must sleep for 6 hours in a 24 hour period. This is fine for development, but when ready to actually make use of it, you want to upgrade to the hobby plan for starters. 
+
+As I introduce you to posts about deploying Parse Server to other setups such as Digital Ocean and Amazon's AWS instances, you'll get a feel for which pricing plans you prefer.
+
 ### Still Confused?
 
 If you have questions about Parse Server, setting up push notifications, moving your data from Parse to MongoDB _or Flybase_, then just feel free to [get in touch](/contact/) at anytime and I'll be happy to answer any questions or lend a hand or two.
