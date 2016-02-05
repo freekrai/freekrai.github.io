@@ -142,6 +142,14 @@ When you change code locally, it isn't updated on Heroku automatically, so you h
 
 Also, where you see `My first commit`, it helps to update that to reflect any changes you've made.
 
+#### 4. FINISHED
+
+You can now use your client side Parse code just as you always did, and  works as it did before. 
+
+Now instead of connecting to a Parse run server, your client code is connecting directly to your Heroku app, which saves all your data in your MongoDB database. 
+
+Your queries all work the same as before.
+
 #### About Cloud Code
 
 you may have noticed this line:
@@ -171,14 +179,6 @@ Parse.Cloud.define('hello', function(req, res) {
 ```
 
 Which means when you make the HTTP request above, you get a return of `Hi`, where `hello` is the name of the function you created. You can have as many function as you want, and they all serve different purposes.
-
-#### FINISHED
-
-You can now use your client side Parse code just as you always did, and  works as it did before. 
-
-Now instead of connecting to a Parse run server, your client code is connecting directly to your Heroku app, which saves all your data in your MongoDB database. 
-
-Your queries all work the same as before.
 
 ---
 
