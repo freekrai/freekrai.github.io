@@ -1,18 +1,18 @@
 ---
 layout: post 
-published: false 
+published: true
 title: "Peach Lavender Popsicles" 
 date: 2016-02-06T03:48:08.079Z 
 link: https://www.tastemade.com/shows/raw-vegan-not-gross/peach-lavender-popsicles 
 tags:
-  - links
+  - food
 ogtype: article 
 bodyclass: post 
 ---
 
 <script async defer src='https://www.tastemade.com/embd/dist/embd.js'></script><a class='tm-video-embd' href="https://www.tastemade.com/shows/raw-vegan-not-gross/peach-lavender-popsicles">Peach Lavender Popsicles</a>
 
-YOU'LL NEED...
+**YOU'LL NEED...**
 
 - 2 cups almonds, soaked overnight / 4 cups water
 - ½ cup agave nectar
@@ -22,7 +22,7 @@ pinch of salt
 - 1.5 t lavender
 - 2 cups peaches sliced
 
-LET'S GET COOKING...
+**LET'S GET COOKING...**
 
 - Start by making your own almond milk. 
 - Soak almonds overnight (or at least 4 hours), add almonds and water into blender, and blend until smooth. 
