@@ -20,4 +20,6 @@ George Slefo, reporting for Advertising Age:
 > 
 > Come launch, publishers will be able to track analytics and sell ads. Solutions for paywalls were put into place Tuesday. And, crucially, Google will favor AMP sites over others with the same search score in the results it shows consumers, said Richard Gingras, senior director, news and social products at Google.
 
-AMP might be interesting, and it might be a disaster...
+What about a site that already delivers clean HTML markup, minimal-to-no JavaScript, and images that load on demand (or even no images)? 
+
+Why would Google favor an AMP site over such a site in search results?
