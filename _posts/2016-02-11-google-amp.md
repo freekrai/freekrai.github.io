@@ -1,7 +1,7 @@
 ---
 layout: post 
-published: false 
-title: "Google AMP Launch Looms, Designed to Reinvent Mobile Web | Digital - AdAge" 
+published: true 
+title: "Google AMP Launch Looms" 
 date: 2016-02-11T18:14:48.293Z 
 link: http://adage.com/article/digital/google-amp-launch-looms-search-engine-scores-follow/302599/ 
 tags:
