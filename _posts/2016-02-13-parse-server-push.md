@@ -10,8 +10,6 @@ ogtype: article
 bodyclass: post 
 ---
 
-# Adding Push Notifications to your Parse Server App
-
 I was originally going to write about how to use node.js to enable push notifications, but the latest version of Parse Server now includes basic push notification support using [Google Cloud Messaging (GCM)](https://developers.google.com/cloud-messaging/) for Android devices and [Apple Push Notification Service (APNS)](https://developer.apple.com/library/ios/documentation/NetworkingInternet/Conceptual/RemoteNotificationsPG/Chapters/ApplePushService.html) for iOS devices.
 
 Instead, I decided to write about how to enable the built-in push notifications in your Parse Server apps using the updated service. 
