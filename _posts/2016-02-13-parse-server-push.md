@@ -103,7 +103,7 @@ To update your iOS and / or Android apps to use Parse Server instead of Parse, a
 
 _Make sure you update to the [latest versions of the SDKs](https://parse.com/docs/downloads) so that you have support for Parse Server._
 
-For example, if you followed the previous post about [installing Parse Server on Heroku](http://rogerstringer.com/2016/02/04/parse-server-heroku/), then you would point your apps to use: `https://NAME_OF_YOUR_HEROKU_APP.herokuapp.com` _where `NAME_OF_YOUR_HEROKU_APP` is the name of your heroku app you created.
+For example, if you followed the previous post about [installing Parse Server on Heroku](http://rogerstringer.com/2016/02/04/parse-server-heroku/), then you would point your apps to use: `https://NAME_OF_YOUR_HEROKU_APP.herokuapp.com` _where `NAME_OF_YOUR_HEROKU_APP` is the name of your heroku app you created_.
 
 #### Configuring your iOS apps
 
