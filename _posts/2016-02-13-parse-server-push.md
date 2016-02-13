@@ -134,7 +134,9 @@ You should also update your app so that it registers for GCM with both Parse's G
 For example:
 
 ```javascript
-<meta-data android:name="com.parse.push.gcm_sender_id" android:value="id:YOUR_SENDER_ID" />;
+<meta-data 
+	android:name="com.parse.push.gcm_sender_id" 
+	android:value="id:YOUR_SENDER_ID" />;
 ```
 
 ### Viewing Installations
