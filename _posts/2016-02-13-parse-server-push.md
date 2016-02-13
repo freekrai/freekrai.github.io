@@ -179,6 +179,8 @@ Will send a push notification to all registered `ios` or `android` devices. Push
 
 You can now do push notifications to your iOS and Android apps!
 
+---
+
 ### Closing Out
 
 Hopefully, this guide will be useful for seeing how to add push notifications to your Parse Server apps. Parse Server is shaping up to be a handy utility so it's fun to look at the various pieces of it.
