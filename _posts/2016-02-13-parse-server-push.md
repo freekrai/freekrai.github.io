@@ -144,7 +144,8 @@ Once you've configured and updated your apps, you'll be able to see installation
 ```javascript
 curl -X GET \
 	-H "X-Parse-Application-Id: MYAPPID" \
-	-H "X-Parse-Master-Key: myMasterKey" https://NAME_OF_YOUR_HEROKU_APP.herokuapp.com/parse/installations
+	-H "X-Parse-Master-Key: myMasterKey" \ 
+	https://NAME_OF_YOUR_HEROKU_APP.herokuapp.com/parse/installations
 ```
 
 This will show you how many people have your app installed.
@@ -168,7 +169,8 @@ curl -X POST \
 			"title": "Ant-man",
 			"alert": "This is awesome. It is awesome."
 		}
-	}'  https://NAME_OF_YOUR_HEROKU_APP.herokuapp.com/parse/push
+	}' \
+	https://NAME_OF_YOUR_HEROKU_APP.herokuapp.com/parse/push
 ```
 
 Will send a push notification to all registered `ios` or `android` devices. Push notifications are formatted as `title` and `alert` with `alert` being the actual message.
