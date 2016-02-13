@@ -50,7 +50,7 @@ Google Cloud Messages is a lot easier to configure than APNS was _(by the way, i
 
 1. Enable GCM for your Android project in the [Google Developer Console](https://console.developers.google.com/). This will give you your `GCM sender ID`,  which is your project number. The project number should be a large integer like `129437206252`.
 
-2. Go to the [Google developer credentials])https://console.developers.google.com/apis/credentials) page, and create a new API key. This API key is your `GCM API key`. 
+2. Go to the [Google developer credentials](https://console.developers.google.com/apis/credentials) page, and create a new API key. This API key is your `GCM API key`. 
 
 ---
 
