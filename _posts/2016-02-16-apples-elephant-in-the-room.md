@@ -12,12 +12,12 @@ bodyclass: post
 
 Dave Mark: 
 
-> > Alexandra Mintsopoulos, writing for Medium:
-> > 
+> Alexandra Mintsopoulos, writing for Medium:
+>  
 > > I’ve been watching the story about Apple’s “declining software quality” unfold over the past year with amusement but never felt the need to write anything contesting this narrative until John Siracusa (on episode 155 of Accidental Tech Podcast) came to the conclusion that the problem must be real because the story keeps coming back up. To John’s credit, he allowed for the possibility that this is a perception problem but ultimately concluded otherwise because “no one else seems to be disagreeing”. I disagree.
-> > 
-> > And:
-> > 
+>  
+> And:
+>  
 > > Apple’s installed base of users has grown massively over the past few years. Even if you dismiss this as a lagging indicator what you cannot dismiss is that customer satisfaction remains at an all-time high. More importantly, actual usage of Apple’s products and services continues unabated, something you would not expect if Apple’s software quality were truly declining.
 > 
 > Apple’s software has certainly gotten much larger and more complex. That said, I don’t think it’s fair to equate Apple’s scorching hot product sales with any measure of software quality.
