@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "David Smith on Watch Apps Worth Making" 
 date: 2016-02-19T22:08:28.070Z 
 link: https://david-smith.org/blog/2016/02/12/watch-apps-worth-making/ 
