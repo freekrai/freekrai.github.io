@@ -1,7 +1,7 @@
 ---
 layout: post 
-published: false 
-title: "Mailchimp announces all Mandrill users must have paid Mailchimp accounts" 
+published: true 
+title: "Mailchimp announces all Mandrill users must have paid Mailchimp accounts by April 27" 
 date: 2016-02-25T03:38:13.554Z 
 link: http://blog.mailchimp.com/important-changes-to-mandrill/ 
 tags:
