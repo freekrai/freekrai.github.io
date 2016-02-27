@@ -10,6 +10,8 @@ ogtype: article
 bodyclass: post 
 ---
 
+![Mediterranean Shawarma](http://rogerstringer.com/media/shawarma.jpg)
+
 Shawarma is one of my favourite foods. 
 
 ### What you need
