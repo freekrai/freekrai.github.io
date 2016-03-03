@@ -4,6 +4,8 @@ published: true
 title: "The Death of Small Theatres" 
 date: 2016-03-02T03:38:13.554Z 
 image: "http://rogerstringer.com/media/paramount.jpg"
+tags:
+  - articles
 ogtype: article 
 bodyclass: post 
 ---
