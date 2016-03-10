@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Eric Schmidt spotted snapping pics with an Apple iPhone" 
 date: 2016-03-10T19:28:08.499Z 
 link: http://appleinsider.com/articles/16/03/10/alphabet-executive-chairman-eric-schmidt-spotted-snapping-pics-with-an-apple-iphone 
