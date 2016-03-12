@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Chuq Von Rospach on Fixing the Apple App Store" 
 date: 2016-03-12T13:52:17.378Z 
 link: http://www.chuqui.com/2016/03/fixing-the-apple-app-store/ 
