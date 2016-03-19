@@ -1,7 +1,7 @@
 ---
 layout: post 
 published: true 
-title: Apple to Build out Own Cloud Infrastructure" 
+title: "Apple to Build out Own Cloud Infrastructure" 
 date: 2016-03-19T12:48:55.954Z 
 link: http://recode.net/2016/03/16/google-gets-apple-to-jump-aboard-its-cloud-business-though-it-may-not-last/ 
 tags:
