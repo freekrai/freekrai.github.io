@@ -16,10 +16,8 @@ NPR:
 > 
 > “What we actually found is that most of it is, very much, just fashionable and not proven good for your health,” says Dr. Jos Verbeek, a health researcher at the Finnish Institute of Occupational Health.
 
-Standing desks are very _in_ right now. I actually have one from [Oristand](http://oristand.co/) that I'm about to write a review on.
-
-But, I've personally always found standing desks to be one of those things that were just "too good to be true". 
+I actually have a standing desk from [Oristand](http://oristand.co/) that I'm about to write a review on, and I like it but I've also personally always found standing desks to be one of those things that were just "too good to be true". 
 
 As it turns out, I may be partially right. That does not mean you shouldn’t stand, or _at least_, not sit for 10 hours a day but it seems the health benefits have been overblown.
 
-I've found that I like to sit for part of the day, and stand for part of the day but it's nice to be able to switch back and forth, and yes, there are desks that can raise and lower, but the Oristand also lets me quickly tuck it away and use my desk as a desk when I don't feel like standing too.
+I've found that I do like to sit for part of the day, and stand for part of the day but it's nice to be able to switch back and forth, and yes, there are desks that can raise and lower, but the Oristand also lets me quickly tuck it away and use my desk as a desk when I don't feel like standing too.
