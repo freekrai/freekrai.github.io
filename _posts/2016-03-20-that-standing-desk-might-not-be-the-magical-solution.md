@@ -21,3 +21,5 @@ I actually have a standing desk from [Oristand](http://oristand.co/) that I'm ab
 As it turns out, I may be partially right. That does not mean you shouldn’t stand, or _at least_, not sit for 10 hours a day but it seems the health benefits have been overblown.
 
 I've found that I do like to sit for part of the day, and stand for part of the day but it's nice to be able to switch back and forth, and yes, there are desks that can raise and lower, but the Oristand also lets me quickly tuck it away and use my desk as a desk when I don't feel like standing too.
+
+The moral of the story is: _If a standing desk is comfortable for you, then you should definitely use it. But if someone finds a regular desk easier to work with, then let them use that to do their work._
