@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Tim Cook: FBI fight is about a responsibility to help you protect your data" 
 date: 2016-03-21T21:33:03.786Z 
 link: http://www.theverge.com/2016/3/21/11253864/tim-cook-apple-vs-fbi-encryption-case-iphone-event-quote 
