@@ -1,0 +1,15 @@
+---
+layout: post 
+published: false 
+title: "iPhone SE announced: iPhone 6S specs, iPhone 5S size" 
+date: 2016-03-21T21:31:54.441Z 
+link: http://www.theverge.com/2016/3/21/11254078/apple-iphone-se-announced-size-price-release-date 
+tags:
+  - links
+ogtype: article 
+bodyclass: post 
+---
+
+> Apple has just announced the iPhone SE, a new 4-inch smartphone that offers a smaller and cheaper option to the company's flagship iPhone 6S and 6S Plus. It's like a mix between the iPhone 5 and iPhone 6 generations of devices, taking the size and design of one and the latest specs and capabilities of the other. Apple calls the iPhone SE "the most powerful 4-inch smartphone ever."
+> 
+> At the heart of the iPhone SE is the 64-bit Apple A9 processor together with the embedded M9 motion co-processor, the same as the iPhone 6S. That means it can play games just as brilliantly as Apple's current flagship, plus it supports hands-free "Hey Siri" prompting. The camera is also carried over from the 6S, it's the same 12-megapixel iSight camera with a dual-tone flash and the ability to shoot Live Photos and 4K video.
