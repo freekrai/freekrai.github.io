@@ -177,6 +177,20 @@ curl -X POST \
 
 Will send a push notification to all registered `ios` or `android` devices. Push notifications are formatted as `title` and `alert` with `alert` being the actual message.
 
+Push notifications can also be sent from cloud code:
+
+```javascript
+Parse.Push.send({
+	where: { 
+		"deviceType": { "$in": [ "ios",  "android"  ]  }  	  
+	},
+	data: { 
+		"title": "Ant-man",
+		"alert": "This is awesome. It is awesome."
+	}
+}, { useMasterKey: true });
+```
+
 You can now do push notifications to your iOS and Android apps!
 
 ---
