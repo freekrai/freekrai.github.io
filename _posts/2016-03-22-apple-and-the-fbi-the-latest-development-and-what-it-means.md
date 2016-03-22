@@ -1,9 +1,9 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Apple And The FBI: The Latest Development And What It Means" 
 date: 2016-03-22T23:50:24.845Z 
-link: http://www.npr.org/sections/alltechconsidered/2016/03/22/470635439/the-delay-in-the-fbis-clash-with-apple-what-does-it-mean?utm_source=loopinsight.com&utm_medium=referral&utm_campaign=Feed%3A+loopinsight%2FKqJb+(The+Loop)&utm_content=FeedBurner 
+link: http://www.npr.org/sections/alltechconsidered/2016/03/22/470635439/the-delay-in-the-fbis-clash-with-apple-what-does-it-mean
 tags:
   - links
 ogtype: article 
