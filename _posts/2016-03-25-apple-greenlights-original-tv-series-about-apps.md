@@ -1,7 +1,7 @@
 ---
 layout: post 
-published: false 
-title: "Apple’s greenlights original TV series about Apps" 
+published: true 
+title: "Apple greenlights original TV series about Apps" 
 date: 2016-03-26T01:20:13.571Z 
 link: http://www.nytimes.com/2016/03/25/business/media/apples-first-foray-into-original-tv-is-a-series-about-apps.html?_r=0 
 tags:
