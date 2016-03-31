@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Even Microsoft has given up on Windows Phone" 
 date: 2016-03-31T22:24:22.817Z 
 link: http://techcrunch.com/2016/03/31/windows-pwn-windows-phone/ 
