@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Google's Nest closing smart-home company Revolv, bricking devices" 
 date: 2016-04-05T05:22:20.598Z 
 link: http://www.businessinsider.com/googles-nest-closing-smart-home-company-revolv-bricking-devices-2016-4?op=1 
