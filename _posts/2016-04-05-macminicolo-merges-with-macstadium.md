@@ -14,4 +14,4 @@ Big news from Brian Stucki, founder of Macminicolo:
 
 > In short, I’ve decided to sell ownership of Macminicolo and merge it with another company. I will stay on as President of Macminicolo and also serve as a Vice President of the parent company, [MacStadium](http://www.macstadium.com/).
 > 
-> Now, I could just announce this with no explanation and be done with it . I could also write one of those generic acquisition posts focused on sunsets and brands and blah. Instead, I’ll be forthright and real like I’ve always tried to be with customers.
+> Now, I could just announce this with no explanation and be done with it. I could also write one of those generic acquisition posts focused on sunsets and brands and blah. Instead, I’ll be forthright and real like I’ve always tried to be with customers.
