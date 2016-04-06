@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Macminicolo merges with macstadium" 
 date: 2016-04-06T05:29:43.078Z 
 link: https://macminicolo.net/blog/files/Some-changes-here-at-Macminicolo.html 
