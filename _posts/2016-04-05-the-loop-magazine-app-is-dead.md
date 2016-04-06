@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "The Loop Magazine app is dead" 
 date: 2016-04-06T05:27:46.282Z 
 link: http://www.loopinsight.com/2016/04/05/the-loop-magazine-app-is-dead/ 
