@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Jason Snell's 9.7-inch iPad Pro Review" 
 date: 2016-04-07T18:40:35.758Z 
 link: https://sixcolors.com/post/2016/04/97-inch-ipad-pro-review-chocolate-or-vanilla/ 
