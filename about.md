@@ -23,7 +23,7 @@ I’m also a type-2 insulin dependant diabetic, so once in a while, you’ll see
 - I can also be found occasionally blogging about [DevOps](http://devops.freekrai.net) at my DevOps blog.
 - I wrote the [Twilio Cookbook](http://www.packtpub.com/twilio-cookbook/book) for Pakt Publishing 
 - Founder, and lead developer at [Freekrai.net](http://freekrai.net)
-- Founder and Curator of [WeBeRemote](http://weberemote.com), a job search site for remote workers.
+- Founder and Curator of [We Be Remote](http://weberemote.com), a job search site for remote workers.
 - Founder of [WorkerPod.com](http://workerpod.com "WorkerPod"), a job search site that brings together job listings from across the Internet and geared towards tech professionals
 - Developer of the [Jolt Micro Framework](https://github.com/freekrai/jolt) for PHP.
 
