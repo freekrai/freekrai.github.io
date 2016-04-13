@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "GoPro hires Apple designer Daniel Coster; shares jump" 
 date: 2016-04-13T22:57:37.389Z 
 link: http://www.cnbc.com/2016/04/13/gopro-hires-apple-designer-daniel-coster-shares-jump.html 
