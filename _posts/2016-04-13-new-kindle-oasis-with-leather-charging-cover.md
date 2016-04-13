@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "New Kindle Oasis with leather charging cover" 
 date: 2016-04-13T22:28:29.195Z 
 link: http://amzn.to/1VWxFbh 
