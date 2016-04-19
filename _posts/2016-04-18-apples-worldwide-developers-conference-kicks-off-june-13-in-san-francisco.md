@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Apple’s Worldwide Developers Conference Kicks Off June 13 in San Francisco" 
 date: 2016-04-19T01:22:42.976Z 
 link: http://www.apple.com/pr/library/2016/04/18Apples-Worldwide-Developers-Conference-Kicks-Off-June-13-in-San-Francisco.html 
