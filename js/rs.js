@@ -192,13 +192,6 @@ mostPopular.prototype.updatePage = function(url, title){
 	//	get current count and increment it...
 	var cnt = 0;
 	_this.flybaseRef.where({"key": key}).orderBy( {"views":-1} ).on('value').then( function( data ){
-/*
-		var item = data.first().value();
-		item.views = item.views + 1;
-		_this.flybaseRef.update(item._id,item, function(resp) {
-			console.log( key + " updated" );
-		});
-*/
 		var first = true;
 		data.forEach( function(snapshot) {
 			var item = snapshot.value();
