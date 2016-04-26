@@ -2,7 +2,7 @@
 layout: post 
 published: true 
 title: "Avocado Dip" 
-date: 2016-04-25T22:53:11.111Z 
+date: 2016-04-25T08:53:11.111Z 
 tags:
   - food
 ogtype: article 
@@ -30,4 +30,4 @@ Avocados are great as they are flexible and can fit into any type of dishs. This
 3. Chop garlic on your board and mash with 1 teaspoon salt to paste the garlic. Add garlic paste and the red wine vinegar to the food processor.
 4. Place lid on the food processor and turn it on.
 5. While the blade is spinning, stream in extra-virgin olive oil and add hot sauce.
-6. Stop processor, taste dressing and adjust seasonings.
+6. Stop processor, taste dressing and adjust seasonings
