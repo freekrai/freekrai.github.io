@@ -22,7 +22,8 @@ M.G. Siegler:
 > 
 > If this doesn’t happen, the Apple Watch may turn out to be an actual flop. Again, that’s clearly not the case right now. But if the value proposition isn’t consistently raised, this first year of sales may be the equivalent of a movie that opens to huge business, then falls 60% in its second weekend in release, then even more in its third weekend…
 > 
-> So let’s see what this fall has in store in terms of iteration. Then we should have a better sense of the staying power of the device. > 
+> So let’s see what this fall has in store in terms of iteration. Then we should have a better sense of the staying power of the device.
+> 
 > Let’s give it… _time_.
 
 The Apple Watch is far from a _flop_ – nothing that sells millions of copies at $500+ a pop can be called a flop.
