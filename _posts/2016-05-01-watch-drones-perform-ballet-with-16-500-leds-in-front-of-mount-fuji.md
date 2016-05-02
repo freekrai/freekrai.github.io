@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Watch drones perform 'ballet' with 16,500 LEDs in front of Mount Fuji" 
 date: 2016-05-02T03:16:33.673Z 
 link: http://www.theverge.com/2016/5/1/11554648/drone-ballet 
