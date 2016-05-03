@@ -1,7 +1,7 @@
 ---
 layout: post 
-published: false 
-title: "Language Creation Society: Paramount Does Not Own Klingon Language – Consumerist" 
+published: true 
+title: "Language Creation Society: Paramount Does Not Own Klingon Language" 
 date: 2016-05-03T17:13:40.327Z 
 link: https://consumerist.com/2016/04/28/language-creation-society-paramount-does-not-own-klingon-language/ 
 tags:
