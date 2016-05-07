@@ -9,6 +9,7 @@ ogtype: article
 bodyclass: post
 ---
 
+
 I've been a fan of virtual reality since the early days, in fact I even worked in a VR lab back in the late 90s where we mostly just played games on early VR rigs.
 
 Ever since the Oculus Rift came out, I've been a fan of it's premise, and I've owned a couple models, which all worked fine.
@@ -48,7 +49,6 @@ But there are a few things you need to make this experience better.
 #### 4. Game controllers
 
 The GearVR can be used with any pair of standard or bluetooth headphones. That being said, some users have reported audio lag with bluetooth, so wired headphones are recommended. Additionally, the GearVR can be used with Bluetooth Controllers, and some applications require the use of one (noted in content list). Confirmed compatible controllers include:
-
 
 - [Samsung GamePad](http://www.amazon.com/Samsung-EI-GP20HNBEG-Wireless-SmartPhone-GamePad/dp/B00FP825JQ/)
 - [Moga Hero Power](http://amzn.to/1T59zMm)
