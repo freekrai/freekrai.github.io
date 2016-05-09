@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Spotify growing faster since introduction of Apple Music" 
 date: 2016-05-09T22:04:58.722Z 
 link: http://www.reuters.com/article/us-spotify-future-idUSKCN0Y023B 
