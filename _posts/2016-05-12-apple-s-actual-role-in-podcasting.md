@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Apple’s actual role in podcasting" 
 date: 2016-05-12T15:23:45.031Z 
 link: https://marco.org/2016/05/07/apple-role-in-podcasting 
