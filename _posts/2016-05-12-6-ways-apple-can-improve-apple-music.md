@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "6 ways Apple can improve Apple Music" 
 date: 2016-05-12T15:28:36.733Z 
 link: http://www.macworld.com/article/3069552/streaming-services/6-ways-apple-can-improve-apple-music.html 
