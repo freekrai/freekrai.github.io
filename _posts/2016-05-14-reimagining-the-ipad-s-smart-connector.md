@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true
 title: "Reimagining the iPad's Smart Connector" 
 date: 2016-05-14T18:11:57.370Z 
 link: http://www.macworld.com/article/3070099/ios/reimagining-the-ipads-smart-connector.html 
@@ -21,3 +21,5 @@ Dan Moren:
 > Frankly, that doesn’t seem like much to warrant the addition of an entirely new port, especially given Apple’s tendencies towards reducing connectors. So that has me wondering what else Apple might have up its sleeve for the Smart Connector?
 
 As an equally happy iPad Air 2 user, I have to agree with Dan on this.
+
+That connector just doesn't seem like it entirely worth the addition, unless there are more features coming for it, it's very non-Apple-like.
