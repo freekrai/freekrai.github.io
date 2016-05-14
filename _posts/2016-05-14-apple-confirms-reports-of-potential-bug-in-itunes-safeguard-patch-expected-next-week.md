@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true
 title: "Apple confirms reports of potential bug in iTunes; safeguard patch expected next week" 
 date: 2016-05-14T18:16:06.679Z 
 link: http://www.imore.com/apple-confirms-reports-potential-bug-itunes-safeguard-patch-expected-next-week 
