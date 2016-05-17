@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "The iOS 9 keyboard shortcuts window" 
 date: 2016-05-17T16:24:13.523Z 
 link: https://finertech.com/2016/05/14/ios-9-keyboard-shortcuts-contextual/ 
