@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Netflix launches new Internet speed test tool" 
 date: 2016-05-18T20:49:21.092Z 
 link: https://media.netflix.com/en/company-blog/now-available-globally-fast-com-a-new-tool-to-check-your-internet-speed 
