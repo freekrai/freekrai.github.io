@@ -1,16 +1,11 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Google Assistant" 
 date: 2016-05-19T17:08:01.874Z 
-link: http://mjtsai.com/blog/2016/05/19/google-assistant/ 
-tags:
-  - links
 ogtype: article 
 bodyclass: post 
 ---
-
-Google Assistant
 
 [John Gruber](http://daringfireball.net/linked/2016/05/18/google-io-2016):
 
