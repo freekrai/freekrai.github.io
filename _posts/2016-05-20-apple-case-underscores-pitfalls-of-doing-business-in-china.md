@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Apple Case Underscores Pitfalls of Doing Business in China" 
 date: 2016-05-20T16:59:09.020Z 
 link: http://www.nytimes.com/2016/05/19/world/asia/apple-iphone-xintong-tiandi-china.html?_r=0 
