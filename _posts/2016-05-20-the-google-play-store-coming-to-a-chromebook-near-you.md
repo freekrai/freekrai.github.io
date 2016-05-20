@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "The Google Play store, coming to a Chromebook near you" 
 date: 2016-05-20T16:47:47.322Z 
 link: https://chrome.googleblog.com/2016/05/the-google-play-store-coming-to.html 
@@ -20,4 +20,6 @@ bodyclass: post
 > 
 > Google Play will start rolling out in the developer channel with M53 on the ASUS Chromebook Flip, the Acer Chromebook R 11 and the latest Chromebook Pixel. Over time, this will roll out to other Chromebooks in the market too. And, we've also been working with our partners to launch some great new devices specially designed for Play. Stay tuned for more details to come over the next few months.
 
-It's interesting that this will only support Chromebooks with a touchscreen first, then move onto support other Chromebooks
+It's interesting that this will only support Chromebooks with a touchscreen first, then move onto support other Chromebooks.
+
+Interesting, but also makes sense as they would involve the least amount of effort to support Android apps.
