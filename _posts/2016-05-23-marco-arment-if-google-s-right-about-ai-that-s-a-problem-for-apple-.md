@@ -1,0 +1,23 @@
+---
+layout: post 
+published: false 
+title: "Marco Arment: "If Google’s right about AI, that’s a problem for Apple"" 
+date: 2016-05-23T22:28:10.248Z 
+link: https://marco.org/2016/05/21/avoiding-blackberrys-fate 
+tags:
+  - links
+ogtype: article 
+bodyclass: post 
+---
+
+A thoughtful piece by Marco Arment over the weekend:
+
+> Today, Amazon, Facebook, and Google are placing large bets on advanced AI, ubiquitous assistants, and voice interfaces, hoping that these will become the next thing that our devices are for.
+> 
+> If they’re right — and that’s a big “if” — I’m worried for Apple.
+> 
+> Today, Apple’s being led properly day-to-day and doing very well overall. But if the landscape shifts to prioritize those big-data AI services, Apple will find itself in a similar position as BlackBerry did almost a decade ago: what they’re able to do, despite being very good at it, won’t be enough anymore, and they won’t be able to catch up.
+
+That sounds about right to me, but I’m not sure if I entirely accept the premise that the rise of AI assistants will decrease our desire for devices with screens. 
+
+iPhone and Android doomed BlackBerry because people stopped buying BlackBerries. If even we accept the premise that Google Assistant is going to be a big deal that Apple won’t be able to compete with, I’m not sure how that decreases demand for the devices Apple already makes.
