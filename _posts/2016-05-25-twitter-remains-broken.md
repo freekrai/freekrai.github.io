@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Twitter Remains Broken" 
 date: 2016-05-25T16:22:46.348Z 
 link: https://aleenmean.com/2016/05/24/twitter/ 
