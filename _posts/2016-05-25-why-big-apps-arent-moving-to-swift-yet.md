@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Why big apps aren’t moving to Swift (Yet)" 
 date: 2016-05-25T17:30:58.085Z 
 link: https://medium.com/@sandofsky/why-big-apps-arent-moving-to-swift-yet-f8e9a89ef661#.cspz7zrzd 
