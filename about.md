@@ -11,9 +11,9 @@ This blog is where I write and share. You will see everything from reviews, post
 
 I’m the founder of [Flybase](http://flybase.io/ "Flybase"), a real-time app platform that enables developers to quickly build apps without having to worry about the backend stuff. You can find me blogging at the [Flybase Blog](http://blog.flybase.io) on various topics, and also at the [MVPin30](http://mvpin30.com) blog.
 
-I also work heavily with [Twilio](http://twiliocookbook.com), PHP, Node.js / JavaScript, NoSQL, APIs, [DevOps](http://devops.freekrai.net), and WordPress, so you’ll see some posts about all of these on here, as well as a variety of other topics.
+I also work heavily with [Twilio](http://twiliocookbook.com), PHP, Node.js / JavaScript, NoSQL, APIs, [DevOps](http://devops.freekrai.net), Angular.js, and WordPress, so you’ll see some posts about all of these on here, as well as a variety of other topics.
 
-I’m also a dad, music lover and a [chef](/tags/food). I spend my spare time doing fun stuff with my daughter, and cooking up new recipes to post on here as well as on my food blogs.
+I’m also a dad, music lover, comic book collector, [chef](/tags/food) and electric scooter enthusiast. I spend my spare time doing fun stuff with my daughter, and cooking up new recipes to post on here as well as on my food blogs.
 
 I’m also a type-2 insulin dependant diabetic, so once in a while, you’ll see some posts related to that as well.
 
