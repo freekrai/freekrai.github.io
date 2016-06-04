@@ -3,6 +3,7 @@ $( document ).ready(function() {
 	rs.start();
 });
 
+/*
 function include(url, id, parent, success) {
 	var head = document.getElementsByTagName("head")[0], done = false;
 	var script = document.createElement("script");
@@ -15,9 +16,13 @@ function include(url, id, parent, success) {
 			if (typeof success === 'function') success();
 		}
 	};
-	$(parent).append(script);
+	if( id !== "" ){
+		$(parent).append(script);
+	}else{
+		head.appendChild(script);
+	}
 }
-
+*/
 
 function hashCode( str ){
 	if (Array.prototype.reduce){
