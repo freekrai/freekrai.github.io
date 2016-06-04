@@ -3,6 +3,21 @@ $( document ).ready(function() {
 	rs.start();
 });
 
+function include(url, id, parent, success) {
+	var head = document.getElementsByTagName("head")[0], done = false;
+	var script = document.createElement("script");
+	script.src = url;
+	script.id = id;
+	// Attach handlers for all browsers
+	script.onload = script.onreadystatechange = function(){
+		if (!done && (!this.readyState || this.readyState === "loaded" || this.readyState === "complete") ) {
+			done = true;
+			if (typeof success === 'function') success();
+		}
+	};
+	$(parent).append(script);
+}
+
 
 function hashCode( str ){
 	if (Array.prototype.reduce){
