@@ -9,6 +9,10 @@ ogtype: article
 bodyclass: post 
 ---
 
+Avocadoes... the things you can make with them are incredible or just slice them and eat them as is. 
+
+This is a fun recipe that is pretty basic, but tasty.
+
 ### What you need:
 
 - 1 Avocado (pitted)
@@ -17,7 +21,7 @@ bodyclass: post
 - 1/2 tsp Chili powder
 - Sea salt (to taste)
 
-### Instructions
+### How to Make it:
 
 1. Preheat oven to high heat. 
 2. Drizzle the avocado halves with the honey and lime juice.
