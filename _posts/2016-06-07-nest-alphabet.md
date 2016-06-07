@@ -1,7 +1,7 @@
 ---
 layout: post 
-published: false 
-title: "Nest’s time at Alphabet: A “virtually unlimited budget” with no results" 
+published: true 
+title: "Nest’s time at Alphabet: A virtually unlimited budget with no results" 
 date: 2016-06-07T16:00:16.211Z 
 link: http://arstechnica.com/gadgets/2016/06/nests-time-at-alphabet-a-virtually-unlimited-budget-with-no-results/ 
 tags:
