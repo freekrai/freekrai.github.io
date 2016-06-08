@@ -1,7 +1,7 @@
 ---
 layout: post 
-published: false 
-title: "The New App Store: Subscription Pricing, Faster Approvals, and Search Ads" 
+published: true 
+title: "Gruber on The New App Store - Subscription Pricing, Faster Approvals, and Search Ads" 
 date: 2016-06-08T22:39:53.422Z 
 link: http://daringfireball.net/2016/06/the_new_app_store#fn1-2016-06-08 
 tags:
