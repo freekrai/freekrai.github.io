@@ -20,6 +20,8 @@ Glenn Fleishman, again at Macworld:
 
 And the rebuttal from [John Gruber](http://daringfireball.net/linked/2016/06/10/fleishman-app-store-subs):
 
-> What I was told from people at Apple today is that “Content” and “Service” are merely examples of the type of apps that qualify for subscription pricing, and they are willing to accept “all categories and apps that make sense as subscriptions”. They are very much open to feedback from developers on this; will be listening to developers on this next week at WWDC; will have more information about this during WWDC sessions on the new subscription features; and, most importantly, Apple will be providing more details on subscriptions, including a detailed FAQ and updated guidelines, after WWDC.
+> What I was told from people at Apple today is that “Content” and “Service” are merely examples of the type of apps that qualify for subscription pricing, and they are willing to accept “all categories and apps that make sense as subscriptions”. 
+> 
+> They are very much open to feedback from developers on this; will be listening to developers on this next week at WWDC; will have more information about this during WWDC sessions on the new subscription features; and, most importantly, Apple will be providing more details on subscriptions, including a detailed FAQ and updated guidelines, after WWDC.
 > 
 > In short, we don’t have all the answers we need yet. But Apple is aware of the questions.
