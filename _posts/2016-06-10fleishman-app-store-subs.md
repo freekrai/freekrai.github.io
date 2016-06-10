@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Glenn Fleishman: App Store subscriptions don't solve problems for most developers" 
 date: 2016-06-10T16:05:42.977Z 
 link: http://www.macworld.com/article/3081367/ios/app-store-subscriptions-dont-solve-problems-for-most-developers.html 
