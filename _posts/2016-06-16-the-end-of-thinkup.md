@@ -1,13 +1,13 @@
 ---
-layout: post 
-published: false 
-title: "The end of ThinkUp" 
-date: 2016-06-16T19:39:46.681Z 
-link: https://medium.com/@anildash/the-end-of-thinkup-e600bc46cc56#.4sf47uqvb 
+layout: post
+published: true
+title: The end of ThinkUp
+date: {}
+link: 'https://medium.com/@anildash/the-end-of-thinkup-e600bc46cc56#.4sf47uqvb'
 tags:
   - links
-ogtype: article 
-bodyclass: post 
+ogtype: article
+bodyclass: post
 ---
 
 Anil Dash:
