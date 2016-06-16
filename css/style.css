@@ -989,7 +989,7 @@ p.byline {
 }
 
 .post header{
-	text-align: center;	
+    text-align: left;	
     margin-bottom: 15px;
 }
 .post header h2{
