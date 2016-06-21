@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "How to Back Up Everything From All Your Apps and Devices" 
 date: 2016-06-21T16:41:52.417Z 
 link: https://zapier.com/blog/backup-everything/ 
