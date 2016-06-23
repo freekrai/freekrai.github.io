@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Requiem for a Headphone Jack" 
 date: 2016-06-23T15:00:18.475Z 
 link: https://500ish.com/requiem-for-a-headphone-jack-9a5b06613e9c#.35ehij5vw 
