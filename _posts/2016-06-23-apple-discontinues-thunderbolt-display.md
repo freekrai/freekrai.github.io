@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Apple discontinues Thunderbolt Display" 
 date: 2016-06-24T06:04:11.805Z 
 link: http://www.loopinsight.com/2016/06/23/apple-discontinues-thunderbolt-display/ 
