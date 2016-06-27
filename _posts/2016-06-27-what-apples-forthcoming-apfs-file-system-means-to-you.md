@@ -1,7 +1,7 @@
 ---
 layout: post 
-published: false 
-title: " What Apple’s Forthcoming APFS File System Means to You" 
+published: true 
+title: "What Apple’s Forthcoming APFS File System Means to You" 
 date: 2016-06-27T14:59:47.391Z 
 link: http://tidbits.com/article/16584 
 tags:
