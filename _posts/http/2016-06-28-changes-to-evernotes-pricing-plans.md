@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Changes to Evernote’s Pricing Plans" 
 date: 2016-06-28T19:38:41.213Z 
 link: https://blog.evernote.com/blog/2016/06/28/changes-to-evernotes-pricing-plans/ 
@@ -10,7 +10,7 @@ ogtype: article
 bodyclass: post 
 ---
 
-Evernote’s Chris O’Neill has published a blog post explaining price increases coming to the platform. Plus and Premium are now $3.99 and $7.99 a month, respectively, with discounts for annual buyers. For those customers, Plus is now $10 more a year, while Premium has gone up $20.
+Evernote’s [Chris O’Neill has published a blog post](https://blog.evernote.com/blog/2016/06/28/changes-to-evernotes-pricing-plans/) explaining price increases coming to the platform. Plus and Premium are now $3.99 and $7.99 a month, respectively, with discounts for annual buyers. For those customers, Plus is now $10 more a year, while Premium has gone up $20.
 
 But, the big change is this:
 
