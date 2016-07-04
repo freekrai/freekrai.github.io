@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "How AWS came to be" 
 date: 2016-07-04T17:12:02.155Z 
 link: https://techcrunch.com/2016/07/02/andy-jassys-brief-history-of-the-genesis-of-aws/ 
