@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Comparing iPad Pros" 
 date: 2016-07-09T11:20:58.106Z 
 link: https://brooksreview.net/2016/06/comparing-ipad-pros/ 
