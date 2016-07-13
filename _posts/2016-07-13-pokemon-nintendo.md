@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Pokemon Go Drives Nintendo's Shares up" 
 date: 2016-07-13T17:41:27.353Z 
 link: http://www.bloomberg.com/news/articles/2016-07-11/nintendo-s-pokemon-hit-gives-early-taste-of-smartphone-success 
