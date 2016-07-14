@@ -108,24 +108,48 @@ I'm <a href="/about">Roger Stringer</a>, a <a href="/devops">DevOps</a> engineer
 					<p><a href="https://twitter.com/freekrai">Follow @freekrai on Twitter</a> if you’d like.</p>
 					<hr class="soften" />
 					<h3>Topics of Interest</h3>
-					<p>
-						<a href="/reading">The Bookshelf</a>, 
-						<a href="/tags/articles">Articles</a>, <a href="/tags/food">Food</a>, <a href="/tags/links">Links</a>, <a href="/tags/code">Code</a>, <a href="/tags/reviews">Reviews</a></p>
-					<hr class="soften" />
-					<h3>Links</h3>
-					<p>
-						<a href="/about">About</a>, 
-						<a href="/speaking">Speaking</a>, 
-						<a href="/writing">Writing</a>, 
-						<a href="/support">Reader Support</a>, 
-						<a href="/contact">Contact</a>,
-						<a href="http://devops.freekrai.net" target="_blank">DevOps</a>,
-						<a href="http://flybase.io" target="_blank">Flybase</a>, 
-						<a href="http://weberemote.com" target="_blank">We Be Remote!</a>
-					</p>
+					<ul>
+						<li><a href="/reading">The Bookshelf</a></li>
+						<li><a href="/tags/articles">Articles</a></li>
+						<li><a href="/tags/food">Food</a></li>
+						<li><a href="/tags/links">Links</a></li>
+						<li><a href="/tags/code">Code</a></li>
+						<li><a href="/tags/reviews">Reviews</a></li>
+					</ul>
 					<br />
 				</div>
 				<div class="col7-12 offset1" style="text-align:left;">
+					<h3>Links</h3>
+					<ul>
+						<li><a href="/about">About</a></li>
+						<li><a href="/speaking">Speaking</a></li>
+						<li><a href="/writing">Writing</a></li>
+						<li><a href="/support">Reader Support</a></li>
+						<li><a href="/contact">Contact</a></li>
+						<li><a href="http://devops.freekrai.net" target="_blank">DevOps</a></li>
+						<li><a href="http://flybase.io" target="_blank">Flybase</a></li>
+						<li><a href="http://weberemote.com" target="_blank">We Be Remote!</a></li>
+					</ul>
+					<hr class="soften" />
+					<h3>Socially</h3>
+					<ul>
+						<li><a href="https://twitter.com/freekrai" title="Twitter"><i class="fa fa-twitter"></i></a></li>
+						<li><a href="https://www.google.com/+RogerStringer" title="Google+"><i class="fa fa-google-plus"></i></a></li>
+						<li><a href="https://github.com/freekrai" title="Github"><i class="fa fa-github"></i></a></li>
+						<li><a href="http://instagram.com/freekrai" title="InstaGram"><i class="fa fa-instagram"></i></a></li>
+						<li><a href="http://ca.linkedin.com/in/rogerstringer" title="LinkedIn"><i class="fa fa-linkedin"></i></a></li>
+						<li><a href="/support" title="Buy Me A Cup Of Coffee"><i class="fa fa-coffee"></i></a></li>
+						<li><a href="/rss" class=""><i class="fa fa-rss"></i></a></li>
+					</ul>
+{% comment %}
+<h3>Latest <a href="http://www.twitter.com/freekrai">Tweet</a></h3>
+<a class="twitter-timeline" href="https://twitter.com/freekrai" data-widget-id="400363963352748033" data-chrome="noheader nofooter noborders noscrollbar transparent" data-tweet-limit="1">Tweets by @freekrai</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+{% endcomment %}
+				</div>
+			</div>
+			<div class="row" style="text-align:center;">
+					<hr class="soften" />
 					<form id="SiteSearch" action="/search" method="get" style="margin-bottom: 2.5em;">
 					<div style="width: 100%;text-align:left;">
 						<input name="s" type="text" value="" placeholder="search here &hellip;" style="">
@@ -133,10 +157,6 @@ I'm <a href="/about">Roger Stringer</a>, a <a href="/devops">DevOps</a> engineer
 					</div>
 					</form>
 					<hr class="soften" />
-<h3>Latest <a href="http://www.twitter.com/freekrai">Tweet</a></h3>
-<a class="twitter-timeline" href="https://twitter.com/freekrai" data-widget-id="400363963352748033" data-chrome="noheader nofooter noborders noscrollbar transparent" data-tweet-limit="1">Tweets by @freekrai</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-				</div>
 			</div>
 		</div>
 	</div>
@@ -144,9 +164,10 @@ I'm <a href="/about">Roger Stringer</a>, a <a href="/devops">DevOps</a> engineer
 		<div class="grid">
 			<div class="row">
 				<div class="col1-5 clearfix">
-					Copyright © 2003-{{ site.time | date: '%Y' }} Roger Stringer
+					Copyright © 2003-{{ site.time | date: '%Y' }} Roger Stringer (1059105 B.C. LTD)
 				</div>
 				<div class="col7-12 offset1" style="text-align:right;">				
+{% comment %}
 <nav id="socialnav">
 	<a href="https://twitter.com/freekrai" title="Twitter"><i class="fa fa-twitter"></i></a>&nbsp;&nbsp;
 	<a href="https://www.google.com/+RogerStringer" title="Google+"><i class="fa fa-google-plus"></i></a>&nbsp;&nbsp;
@@ -156,6 +177,7 @@ I'm <a href="/about">Roger Stringer</a>, a <a href="/devops">DevOps</a> engineer
 	<a href="/support" title="Buy Me A Cup Of Coffee"><i class="fa fa-coffee"></i></a>&nbsp;&nbsp;
 	<a href="/rss" class=""><i class="fa fa-rss"></i></a>
 </nav>
+{% endcomment %}
 				</div>
 			</div>
 		</div>
