@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Amazon’s AWS buys Cloud9 to add more development tools to its web services stack" 
 date: 2016-07-14T18:25:47.485Z 
 link: https://c9.io/blog/great-news/ 
@@ -18,4 +18,4 @@ Amazon Web Services has made an acquisition to continue building out the service
 
 Founded in 2010, today Cloud9 supports some 40 different programming languages and lets remote teams work together to develop and edit code (with an option of using its online code editor or an Ubuntu workspace) and then test that code across some 300 different combinations of browsers and operating systems.
 
-I use Cloud9 heavily via the self-hosted platform, with it running on a Digital Ocean server and works great between macbook, iPad or chromebook.
+I actually use Cloud9 heavily via the self-hosted platform, with it running on a Digital Ocean server and works great between macbook, iPad or chromebook.
