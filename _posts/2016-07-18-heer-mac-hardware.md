@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Nick Heer on Apple's Aging Mac Lineup and Slumping Sales" 
 date: 2016-07-18T22:16:23.679Z 
 link: http://pxlnv.com/linklog/idc-spring-2016-pc-sales/ 
@@ -20,6 +20,6 @@ Nick Heer, writing at Pixel Envy:
 
 There is definitely something going on, with no new hardware releases in a while, and a new MacOS update looming, we _have_ to get updated MacBook Pros and Mac Pros soon (September?), right?
 
-I'm pretty sure we won't see another update for the MacBook Air. I really do  think the Macbook Air  exists solely to occupy that sub-$1000 price range until Apple can sell a year-old MacBook for $899. 
+I'm pretty sure we won't see another update for the MacBook Air. I really do  think the Macbook Air exists solely to occupy that sub-$1000 price range until Apple can sell a year-old MacBook for $899. Apple did the same thing with the white MacBook a few years ago between the release of the first MacBook Air and the newer MacBook Airs
 
-That said, Apple may roll out a minor speed-bump update to the MacBook Airs, but I really don’t expect them to. The future is just MacBooks and MacBook Pros (and iPad Pros).
+The future is just MacBooks and MacBook Pros (and iPad Pros).
