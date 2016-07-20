@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Pixelmator 2.3 for iOS" 
 date: 2016-07-20T04:52:36.281Z 
 link: http://www.pixelmator.com/ios/ 
