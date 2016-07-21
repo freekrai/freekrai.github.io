@@ -39,8 +39,8 @@ For this dish, I substituted a classic set of ingredients and the result was ama
 7. Remove from the heat and set aside. 
 8. Add the pasta to the boiling pot of water and cook until still chewy and underdone, usually a few minutes less than the package directions suggest (the pasta will finish cooking in the oven).
 9. Drain and rinse with cold water until no longer steaming; set aside.
-10. Return the ricotta mixture to medium heat and stir in the cheeses until melted and smooth. 
+10. Return the ricotta mixture to medium heat and stir in 3/4 of the cheeses until melted and smooth, leave some cheddar for a topping.
 11. Add the rinsed pasta and continue cooking, stirring occasionally, until the pasta is heated through and steaming, about 4 to 5 minutes. 
 12. Taste and season with salt and pepper if needed.
-13. Transfer to a 5-quart baking dish, sprinkle with the panko crumbs, and bake until bubbling and lightly browned on top, about 25 to 30 minutes. 
+13. Transfer to a 5-quart baking dish, sprinkle with the panko crumbs and remaining cheese, and bake until bubbling and lightly browned on top, about 25 to 30 minutes. 
 14. Transfer to a wire rack and let cool for 5 minutes before serving.
