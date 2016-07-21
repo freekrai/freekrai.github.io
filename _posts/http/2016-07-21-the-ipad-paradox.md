@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Michael Gartenberg on The iPad paradox" 
 date: 2016-07-21T19:29:22.574Z 
 link: http://www.imore.com/ipad-paradox 
