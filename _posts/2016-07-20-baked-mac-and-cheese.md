@@ -13,12 +13,14 @@ Mac and Cheese is one of those dishes that you can customize as much as you want
 
 For this dish, I substituted a classic set of ingredients and the result was amazing.
 
+Rather than the usual flour and milk for the sauce, I like to use Ricotta cheese, which sticks to every piece of pasta and combined with a spoonful of lemongrass gives you a nice comforting, and filling dish.
+
 ### What you need
 
 * 10 tablespoons unsalted butter
 * 2 cups panko
 * 1 medium yellow onion, small dice
-* 1 teaspoon lemongrass (optional)
+* 1 teaspoon lemongrass (optional, and to taste)
 * 4 teaspoons kosher salt, plus more as needed
 * 1/2 teaspoon black pepper
 * 1 pound elbow macaroni
