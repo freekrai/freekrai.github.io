@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Google Enhances Crowdsourcing of Its Maps Data" 
 date: 2016-07-21T17:27:58.992Z 
 link: https://www.macstories.net/linked/google-enhances-crowdsourcing-of-its-maps-data/ 
