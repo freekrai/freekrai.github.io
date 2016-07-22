@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "7 Chrome Extensions That Will Change Your (Internet) Life" 
 date: 2016-07-22T21:15:07.969Z 
 link: https://medium.com/product-hunt/7-chrome-extensions-that-will-change-your-internet-life-19ad3ad7a56b#.to8v8ktck 
