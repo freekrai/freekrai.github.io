@@ -1,13 +1,3 @@
-/*
-Theme Name: Roger Stringer 2014
-Theme URI: http://rogerstringer.com/
-Description: The 2014 theme for rogerstringer.com
-Author: Roger Stringer
-Version: 1.2
-Tags: black, blue, white, two-columns, fixed-width, custom-header, custom-background, threaded-comments, sticky-post, translation-ready, microformats, rtl-language-support, editor-style, custom-menu
-Text Domain: rogerstringer2014
-*/
-
 @import url("http://fonts.googleapis.com/css?family=Permanent+Marker|Bangers");
 /*
 font-family: 'Permanent Marker', cursive;
@@ -1001,4 +991,42 @@ p.byline {
 /*  display: block; */
     font-size: 0.9em;
     margin-right: 5px;	
+}
+
+
+.PageNavigation {
+	font-size: 14px;
+	display: block;
+	width: auto;
+	overflow: hidden;
+}
+
+.PageNavigation a {
+	display: block;
+	width: 50%;
+	float: left;
+	margin: 1em 0;
+}
+
+.PageNavigation .next {
+	text-align: right;
+}
+.meta-nav {
+    color: #CF3621;
+}
+
+.nav-links {
+    margin: auto;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 2;
+    font-family: 'Whitney SSm SmallCaps A','Whitney SSm SmallCaps B',Avenir Next,Avenir,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-style: normal;
+}
+
+.nav-links a{
+    color: #333 !important;
+    text-decoration: none;
+    border-bottom: 1px solid #ccc !important;
+    padding-bottom: 2px !important;	
 }
