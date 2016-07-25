@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "The intriguing legal ramifications of Pokémon GO" 
 date: 2016-07-25T20:30:14.044Z 
 link: http://brettterpstra.com/2016/07/25/the-intriguing-legal-ramifications-of-pokemon-go/ 
