@@ -1,7 +1,7 @@
 ---
 layout: post 
-published: false 
-title: "The giant’s fall" 
+published: true 
+title: "The giant’s fall: Yahoo's acquistion by Verizon" 
 date: 2016-07-26T17:52:17.959Z 
 link: https://techcrunch.com/2016/07/25/the-giants-fall/ 
 tags:
