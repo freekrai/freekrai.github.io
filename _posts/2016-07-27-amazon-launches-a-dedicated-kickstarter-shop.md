@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Amazon launches a dedicated Kickstarter shop" 
 date: 2016-07-27T20:40:27.366Z 
 link: https://www.amazon.com/b/?node=13514636011 
