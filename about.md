@@ -17,6 +17,8 @@ I’m also a dad, music lover, film buff, comic book collector, [chef](/tags/foo
 
 I’m also a type-2 insulin dependant diabetic, so once in a while, you’ll see some posts related to that as well.
 
+---
+
 ### Additional Endeavors
 
 - I also blog at [MVPin30](http://mvpin30.com/), where we talk about growth hacking, and building MVPs.
@@ -27,17 +29,23 @@ I’m also a type-2 insulin dependant diabetic, so once in a while, you’ll see
 - Founder of [WorkerPod.com](http://workerpod.com "WorkerPod"), a job search site that brings together job listings from across the Internet and geared towards tech professionals
 - Developer of the [Jolt Micro Framework](https://github.com/freekrai/jolt) for PHP.
 
+---
+
 ### Colophon
 
 This site is coded by hand in [Coda 2](http://panic.com/coda/) on a 13″ MacBook Pro with Retina, and [Diet Coda](http://panic.com/dietcoda) on an iPad Air 2. It is running on Jekyll and hosted on Github via [Github Pages](https://pages.github.com/) .
 
 I use [Byword](http://bywordapp.com/) to draft and edit posts, usually on either my MacBook Pro, my iPad, iPad Mini or my iPhone.
 
+---
+
 ### Twitter
 
 - [@freekrai](http://twitter.com/freekrai): My personal account.
 - [@flybaseio](http://twitter.com/flybaseio): My business account.
 - [@rogerstringer_](http://twitter.com/rogerstringer_): A feed of this site’s posts.
+
+---
 
 ### Are you available for consulting?
 
@@ -48,6 +56,8 @@ I’m available for one-on-one and group workflow consultations. I’m a handy g
 I am [available for speaking](/contact), depending on availability, on a wide range of topics from startups, DevOps, Twilio, PHP, Node.js, API or WordPress development. Please contact me if you’d like me to speak about these types of opportunities.
 
 I’m always available for product reviews as I enjoy checking out new gadgets, books and apps. [Contact me here](/contact "Contact Me").
+
+---
 
 ### Contact
 
