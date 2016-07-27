@@ -48,6 +48,8 @@ I'm excited about taking my writing in this direction and can't wait to show you
 
 #### What books are in the works?
 
-The first book, is a relatively short book, called the [The Little Real-time Web Development Book](https://leanpub.com/real-time-web). This book is useful in learning best-practices in building web apps that use real-time APIs such as Flybase.
+1. The first book, is a relatively short book, called [The Little Real-time Web Development Book](https://leanpub.com/real-time-web). This book is useful in learning best-practices in building web apps that use real-time APIs such as Flybase.
 
-The next planned book is a handy guide to building call centers with Twilio and Flybase using Node.js. I'll talk more about this book as I actually get everything planned out.
+2. The second book, is a collection of handy posts, called [Real-time Twilio](https://leanpub.com/real-time-twilio). This book lets you learn how to use Flybase's real-time API and Twilio's handy communications API to build: a system for sending daily SMS messages, an SMS call center to provide support to users, a call center to handle incoming and outgoing phone calls from the browser, a group messaging system to let groups send messages to each other and a few other handy apps.
+
+3. The next planned book is another Twilio-related book, a handy guide to building complete call centers with Twilio using Node.js. This book will be called [Twilio Master](https://leanpub.com/twilio-master), and I'll talk more about this book as I actually get everything planned out.
