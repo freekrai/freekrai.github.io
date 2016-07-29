@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true
 title: "An Ode to the iPod Classic" 
 date: 2016-07-29T03:38:15.593Z 
 link: https://theringer.com/an-ode-to-the-ipod-classic-629e89681c6e#.meydeub8o 
@@ -12,7 +12,7 @@ bodyclass: post
 
 Lindsay Zoladz, writing about the iPod Classic:
 
-> “Wow,” a man said to me recently on the subway, “I haven’t seen one of those things in years.” He gestured toward the scuffed-yet-still-sleek, aluminum-colored rectangle in my hand — a 160GB sixth generation iPod Classic. I blinked for a moment. We were not talking about, say, a quill pen, a monocle, or a bottle of Crystal Pepsi, but an electronic device I had purchased in 2010.
+> _“Wow,” a man said to me recently on the subway, “I haven’t seen one of those things in years.” He gestured toward the scuffed-yet-still-sleek, aluminum-colored rectangle in my hand — a 160GB sixth generation iPod Classic. I blinked for a moment. We were not talking about, say, a quill pen, a monocle, or a bottle of Crystal Pepsi, but an electronic device I had purchased in 2010._
 > 
 > I knew what he meant, though. Technology moves at hyperspeed. Apple has created and helped universalize a particular kind of planned obsolescence — its products have to go out of fashion and/or break every few years, to ensure you’ll buy a newer one — and as a result, in the eyes of the general public, Last Year’s Model has never looked like more of an antique. The Museum of Modern Art recently hosted an exhibit called “Making Music Modern: Design for Ear and Eye,” which showcased the successive innovations in music players over the past century or so. As I strolled through, the piece that stopped me in my tracks and made me think, wow, look at that dinosaur! was not an old Victrola or a bulkily primitive jukebox — but a first generation iPod, circa 2001, complete with a clunky pre-touch click wheel and (get this) a FireWire port. “Nothing in the world,” writes Ben Lerner in his 2014 novel 10:04, “is as old as what was futuristic in the past.”
 > 
