@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true
 title: "iPad Pro — What’s a Computer?" 
 date: 2016-08-01T22:41:35.500Z 
 tags:
