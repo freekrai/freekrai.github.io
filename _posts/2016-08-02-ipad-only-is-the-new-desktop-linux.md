@@ -28,6 +28,7 @@ Watts Martin:
 > Right after I’d gotten the iPad Pro, I had to do something common for fiction writers: review comments from an editor on a short story of mine, accept or reject their changes, make my own copy edits, and then send the file back in a reply to the original message.
 > 
 > [..]
+> 
 > You can argue that I should just stay within the bounds of the ecosystem I’m supposed to be in. Fuck that. This is plain text. A lot of files we work with are de facto standards: JPEG, Word, HTML, MP3. Downloading an image from a web site, resizing and editing it in an image editor, and uploading it to WordPress — these are things that people do all the time and require coordination between multiple apps, yet don’t demand specific apps.
 > 
 > If you’re going to tell me “normal people” don’t do those tasks, please don’t. Quilters run blogs. Salespeople create presentations. And non-techie writers send revisions to editors. It’s us nerds who insist that iOS solves the “problem” of normal people who don’t understand the file system putting all their files on the desktop. But the desktop acts as shared document storage, which is something it turns out normal people sometimes need, and iOS does not solve that problem. Lecture me about the virtues of containers all you want, but there is no world in which having to use Dropbox as a temporary storage medium is a step forward.
