@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Incipio is buying accessory maker Griffin" 
 date: 2016-08-05T18:25:59.357Z 
 link: http://www.theverge.com/2016/8/5/12388566/incipio-buys-griffin-technology 
