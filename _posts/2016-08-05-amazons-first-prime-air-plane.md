@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Amazon’s first ‘Prime Air’ plane" 
 date: 2016-08-05T18:29:49.823Z 
 link: http://www.recode.net/2016/8/5/12382052/amazon-prime-air-plane 
