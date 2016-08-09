@@ -20,6 +20,6 @@ And [Dave Marks](http://www.loopinsight.com/2016/08/09/the-ipads-unfinished-busi
 
 > Will the next generation of iPads cross the chasm and offer the interface power and usability of the Mac? Will the next generation of MacBook Pros grow closer to the iPad? What if the iPad added a keyboard case with the ability to attach a trackpad and mouse? What if the next MacBook Pro had a touchscreen and could split like the Surface? Will the Mac ever run iOS apps? Or, perhaps, iOS itself?
 
-Jean-Louis and Dave both have a few good points here. I actually find myself wishing the smart keyboard had a trackpad several times, or sometimes an `esc` key, but it's workable and lets me do my work.
+Jean-Louis and Dave both have a few good points here. I actually find myself wishing the smart keyboard had a trackpad several times, or sometimes an `esc` key (_and yes, I know there is a virtual `esc` key, but it's not always available on some apps so it's annoying_), but it's workable and lets me do my work without any problem.
 
-Dave's final question is also good, and has been asked before... Will the iPad become more like the Mac? or will the Mac become more like the Ipad?
+Dave's final question is also good, and has been asked before... Will the iPad become more like the Mac? or will the Mac become more like the Ipad
