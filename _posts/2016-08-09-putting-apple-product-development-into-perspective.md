@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Putting Apple Product Development into Perspective" 
 date: 2016-08-09T15:38:10.997Z 
 link: https://www.macstories.net/linked/putting-apple-product-development-into-perspective/ 
