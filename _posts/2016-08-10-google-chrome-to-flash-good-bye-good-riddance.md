@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Google Chrome to Flash: Good Bye, good riddance" 
 date: 2016-08-10T17:58:57.286Z 
 link: https://chrome.googleblog.com/2016/08/flash-and-chrome.html?m=1 
