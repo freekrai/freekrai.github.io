@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "1Password for Teams and Families incompatible with VPNs" 
 date: 2016-08-15T21:22:30.853Z 
 link: http://dafacto.com/2016/1password-for-teams-and-families-incompatible-with-vpns/ 
