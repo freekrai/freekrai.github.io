@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Uber CEO Travis Kalanick discusses self-driving cars" 
 date: 2016-08-19T15:17:44.740Z 
 link: http://www.businessinsider.com/travis-kalanick-interview-on-self-driving-cars-future-driver-jobs-2016-8 
