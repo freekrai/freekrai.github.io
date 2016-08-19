@@ -1,11 +1,10 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Andre De Grasse vs. 1936 Olympic Champ Jesse Owens" 
 date: 2016-08-19T15:10:21.493Z 
-link: https://www.youtube.com/watch?v=jas9ff0hdFI 
 tags:
-  - links
+  - videos
 ogtype: article 
 bodyclass: post 
 ---
