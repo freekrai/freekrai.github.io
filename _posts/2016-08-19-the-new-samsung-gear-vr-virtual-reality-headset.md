@@ -30,3 +30,5 @@ Don't worry, there's also an adapter for the USB-c charging port to use Micro-US
 #### Is it worth switching if you already have a Gear VR headset?
 
 That is a good question, while the extra 110 degrees of view does make it a nicer experience over all, it really depends on how hardcore you are into using your Gear VR already.  The future potential [motion controller](http://www.theverge.com/2016/1/7/10727852/samsung-rink-motion-controllers-gear-vr-ces-2016) support does really make this more promising than the previous model though, and I still recommend some sort of controller for most of the games.
+
+Also, most of my [previous tips](http://rogerstringer.com/2016/05/06/gear-vr-gear/) still stand.
