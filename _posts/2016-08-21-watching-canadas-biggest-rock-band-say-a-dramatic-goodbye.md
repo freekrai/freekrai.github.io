@@ -1,7 +1,7 @@
 ---
 layout: post 
 published: true
-title: "Watching Canada’s Biggest Rock Band Say a Dramatic Goodbye - The New Yorker" 
+title: "Watching Canada’s Biggest Rock Band Say a Dramatic Goodbye" 
 date: 2016-08-21T16:55:39.699Z 
 link: http://www.newyorker.com/culture/culture-desk/watching-canadas-biggest-rock-band-say-a-dramatic-goodbye 
 tags:
