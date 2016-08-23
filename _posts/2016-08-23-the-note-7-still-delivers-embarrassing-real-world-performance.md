@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "The Note 7 Still Delivers Embarrassing Real-World Performance" 
 date: 2016-08-23T16:48:31.435Z 
 link: http://www.xda-developers.com/with-the-note-7-samsung-still-delivers-embarrassing-real-world-performance/ 
@@ -10,7 +10,7 @@ ogtype: article
 bodyclass: post 
 ---
 
-Eric Hulse, writing for XDA:
+Eric Hulse:
 
 > The same lag carries onto scrolling performance in many applications, and infrequently in every application after heavy continuous usage. The phone does not get too hot, mind you, but we do notice that after continuous sessions, it progressively begins misbehaving. Scrolling behavior in particular is behind what you’d expect out of an $850 device, especially after this has been one of Samsung’s weak points for years.
 > 
