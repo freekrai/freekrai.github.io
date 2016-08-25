@@ -90,8 +90,10 @@ var api = new ParseServer({
 		},
 		ios: {
 			pfx: 'certs/mycert.p12', // the path and filename to the .p12 file you exported earlier. 
+			cert: '', // If not using the .p12 format, the path to the certificate PEM to load from disk
 			bundleId: '', // The bundle identifier associated with your app
-			production: true
+			key: '', // If not using the .p12 format, the path to the private key PEM to load from disk
+			production: true // Specifies which environment to connect to: Production (if true) or Sandbox
 		}
 	}
 });
