@@ -11,13 +11,7 @@ I’m available for speaking gigs; just [contact me](http://rogerstringer.com/co
 
 ## Upcoming Engagements
 
-## [NGINX.conf](https://www.nginx.com/nginxconf/), September 2016, Austin, TX, USA
-
-I'll be speaking about working smarter with microservices.
-
-<!--
 All quiet right now.
--->
 
 <div style="text-align:center;">
 <a href="/contact/" class="button">Book me as a speaker for your next conference or event</a>
