@@ -1,7 +1,7 @@
 ---
 layout: post 
-published: false 
-title: "  Gene Wilder, dies at 83" 
+published: true 
+title: "Gene Wilder, comedy legend and star of Willy Wonka and the Chocolate Factory, dies at 83" 
 date: 2016-08-29T20:41:04.735Z 
 link: http://news.nationalpost.com/arts/celebrity/gene-wilder-star-of-willy-wonka-and-the-chocolate-factory-and-comedy-legend-dies-at-83 
 tags:
