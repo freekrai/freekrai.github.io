@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Apple is going to remove abandoned apps from the App Store" 
 date: 2016-09-02T03:18:55.787Z 
 link: https://techcrunch.com/2016/09/01/apple-is-going-to-remove-abandoned-apps-from-the-app-store/ 
