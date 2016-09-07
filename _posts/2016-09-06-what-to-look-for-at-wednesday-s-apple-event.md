@@ -1,7 +1,7 @@
 ---
 layout: post 
-published: false 
-title: " What to look for at Wednesday's Apple event" 
+published: true 
+title: "Jason Snell on What to look for at Wednesday's Apple event" 
 date: 2016-09-07T01:42:01.905Z 
 link: https://sixcolors.com/post/2016/09/what-to-look-for-at-wednesdays-apple-event/ 
 tags:
