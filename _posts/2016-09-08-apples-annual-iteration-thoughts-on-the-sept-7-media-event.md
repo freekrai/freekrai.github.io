@@ -1,7 +1,7 @@
 ---
 layout: post 
-published: false 
-title: " Apple's annual iteration: Thoughts on the Sept. 7 media event" 
+published: true 
+title: "Apple's annual iteration: Thoughts on the Sept. 7 media event" 
 date: 2016-09-08T15:21:33.641Z 
 link: https://sixcolors.com/post/2016/09/apples-annual-iteration-thoughts-on-the-sept-7-media-event/ 
 tags:
