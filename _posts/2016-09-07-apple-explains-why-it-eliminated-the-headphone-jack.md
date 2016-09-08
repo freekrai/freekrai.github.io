@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Apple Explains Why It Eliminated the Headphone Jack" 
 date: 2016-09-08T03:37:25.007Z 
 link: https://www.macstories.net/linked/apple-explains-why-it-eliminated-the-headphone-jack/ 
