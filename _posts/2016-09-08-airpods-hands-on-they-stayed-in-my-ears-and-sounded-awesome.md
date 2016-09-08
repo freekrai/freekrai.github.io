@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "AirPods hands-on: They stayed in my ears and sounded awesome" 
 date: 2016-09-08T15:18:30.242Z 
 link: http://www.macworld.com/article/3117706/headphones/airpods-hands-on-they-stayed-in-my-ears-and-sounded-awesome.html 
