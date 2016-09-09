@@ -23,7 +23,7 @@ I'm actually using the [Dokku-alt](https://dokku-alt.github.io/) fork, as it inc
 
 ### 1. Get a Domain Name
 
-I recommend [Hover](http://hover.com) only because I have experience with them and they’re not Godaddy...
+I recommend [Hover](https://hover.com/7bz6cX0c) only because I have experience with them and they’re not Godaddy...
 
 ### 2. Create a Digital Ocean Account
 
