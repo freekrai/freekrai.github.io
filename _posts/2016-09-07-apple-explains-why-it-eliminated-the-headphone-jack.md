@@ -10,6 +10,8 @@ ogtype: article
 bodyclass: post 
 ---
 
+> John Vorhees, for MacStories:
+> 
 > Apple seems to get that eliminating the headphone jack will be a tough sell in some quarters. In a packed keynote, Phil Schiller spent a fair amount of time laying out Apple’s case for why switching to the lightning connector for wired headphones and moving to wireless AirPods is the right thing to do. But [Apple also spoke to BuzzFeed’s John Paczkowski](https://www.buzzfeed.com/johnpaczkowski/inside-iphone-7-why-apple-killed-the-headphone-jack) to add context and the detail that couldn’t fit into the keynote.
 >
 > Apple’s Dan Riccio explained the challenge this way:
