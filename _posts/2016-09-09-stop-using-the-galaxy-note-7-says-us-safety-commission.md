@@ -1,7 +1,7 @@
 ---
 layout: post 
 published: true 
-title: "'Stop using the Galaxy Note 7, says US safety commission" 
+title: "'Stop using the Galaxy Note 7', says US safety commission" 
 date: 2016-09-10T03:12:48.875Z 
 link: http://www.theverge.com/2016/9/9/12867008/us-safety-commission-says-stop-using-samsung-galaxy-note-7 
 tags:
