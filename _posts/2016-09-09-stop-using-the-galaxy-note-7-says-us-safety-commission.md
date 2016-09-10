@@ -18,4 +18,6 @@ bodyclass: post
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Stop using <a href="https://twitter.com/SamsungSupport">@SamsungSupport</a> Galaxy <a href="https://twitter.com/hashtag/Note7?src=hash">#Note7</a>. Full statement: <a href="https://t.co/v7sfEouZw2">https://t.co/v7sfEouZw2</a> <a href="https://t.co/0NufAJScId">pic.twitter.com/0NufAJScId</a></p>&mdash; U.S. CPSC (@USCPSC) <a href="https://twitter.com/USCPSC/status/774338718391934980">September 9, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+> Samsung echoed the CPSC in its [own statement](http://news.samsung.com/us/2016/09/09/samsung-confirms-engagement-with-cpsc-consumer-product-safety-commission-in-response-to-note7-battery-issue/), saying, "We are asking users to power down their Galaxy Note 7s and exchange them now."
+
 All the pundits who are busy claiming that everything Apple is doing right now was done years ago by Samsung (or others), need to remember this phone.
