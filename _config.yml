@@ -9,6 +9,32 @@ url: "http://rogerstringer.com" # the base hostname & protocol for your site
 twitter_username: freekrai
 github_username:  freekrai
 
+twitter:
+  username: "@freekrai"
+
+facebook:
+  app_id: "474703915878478"
+  publisher: "1416546778590314"
+  admins: "604781976"
+
+
+social:
+  name: Roger Stringer
+  links:
+    - https://twitter.com/freekrai
+    - https://www.facebook.com/rogerwlstringer
+    - https://plus.google.com/+RogerStringer
+    - https://github.com/freekrai
+    - https://www.instagram.com/freekrai
+
+disqus:
+  shortname: freekrai
+
+google_plus_id: RogerStringer
+ga_username: UA-126274-13
+
+
+
 # Build settings
 markdown: kramdown
 redcarpet:
@@ -24,3 +50,4 @@ github:
 gems:
   - jekyll-paginate
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-seo-tag

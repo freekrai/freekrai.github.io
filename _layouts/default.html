@@ -4,18 +4,22 @@
     <meta charset="utf-8" />
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+{% comment %}
 	<title>{% if page.title %}{{ page.title }}{% endif %} - {{ site.title }}</title>
 	<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+{% endcomment %}
 	<meta name="author" content="Roger Stringer">
 
 	<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="/rss" />
 	<link rel="alternate" type="application/rss+xml" title="{{ site.title }} with link posts pointed to {{ site.title }}" href="/rss-alternate" />
 
+{% comment %}
 	<meta property="article:author" content="604781976">
 <!-- Twitter Cards -->	
 	<meta name="twitter:card" content="summary">
-	<meta name="twitter:site" content="flybaseio">
-	<meta name="twitter:creator" content="flybaseio">
+	<meta name="twitter:site" content="freekrai">
+	<meta name="twitter:creator" content="freekrai">
 	<meta name="twitter:title" content="{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}">
 	<meta name="twitter:description" content="{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}">
 	<meta name="twitter:image" content="{% if page.image %}{{ page.image }}{% else %}http://rogerstringer.com/media/logo.png{% endif %}" />	
@@ -28,8 +32,8 @@
 	<meta property="og:description" content="{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}">
 	<meta property="og:locale" content="en_US">
 	<meta property="fb:pages" content="1416546778590314" />
-
 	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+{% endcomment %}
 
 	<link rel="shortcut icon" href="/assets/favicon.ico" type="image/x-icon" />
 {% comment %}
@@ -62,12 +66,16 @@
 	<link rel="stylesheet" type="text/css"  href="/css/style.css?12.6b" />
 	<!-- jquery needs to go on top for other pages -->
 	<script  aysnc src="/assets/jquery-2.0.3.min.js"></script>
+	
+	{% seo %}
+	<meta property="fb:pages" content="1416546778590314" />
 {% if page.noindex %}
 	<meta name="robots" content="noindex, follow"/>
 {% endif %}
 {% if paginator.page > 1 %}
 	<meta name="robots" content="noindex, follow"/>
 {% endif %}
+
 </head>
 <body class="{% if page.bodyclass %}{{ page.bodyclass }}{% endif %}">
 <div class="page-wrap">
