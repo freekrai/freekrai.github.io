@@ -21,12 +21,12 @@ degrees:
 published: true
 ---
 
-- <a href="http://rogerstringer.com">Website: rogerstringer.com</a>
-- <a href="mailto:roger.stringer@me.com">Email: roger.stringer@me.com</a>
-- <a href="tel:12504861027">Phone: 250-486-1027</a>
-- <a href="http://ca.linkedin.com/in/rogerstringer">LinkedIn: @rogerstringer</a>
-- <a href="http://github.com/freekrai">GitHub: @freekrai</a>
-- <a href="http://twitter.com/freekrai">Twitter: @freekrai</a>
+- Website: <a href="http://rogerstringer.com">rogerstringer.com</a>
+- Email: <a href="mailto:roger.stringer@me.com">roger.stringer@me.com</a>
+- Phone: <a href="tel:12504861027">250-486-1027</a>
+- LinkedIn: <a href="http://ca.linkedin.com/in/rogerstringer">@rogerstringer</a>
+- Github: <a href="http://github.com/freekrai">@freekrai</a>
+- Twitter: <a href="http://twitter.com/freekrai">@freekrai</a>
 
 {% comment %}
 <aside id="popular">
