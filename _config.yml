@@ -33,7 +33,8 @@ disqus:
 google_plus_id: RogerStringer
 ga_username: UA-126274-13
 
-
+collections:
+  - resume_positions
 
 # Build settings
 markdown: kramdown

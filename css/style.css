@@ -160,34 +160,34 @@ p.cat a,p.taggedIn a{
 /*
  * Default WP Alignment Classes
  *****************************************************************************/
- 
+
 .aligncenter,.alignleft,.alignright {
     display: block;
     padding: 0;
 }
- 
+
 .aligncenter {
     float: none;
     margin: .5em auto 1em;
 }
- 
+
 .alignright {
     float: right;
     margin: .5em 0 1em 1em;
 }
- 
+
 .alignleft {
     float: left;
     margin: .5em 1em 1em 0;
 }
- 
+
 .wp-caption {
     padding: 5px 0;
     border: 1px solid #555;
     background: #444;
     text-align: center;
 }
- 
+
 .wp-caption img {
     display: inline;
 }
@@ -299,7 +299,7 @@ form#SiteSearch button:hover {
 	padding: 20px;
 }
 .related-posts{
-	margin: 0 0 20px 0; 
+	margin: 0 0 20px 0;
 	font-size: 12px;
 }
 
@@ -402,8 +402,8 @@ position: absolute;
 width: 250px;
 right: 0px;
 top: 5px;
-margin-left: 0; 
-line-height: 1.3; 
+margin-left: 0;
+line-height: 1.3;
 font-weight: 400;
 font-size: 11px;
 color: #f1e0d4;
@@ -421,7 +421,7 @@ margin-top: -3px;
 color: #b59575;
 }
 
-#deckad #adlabel { 
+#deckad #adlabel {
 display: block;
 text-align: center;
 position: absolute;
@@ -467,11 +467,11 @@ text-align: left;
 	opacity: 0.9; }
 @media (min-width: 760px) {
 	#fusion_ad {
-	margin: 50px 0 0 10px; } 
+	margin: 50px 0 0 10px; }
 }
 @media (min-width: 1023px) {
 	#fusion_ad {
-	float: right; } 
+	float: right; }
 }
 #deck-ad {
 	background: rgba(203, 206, 206, 0.25);
@@ -502,13 +502,13 @@ text-align: left;
 #carbonads{
 	background: rgba(203, 206, 206, 0.25);
 	border-bottom: 1px solid #cbcece;
-	box-sizing: border-box;	
+	box-sizing: border-box;
 }
 .carbon-wrap{
 /*
 	background: rgba(203, 206, 206, 0.25);
 	border-bottom: 1px solid #cbcece;
-	box-sizing: border-box;	
+	box-sizing: border-box;
 */
 }
 .carbon-img{
@@ -519,7 +519,7 @@ text-align: left;
 .carbon-poweredby{
 }
 .carbon-poweredby a{
-	
+
 }
 
 #authorbio{
@@ -728,7 +728,7 @@ p code,li code{
     margin: 0;
     padding: 2px;
     width: 91%;
-	color: #0689a6;	
+	color: #0689a6;
     height: 1.5em;
     overflow: hidden;
     text-overflow: ellipsis;
@@ -741,13 +741,13 @@ p code,li code{
     margin: 0;
     padding: 2px;
     width: 91%;
-	color: #0689a6;	
+	color: #0689a6;
     height: 1.5em;
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
     font-size: 15px;
-}	
+}
 */
 
 @media only screen and (max-width: 790px) {
@@ -756,6 +756,7 @@ p code,li code{
     width: 100%}
 }
 
+.resume .daybreak,
 .day .daybreak{
 	margin-top: 2px;
 	border: 0;
@@ -840,7 +841,7 @@ hr.flaired:before { /* Not really supposed to work, but does */
     display: block;
     content: "";
     height: 30px;
-    margin-top: -31px;    
+    margin-top: -31px;
     border-style: solid;
     border-color: black;
     border-width: 0 0 1px 0;
@@ -857,8 +858,8 @@ hr.glyph {
 hr.glyph:after {
     content: "§";
     display: inline-block;
-    position: relative; 
-    top: -0.7em;  
+    position: relative;
+    top: -0.7em;
     font-size: 1.5em;
     padding: 0 0.25em;
     background: white;
@@ -979,18 +980,18 @@ p.byline {
 }
 
 .post header{
-    text-align: left;	
+    text-align: left;
     margin-bottom: 15px;
 }
 .post header h2{
-    margin-bottom: 5px;	
+    margin-bottom: 5px;
 }
 
 .post header .postDate
 {
 /*  display: block; */
     font-size: 0.9em;
-    margin-right: 5px;	
+    margin-right: 5px;
 }
 
 
@@ -1028,5 +1029,10 @@ p.byline {
     color: #333 !important;
     text-decoration: none;
     border-bottom: 1px solid #ccc !important;
-    padding-bottom: 2px !important;	
+    padding-bottom: 2px !important;
+}
+
+.resumedate {
+	float: right;
+	margin-top: -3em;
 }
