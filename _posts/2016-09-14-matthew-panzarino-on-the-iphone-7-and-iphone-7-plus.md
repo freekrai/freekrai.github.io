@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Matthew Panzarino on the iPhone 7 and iPhone 7 Plus" 
 date: 2016-09-14T19:16:43.739Z 
 link: https://techcrunch.com/2016/09/13/review-apple-tees-up-the-future-with-iphone-7/ 
