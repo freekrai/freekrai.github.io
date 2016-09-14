@@ -1,7 +1,7 @@
 ---
 bodyclass: resume
 author: Roger Stringer
-title: Resume
+title: Resume of Roger Stringer
 description: >-
   Roger Stringer is a full-stack developer, DevOps Engineer and technical
   writer.
@@ -21,11 +21,12 @@ degrees:
 published: true
 ---
 
-## How to Reach Me
-
-| <a href="http://rogerstringer.com"><i class="fa fa-home"></i> rogerstringer.com</a> |   | <a href="mailto:roger.stringer@me.com"><i class="fa fa-envelope"></i> roger.stringer@me.com</a> |
-|<i class="fa fa-phone"></i> 250-486-1027 |   | <a href="http://ca.linkedin.com/in/rogerstringer"><i class="fa fa-linkedin-square"></i> @rogerstringer</a> |
-| <a href="http://github.com/freekrai"><i class="fa fa-github"></i> @freekrai</a> |   | <a href="http://twitter.com/freekrai"><i class="fa fa-twitter"></i> @freekrai</a> |
+- <a href="http://rogerstringer.com">Website: rogerstringer.com</a>
+- <a href="mailto:roger.stringer@me.com">Email: roger.stringer@me.com</a>
+- <a href="tel:12504861027">Phone: 250-486-1027</a>
+- <a href="http://ca.linkedin.com/in/rogerstringer">LinkedIn: @rogerstringer</a>
+- <a href="http://github.com/freekrai">GitHub: @freekrai</a>
+- <a href="http://twitter.com/freekrai">Twitter: @freekrai</a>
 
 {% comment %}
 <aside id="popular">
