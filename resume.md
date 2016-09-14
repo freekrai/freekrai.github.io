@@ -23,9 +23,9 @@ published: true
 
 ### How to Reach Me
 
-| <a href="http://rogerstringer.com"><i class="fa fa-home"></i> rogerstringer.com</a> | <a href="mailto:roger.stringer@me.com"><i class="fa fa-envelope"></i> roger.stringer@me.com</a> |
-|<i class="fa fa-phone"></i> 250-486-1027 | <a href="http://ca.linkedin.com/in/rogerstringer"><i class="fa fa-linkedin-square"></i> @rogerstringer</a> |
-| <a href="http://github.com/freekrai"><i class="fa fa-github"></i> @freekrai</a> | <a href="http://twitter.com/freekrai"><i class="fa fa-twitter"></i> @freekrai</a> |
+| <a href="http://rogerstringer.com"><i class="fa fa-home"></i> rogerstringer.com</a> |   | <a href="mailto:roger.stringer@me.com"><i class="fa fa-envelope"></i> roger.stringer@me.com</a> |
+|<i class="fa fa-phone"></i> 250-486-1027 |   | <a href="http://ca.linkedin.com/in/rogerstringer"><i class="fa fa-linkedin-square"></i> @rogerstringer</a> |
+| <a href="http://github.com/freekrai"><i class="fa fa-github"></i> @freekrai</a> |   | <a href="http://twitter.com/freekrai"><i class="fa fa-twitter"></i> @freekrai</a> |
 
 {% comment %}
 <aside id="popular">
