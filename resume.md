@@ -12,16 +12,16 @@ seo:
 degrees:
   - school: Keyin Technical College
     degree: B.S. in Computer Studies
-    date: {}
+    date: 1998-04-30T00:00:00.000Z
     emphasis: Software Design and Development
   - school: International Correspondence School
     degree: Freelance Journalism and writing
-    date: {}
+    date: 1997-02-01T00:00:00.000Z
     emphasis: freelance writing
 published: true
 ---
 
-### How to Reach Me
+## How to Reach Me
 
 | <a href="http://rogerstringer.com"><i class="fa fa-home"></i> rogerstringer.com</a> |   | <a href="mailto:roger.stringer@me.com"><i class="fa fa-envelope"></i> roger.stringer@me.com</a> |
 |<i class="fa fa-phone"></i> 250-486-1027 |   | <a href="http://ca.linkedin.com/in/rogerstringer"><i class="fa fa-linkedin-square"></i> @rogerstringer</a> |
@@ -43,7 +43,7 @@ published: true
 </aside>
 {% endcomment %}
 
-### Experience
+## Experience
 
 {% assign positions=site.resume_positions | sort: "start_date" %}
 {% for position in positions reversed %}
@@ -59,7 +59,7 @@ published: true
 <hr class="daybreak">
 {% endfor %}
 
-### Education
+## Education
 
 {% for degree in page.degrees %}
 #### {{ degree.school }}
