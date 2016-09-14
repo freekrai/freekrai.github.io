@@ -13,7 +13,7 @@ I’m the founder of [Flybase](http://flybase.io/ "Flybase"), a real-time app pl
 
 I also work heavily with [Twilio](http://twiliocookbook.com), PHP, Node.js / JavaScript, NoSQL, APIs, [DevOps](http://devops.freekrai.net), Angular.js, and WordPress, so you’ll see some posts about all of these on here, as well as a variety of other topics.
 
-I’m also a dad, music lover, film buff, comic book collector, [chef](/tags/food) and electric scooter enthusiast _(specifically the Ecoped Pulse)_. I spend my spare time doing fun stuff with my daughter, and cooking up new recipes to post on here as well as on my food blogs.
+I’m also a dad, music lover, film buff, comic book collector, [foodie](/tags/food) and electric scooter enthusiast _(specifically the Ecoped Pulse)_. I spend my spare time doing fun stuff with my daughter, and cooking up new recipes to post on here.
 
 I’m also a type-2 insulin dependant diabetic, so once in a while, you’ll see some posts related to that as well.
 
