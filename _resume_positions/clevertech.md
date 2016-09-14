@@ -1,7 +1,28 @@
 ---
 employer: Clevertech
 title: Senior DevOps Engineer
-start_date: 2016-03-30
+start_date: 2015-03-30
+skills:
+ - PHP
+ - New Relic
+ - Datadog
+ - Webrtc
+ - Git
+ - AWS
+ - Docker
+ - Node.js
+ - Angular.js
+ - Ansible
+ - Bash
+ - System Adminstration
+ - Travis-CI
+ - Jenkins
+ - Technical Writing
+ - Mongo
+ - Redis
+ - Python
+ - Unit Testing
+ - Customer Support
 ---
 
 - Setup servers using Ansible and set up Travis-CI for continous testing and deployment from github-based repos to servers
