@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Jim Dalrymple on the Apple Watch 2" 
 date: 2016-09-14T19:11:02.063Z 
 link: http://www.loopinsight.com/2016/09/14/review-apple-watch-series-2/ 
