@@ -1,7 +1,7 @@
 ---
 bodyclass: resume
 author: Roger Stringer
-title: Resume of Roger Stringer
+title: Resume
 description: >-
   Roger Stringer is a full-stack developer, DevOps Engineer and technical
   writer.
