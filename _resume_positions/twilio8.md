@@ -11,4 +11,4 @@ end_date: 2013-09-30
 - Also developed a send to a friend system that works with the gallery and allows users to send an image to their friends phones
 -Finally, added the ability to filter images based on nudity and banned words
 - Traveled to San Francisco for TwilioCon, where the book was launched along with the new Picture Messaging technology and did book signings
-- Applicable Skills: PHP  Technical Writing  MySQL  XML
+- Applicable Skills: PHP, Technical Writing, MySQL, XML

@@ -35,6 +35,7 @@ ga_username: UA-126274-13
 
 collections:
   - resume_positions
+  - resume_projects
 
 # Build settings
 markdown: kramdown

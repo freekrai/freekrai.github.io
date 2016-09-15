@@ -9,4 +9,4 @@ end_date: 2014-07-30
 - Developed an outline of the book.
 - Developed code for each chapter, which ranged from company directories, to voicemail systems, to IVR systems and SMS polling systems. Not much was left uncovered in this book.
 - Wrote each chapter in such a way to take the reader on a journey and educate without getting too technical
-- Applicable Skills: PHP  Technical Writing  MySQL  XML  JSON  Project Management
+- Applicable Skills: PHP, Technical Writing, MySQL, XML, JSON, Project Management

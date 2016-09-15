@@ -11,4 +11,4 @@ end_date: 2006-10-01
 - Work on their CRM system included development of framework for their mobile site as well as work on various aspects of their main CRM site. This included using PHP / MySQL and SOAP to create a user-friendly environment for users to manage their business.
 - This also involved developing in Java and JSP as the company switched their focus from a PHP / MySQL system to a PHP client that talked to a JSP SOAP server. Java clients were also developed to test the system with, and to do some maintenance applications.
 - Another responsibility with Pareto involved driving traffic to their websites and generating sales through the use of Search Engine Optimization and various traffic campaigns through adwords.
-- Applicable Skills: Webmaster  Linux Systems Admin  PHP  MySQL  SOAP  Java  JSP  SEO Technical writing  Project Management
+- Applicable Skills: Webmaster, Linux Systems Admin, PHP, MySQL, SOAP, Java, JSP, SEO Technical writing, Project Management

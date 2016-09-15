@@ -14,4 +14,4 @@ end_date: 2013-10-30
 - Developer the Voddio Console which integrated with the Voddio and First Video apps and the MiMS Platform to provide a console for target and user management which talked to the iOS apps.
 - Developed the initial VeriLocal framework for IPTV systems using WordPress
 - Maintained MiMS Platform on Google App Engine with Python
-- Applicable Skills: Webmaster / DevOps  Linux Systems Admin  NodeJS  MongoDB  Redis Amazon EC2  Amazon SimpleDB  Amazon S3  PHP  MySQL  Ajax  XML  JSON  WordPress Photoshop  Ruby  Scrum  Google App Engine  Python  Django  APC  Memcache  JavaScript Chef
+- Applicable Skills: Webmaster / DevOps, Linux Systems Admin, NodeJS, MongoDB, Redis Amazon EC2, Amazon SimpleDB, Amazon S3, PHP, MySQL, Ajax, XML, JSON, WordPress Photoshop, Ruby, Scrum, Google App Engine, Python, Django, APC, Memcache, JavaScript Chef

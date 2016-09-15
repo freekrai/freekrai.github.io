@@ -12,4 +12,4 @@ end_date: 2005-02-28
 - Server admin under Linux for several of our web hosting customers as well as maintenance of our shared servers and VPS servers
 - Programming in Visual Basic, Visual C++ and Java were also utilized for various projects where an actual program was wanted rather than a web-based application.
 - Programming work for various customers which involved PHP, Ruby, HTML, ASP, Perl and Cold Fusion depending on the project.
-- Applicable Skills: Customer Support  Webmaster  Linux Systems Admin  PHP  MySQL  SEO Ruby  Technical writing  Visual Basic  Visual C++  Java  XML  Cold Fusion
+- Applicable Skills: Customer Support, Webmaster, Linux Systems Admin, PHP, MySQL, SEO Ruby, Technical writing, Visual Basic, Visual C++, Java, XML, Cold Fusion

@@ -12,4 +12,4 @@ While under contract at Twilio, I was involved in working on the `Twilio <Skills
 - Building an incoming call center
 - Building an outgoing call center.
 - Built the [Twilio Application Skeleton](https://github.com/freekrai/twilio-skeleton) on top of Laravel for rapid Twilio development
-- Applicable Skills: PHP  Ruby  Node  Python  Technical Writing  AngularJS  C#  Firebase SQLite  APIs  Vagrant
+- Applicable Skills: PHP, Ruby, Node, Python, Technical Writing, AngularJS, C#, Firebase SQLite, APIs, Vagrant

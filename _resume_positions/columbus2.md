@@ -12,4 +12,4 @@ end_date: 2009-01-30
 - Also maintained their corporate websites and introduced new technologies to them, as well as upgrading all of their websites to PHP5 instead of being early PHP4.
 - Also managed other contractors and instructed them on where code could be uploaded and which parts of the sites did what.
 - As webmaster, I was responsible for keeping the servers up to date and running well. This also included keeping software updated, and performing daily backups of the websites and database which each week, were downloaded to Amazon S3 for holding.
-- Applicable Skills: Webmaster  Linux Systems Admin  PHP  MySQL  SOAP  Java  JSP  SEO Python  Technical writing  Project Management
+- Applicable Skills: Webmaster, Linux Systems Admin, PHP, MySQL, SOAP, Java, JSP, SEO Python, Technical writing, Project Management
