@@ -14,7 +14,7 @@ skills:
  - Angular.js
  - Ansible
  - Bash
- - System Adminstration
+ - System Administration
  - Travis-CI
  - Jenkins
  - Technical Writing
@@ -25,9 +25,9 @@ skills:
  - Customer Support
 ---
 
-- Setup servers using Ansible and set up Travis-CI for continous testing and deployment from github-based repos to servers
+- Setup servers using Ansible and set up Travis-CI for continuous testing and deployment from github-based repos to servers
 - Troubleshooting customer issues
 - Built internal tools to aid in improving DevOps, and overall customer support
 - Load test and tune servers and apps to handle higher loads
 - Assist developers with coding issues on their various client projects
-- Applicable Skills: PHP, New Relic, Datadog, Webrtc, Git, AWS, Docker, Node.js Angular.js, Ansible, Bash, System Adminstration, Travis-CI, Jenkins, Technical Writing, Mongo Redis, Python, Unit Testing, Customer Support
+- Applicable Skills: PHP, New Relic, Datadog, Webrtc, Git, AWS, Docker, Node.js Angular.js, Ansible, Bash, System Administration, Travis-CI, Jenkins, Technical Writing, Mongo Redis, Python, Unit Testing, Customer Support
