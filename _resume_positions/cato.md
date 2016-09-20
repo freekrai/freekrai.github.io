@@ -1,11 +1,12 @@
 ---
-employer: Clevertech
-title: Senior DevOps Engineer
+employer: Centre for Arts and Technology
+title: ITIL fundamentals instructor
 start_date: 2015-02-01
 end_date: 2015-03-30
 skills:
  - Public speaking
  - Tech Support
+ - ITIL fundamentals
  - Customer Support
 ---
 
