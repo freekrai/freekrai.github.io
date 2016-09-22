@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true
 title: "Google backs off on previously announced Allo privacy feature" 
 date: 2016-09-22T23:25:22.420Z 
 link: http://www.theverge.com/2016/9/21/12994362/allo-privacy-message-logs-google 
