@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Dropbox Modifies TCC.db to Give Itself Accessibility Access" 
 date: 2016-09-22T23:18:15.383Z 
 link: http://applehelpwriter.com/2016/07/28/revealing-dropboxs-dirty-little-security-hack/ 
