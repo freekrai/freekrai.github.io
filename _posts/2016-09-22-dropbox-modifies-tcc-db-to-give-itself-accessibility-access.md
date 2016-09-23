@@ -11,7 +11,7 @@ bodyclass: post
 ---
 
 Phil Stokes:
-> 
+
 > If you have Dropbox installed, take a look at `System Preferences > Security & Privacy > Accessibility tab`. Notice something? Ever wondered how it got in there? Do you think you might have put that in there yourself after Dropbox asked you for permission to control the computer?
 > 
 > No, I can assure you that your memory isn’t faulty. You don’t remember doing that because Dropbox never presented this dialog to you, as it should have[…]
