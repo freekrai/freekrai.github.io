@@ -20,4 +20,7 @@ Phil Stokes:
 > 
 > Indeed, even with your admin password, it still shouldn’t be able to get into Accessibility. Clearly Dropbox’s coders have been doing some OS X hacking on company time.
 
-(－‸ლ)
+(－‸ლ)[^1]
+
+
+[^1]: I really have nothing to say other than give Dropbox a huge facepalm over this entire thing. Modifying sensitive areas without permission? Seriously Dropbox? I expected better of you.
