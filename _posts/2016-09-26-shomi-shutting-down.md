@@ -1,14 +1,17 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Rogers thanks shomi customers as streaming service shuts doors on November 30th" 
 date: 2016-09-27T04:52:45.288Z 
 link: http://web.tmxmoney.com/article.php?newsid=8881224289342625&qm_symbol=RCI.B 
 tags:
   - links
+image: http://rogerstringer.com/media/shomi.jpg
 ogtype: article 
 bodyclass: post 
 ---
+
+![Rogers thanks shomi customers as streaming service shuts doors on November 30th](http://rogerstringer.com/media/shomi.jpg)
 
 > Rogers today thanked its customers who subscribed to shomi for trying out a Canadian innovation.
 > 
