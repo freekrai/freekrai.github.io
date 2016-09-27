@@ -7,7 +7,7 @@ ogtype: article
 bodyclass: post
 ---
 
-Once a year, I move older posts that are no longer as relevant to the [Archive][http://archived.rogerstringer.com/].
+Once a year, I move older posts that are no longer as relevant to the [Archive](http://archived.rogerstringer.com/).
 
 These posts are generally, posts that are two years or older, and help the site keep fresh.
 
