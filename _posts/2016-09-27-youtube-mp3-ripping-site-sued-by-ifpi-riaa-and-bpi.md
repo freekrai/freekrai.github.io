@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "YouTube-MP3 Ripping Site Sued By IFPI, RIAA and BPI" 
 date: 2016-09-27T18:34:19.947Z 
 link: https://torrentfreak.com/youtube-mp3-ripping-site-sued-by-ifpi-riaa-and-bpi-160926/ 
