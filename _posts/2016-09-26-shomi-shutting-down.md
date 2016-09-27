@@ -11,7 +11,7 @@ ogtype: article
 bodyclass: post 
 ---
 
-![Rogers thanks shomi customers as streaming service shuts doors on November 30th](http://rogerstringer.com/media/shomi.jpg)
+![Rogers thanks shomi customers as streaming service shuts doors on November 30th](/media/shomi.jpg)
 
 > Rogers today thanked its customers who subscribed to shomi for trying out a Canadian innovation.
 > 
