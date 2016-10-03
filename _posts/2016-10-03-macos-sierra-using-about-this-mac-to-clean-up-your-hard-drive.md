@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "MacOS Sierra: Using “About This Mac” to clean up your hard drive" 
 date: 2016-10-03T15:23:29.709Z 
 link: http://www.loopinsight.com/2016/10/03/macos-sierra-using-about-this-mac-to-clean-up-your-hard-drive/ 
