@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "How To Get An Alert When An App Accesses The Webcam Or Mic In macOS" 
 date: 2016-10-09T20:52:42.225Z 
 link: http://www.addictivetips.com/mac-os/how-to-get-an-alert-when-an-app-accesses-the-webcam-or-mic-in-macos/ 
