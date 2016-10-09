@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "The Microsoft Band is dead" 
 date: 2016-10-09T20:47:25.536Z 
 link: http://www.theverge.com/circuitbreaker/2016/10/3/13152590/microsoft-band-discontinued 
