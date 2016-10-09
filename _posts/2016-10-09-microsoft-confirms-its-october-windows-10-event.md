@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Microsoft Confirms Its October Windows 10 Event" 
 date: 2016-10-09T20:42:29.557Z 
 link: https://www.thurrott.com/windows/windows-10/82933/microsoft-confirms-october-windows-10-event 
