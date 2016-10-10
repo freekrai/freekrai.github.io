@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Federico Viticci on the iPhone 7" 
 date: 2016-10-10T18:35:50.558Z 
 link: https://www.macstories.net/stories/iphone-7-computer-from-the-future/ 
