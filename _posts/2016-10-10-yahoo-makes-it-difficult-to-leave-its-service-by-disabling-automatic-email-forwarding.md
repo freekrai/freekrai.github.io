@@ -1,9 +1,9 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Yahoo makes it difficult to leave its service by disabling automatic email forwarding" 
 date: 2016-10-10T21:38:04.134Z 
-link: https://techcrunch.com/2016/10/10/yahoo-makes-it-difficult-to-leave-its-service-by-disabling-email-forwarding/?ncid=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29&utm_content=FaceBook&sr_share=facebook 
+link: https://techcrunch.com/2016/10/10/yahoo-makes-it-difficult-to-leave-its-service-by-disabling-email-forwarding/ 
 tags:
   - links
 ogtype: article 
