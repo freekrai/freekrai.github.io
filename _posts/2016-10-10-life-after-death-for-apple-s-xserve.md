@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Life after death for Apple’s Xserve" 
 date: 2016-10-10T16:28:26.809Z 
 link: http://arstechnica.com/apple/2016/10/life-after-death-for-apples-xserve/ 
