@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Samsung is suspending all production of the Galaxy Note 7" 
 date: 2016-10-10T18:41:24.325Z 
 link: http://english.yonhapnews.co.kr/business/2016/10/10/33/0502000000AEN20161010004100320F.html 
