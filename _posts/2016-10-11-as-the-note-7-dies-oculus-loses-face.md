@@ -1,7 +1,7 @@
 ---
 layout: post 
 published: true 
-title: "As  the Note 7 dies, Oculus loses face(s)" 
+title: "Oculus loses face as the Note 7 dies" 
 date: 2016-10-11T21:59:32.362Z 
 link: https://techcrunch.com/2016/10/11/as-the-note-7-dies-oculus-loses-faces/?sr_share=facebook 
 tags:
