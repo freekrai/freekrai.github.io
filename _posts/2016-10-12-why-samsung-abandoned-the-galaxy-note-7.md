@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Why Samsung Abandoned the Galaxy Note 7" 
 date: 2016-10-12T17:47:54.928Z 
 link: http://www.nytimes.com/2016/10/12/business/international/samsung-galaxy-note7-terminated.html?_r=3 
