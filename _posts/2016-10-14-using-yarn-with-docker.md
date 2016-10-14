@@ -6,6 +6,7 @@ date: 2016-10-14T21:36:56.101Z
 link: https://medium.com/@mfornasa/using-yarn-with-docker-c116ad289d56#.7a6lbfhd5
 tags:
   - links
+  - code
 ogtype: article
 bodyclass: post
 image: http://rogerstringer.com/media/install.png
