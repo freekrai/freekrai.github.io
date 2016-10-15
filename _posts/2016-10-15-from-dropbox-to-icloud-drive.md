@@ -1,7 +1,7 @@
 ---
 layout: post 
-published: false 
-title: "From Dropbox to iCloud Drive: a review and some thoughts" 
+published: true 
+title: "From Dropbox to iCloud Drive" 
 date: 2016-10-15T16:36:21.922Z 
 link: https://finertech.com/2016/10/09/from-dropbox-to-icloud-drive-a-review-and-some-thoughts/ 
 tags:
