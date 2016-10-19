@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Smartphone camera shootout: Google Pixel takes on the iPhone 7 and Galaxy S7 Edge" 
 date: 2016-10-19T16:04:33.947Z 
 link: http://www.theverge.com/2016/10/18/13304476/google-pixel-vs-iphone-7-samsung-galaxy-s7-edge-camera-comparison 
