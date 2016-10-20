@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Pixel, iPhone 7, and grading on a curve" 
 date: 2016-10-20T05:25:03.895Z 
 link: http://www.imore.com/pixel-iphone-7-and-grading-curve 
