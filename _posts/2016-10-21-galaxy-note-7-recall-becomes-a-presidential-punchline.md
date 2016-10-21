@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Galaxy Note 7 recall becomes a presidential punchline" 
 date: 2016-10-21T15:30:53.213Z 
 link: https://www.engadget.com/2016/10/20/galaxy-note-7-recall-becomes-a-presidential-punchline/ 
