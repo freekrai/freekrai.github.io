@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   I’m Roger Stringer, and I’m a DevOps Engineer, full-stack software developer, writer, and speaker in Penticton, British Columbia, Canada.
   This blog is where I write and share. You will see everything from reviews, posts about tech and design, to food.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://rogerstringer.com" # the base hostname & protocol for your site
+url: "http://rogerstringer.com" # the base hostname & protocol for your site
 twitter_username: freekrai
 github_username:  freekrai
 
