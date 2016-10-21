@@ -22,12 +22,12 @@
 	<meta name="twitter:creator" content="freekrai">
 	<meta name="twitter:title" content="{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}">
 	<meta name="twitter:description" content="{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}">
-	<meta name="twitter:image" content="{% if page.image %}{{ page.image }}{% else %}http://rogerstringer.com/media/logo.png{% endif %}" />
+	<meta name="twitter:image" content="{% if page.image %}{{ page.image }}{% else %}//rogerstringer.com/media/logo.png{% endif %}" />
 <!-- Facebook Open Graph -->
 	<meta property="og:type" content="{% if page.path contains '_posts' %}article{% else %}website{% endif %}">
 	<meta property="og:title" content="{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}">
 	<meta property="og:site_name" content="{{ site.title }}">
-	<meta property="og:image" content="{% if page.image %}{{ page.image }}{% else %}http://rogerstringer.com/media/logo.png{% endif %}" />
+	<meta property="og:image" content="{% if page.image %}{{ page.image }}{% else %}//rogerstringer.com/media/logo.png{% endif %}" />
 	<meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 	<meta property="og:description" content="{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}">
 	<meta property="og:locale" content="en_US">
@@ -50,18 +50,18 @@
 	<link rel="author" href="https://plus.google.com/110703673421158974551/posts" />
 {% comment %}
 	<style>
-		@import url('http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css');
+		@import url('//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css');
 		@import url('/assets/css/bigfoot-default.css');
 		@import url('/assets/css/grid.css');
-		@import url('/assets/css/main.css');
+		@import url('/assets/css/main.css?v=1234.e');
 		@import url('/css/prism.css?12.2e');
 		@import url('/css/style.css?12.7e');
 	</style>
 {% endcomment %}
-	<link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet" />
+	<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet" />
 	<link rel="stylesheet" type="text/css"  href="/assets/css/bigfoot-default.css" />
 	<link rel="stylesheet" type="text/css"  href="/assets/css/grid.css" />
-	<link rel="stylesheet" type="text/css"  href="/assets/css/main.css" />
+	<link rel="stylesheet" type="text/css"  href="/assets/css/main.css?v=1234.e" />
 	<link rel="stylesheet" type="text/css"  href="/css/prism.css?12.2e" />
 	<link rel="stylesheet" type="text/css"  href="/css/style.css?12.7e" />
 	<!-- jquery needs to go on top for other pages -->
@@ -86,7 +86,7 @@
 			<span id="tinyabout" class="fa_normal">&nbsp;&nbsp;<a href="#" id="tinyhref">About &#x25BE;</a></span></h1>
 			<div id="fullabout" class="fa_normal">
 				<p id="description">
-I'm <a href="/about">Roger Stringer</a>, a <a href="/devops">DevOps</a> engineer, <a href="/code">developer</a>, <a href="/writing">author</a>, <a href="/food">foodie</a>, speaker, dad. Founder of <a href="http://flybase.io">Flybase</a>.
+I'm <a href="/about">Roger Stringer</a>, a <a href="/devops">DevOps</a> engineer, <a href="/code">developer</a>, <a href="/writing">author</a>, <a href="/food">foodie</a>, speaker, dad. Founder of <a href="//flybase.io">Flybase</a>.
 				</p>
 				<nav>
 					<a href="/about">About</a> &#9670;
@@ -129,13 +129,13 @@ I'm <a href="/about">Roger Stringer</a>, a <a href="/devops">DevOps</a> engineer
 {% comment %}
 						<a href="/speaking">Speaking</a>,
 						<a href="/support">Reader Support</a>,
-						<a href="http://devops.freekrai.net" target="_blank">DevOps</a>,
+						<a href="//devops.freekrai.net" target="_blank">DevOps</a>,
 {% endcomment %}
 						<a href="/writing">Writing</a>,
 						<a href="/contact">Contact</a>,
-						<a href="http://flybase.io" target="_blank">Flybase</a>,
-						<a href="http://weberemote.com" target="_blank">We Be Remote!</a>
-						<a href="http://archived.rogerstringer.com" target="_blank">The Archives</a>
+						<a href="//flybase.io" target="_blank">Flybase</a>,
+						<a href="//weberemote.com" target="_blank">We Be Remote!</a>
+						<a href="//archived.rogerstringer.com" target="_blank">The Archives</a>
 					</p>
 					<br />
 				</div>
@@ -144,8 +144,8 @@ I'm <a href="/about">Roger Stringer</a>, a <a href="/devops">DevOps</a> engineer
 						<a href="https://twitter.com/freekrai" title="Twitter"><i class="fa fa-twitter"></i></a>&nbsp;&nbsp;
 						<a href="https://www.google.com/+RogerStringer" title="Google+"><i class="fa fa-google-plus"></i></a>&nbsp;&nbsp;
 						<a href="https://github.com/freekrai" title="Github"><i class="fa fa-github"></i></a>&nbsp;&nbsp;
-						<a href="http://instagram.com/freekrai" title="InstaGram"><i class="fa fa-instagram"></i></a>&nbsp;&nbsp;
-						<a href="http://ca.linkedin.com/in/rogerstringer" title="LinkedIn"><i class="fa fa-linkedin"></i></a>&nbsp;&nbsp;
+						<a href="//instagram.com/freekrai" title="InstaGram"><i class="fa fa-instagram"></i></a>&nbsp;&nbsp;
+						<a href="//ca.linkedin.com/in/rogerstringer" title="LinkedIn"><i class="fa fa-linkedin"></i></a>&nbsp;&nbsp;
 						<a href="/support" title="Buy Me A Cup Of Coffee"><i class="fa fa-coffee"></i></a>&nbsp;&nbsp;
 						<a href="/rss" class=""><i class="fa fa-rss"></i></a>
 					</nav>
@@ -158,7 +158,7 @@ I'm <a href="/about">Roger Stringer</a>, a <a href="/devops">DevOps</a> engineer
 					</div>
 					</form>
 {% comment %}
-<h3>Latest <a href="http://www.twitter.com/freekrai">Tweet</a></h3>
+<h3>Latest <a href="//www.twitter.com/freekrai">Tweet</a></h3>
 <a class="twitter-timeline" href="https://twitter.com/freekrai" data-widget-id="400363963352748033" data-chrome="noheader nofooter noborders noscrollbar transparent" data-tweet-limit="1">Tweets by @freekrai</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 {% endcomment %}
@@ -178,8 +178,8 @@ I'm <a href="/about">Roger Stringer</a>, a <a href="/devops">DevOps</a> engineer
 	<a href="https://twitter.com/freekrai" title="Twitter"><i class="fa fa-twitter"></i></a>&nbsp;&nbsp;
 	<a href="https://www.google.com/+RogerStringer" title="Google+"><i class="fa fa-google-plus"></i></a>&nbsp;&nbsp;
 	<a href="https://github.com/freekrai" title="Github"><i class="fa fa-github"></i></a>&nbsp;&nbsp;
-	<a href="http://instagram.com/freekrai" title="InstaGram"><i class="fa fa-instagram"></i></a>&nbsp;&nbsp;
-	<a href="http://ca.linkedin.com/in/rogerstringer" title="LinkedIn"><i class="fa fa-linkedin"></i></a>&nbsp;&nbsp;
+	<a href="//instagram.com/freekrai" title="InstaGram"><i class="fa fa-instagram"></i></a>&nbsp;&nbsp;
+	<a href="//ca.linkedin.com/in/rogerstringer" title="LinkedIn"><i class="fa fa-linkedin"></i></a>&nbsp;&nbsp;
 	<a href="/support" title="Buy Me A Cup Of Coffee"><i class="fa fa-coffee"></i></a>&nbsp;&nbsp;
 	<a href="/rss" class=""><i class="fa fa-rss"></i></a>
 </nav>
