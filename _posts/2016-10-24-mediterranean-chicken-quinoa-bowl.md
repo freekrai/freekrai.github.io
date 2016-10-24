@@ -34,4 +34,5 @@ bodyclass: post
 5. Transfer the chicken to a clean cutting board and slice or shred. 
 6. Meanwhile, place peppers, 2 tablespoons oil, garlic, paprika, and cumin in a mini food processor. Puree until fairly smooth. 
 7. Combine quinoa, red onion and the remaining 2 tablespoons oil in a medium bowl. 
-8. To serve, divide the quinoa mixture among 4 bowls and top with equal amounts of cucumber, chicken and the red pepper sauce. Sprinkle with feta and parsley.
+8. To serve, divide the quinoa mixture among 4 bowls and top with equal amounts of cucumber, chicken and the red pepper sauce. 
+9. Sprinkle with feta and parsley.
