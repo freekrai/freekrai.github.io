@@ -1,7 +1,7 @@
 ---
 layout: post 
-published: false 
-title: "Hacked webcams that helped shut down the internet last week are being recalled - The Verge" 
+published: true
+title: "Hacked webcams that helped shut down the internet last week are being recalled" 
 date: 2016-10-24T17:44:11.292Z 
 link: http://www.theverge.com/2016/10/24/13383968/hangzhou-xiongmai-ddos-attack-iot-mirai 
 tags:
