@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Hacked Cameras, DVRs Powered Friday's Massive Internet Outage" 
 date: 2016-10-24T17:38:51.055Z 
 link: https://krebsonsecurity.com/2016/10/hacked-cameras-dvrs-powered-todays-massive-internet-outage/ 
