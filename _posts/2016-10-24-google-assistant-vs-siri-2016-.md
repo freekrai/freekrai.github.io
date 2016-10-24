@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Google Assistant vs Siri! (2016)" 
 date: 2016-10-24T16:50:31.788Z 
 link: https://www.youtube.com/watch?v=JFiu5rfnhzo#action=share 
