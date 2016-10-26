@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Microsoft's Surface Studio" 
 date: 2016-10-26T18:56:31.030Z 
 link: http://www.theverge.com/2016/10/26/13421728/microsoft-surface-studio-hands-on 
@@ -11,3 +11,5 @@ bodyclass: post
 ---
 
 Microsoft's answer to the iMac is a 28 inch desktop with a touch screen and a keyboard that looks a lot like the USB Mac keyboard.
+
+Otherwise, I know a bunch of graphic guys who would love this machine.
