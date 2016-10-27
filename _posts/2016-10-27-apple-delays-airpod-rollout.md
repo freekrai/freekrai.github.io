@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Apple delays AirPod rollout, don’t expect them in October" 
 date: 2016-10-27T16:56:20.014Z 
 link: https://techcrunch.com/2016/10/26/apple-delays-airpod-rollout-dont-expect-them-in-october/ 
