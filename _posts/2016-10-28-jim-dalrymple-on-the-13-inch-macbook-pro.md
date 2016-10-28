@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Jim Dalrymple on the 13-inch MacBook Pro (and the location of the escape key)" 
 date: 2016-10-28T15:27:29.025Z 
 link: http://www.loopinsight.com/2016/10/28/first-look-13-inch-macbook-pro/ 
