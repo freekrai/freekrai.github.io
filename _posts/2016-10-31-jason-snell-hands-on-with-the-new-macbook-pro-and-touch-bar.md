@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Jason Snell, hands on with the new MacBook Pro and Touch Bar" 
 date: 2016-10-31T15:49:01.685Z 
 link: http://www.loopinsight.com/2016/10/31/jason-snell-hands-on-with-the-new-macbook-pro-and-touch-bar/ 
