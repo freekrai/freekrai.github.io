@@ -1,7 +1,7 @@
 ---
 employer: SitePoint
 title: Contract Technical Writer
-start_date: 2015-02-01
+start_date: 2014-12-01
 end_date: 2015-12-30
 ---
 
