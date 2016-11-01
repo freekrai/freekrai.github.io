@@ -10,4 +10,4 @@ skills:
  - Customer Support
 ---
 
-- Thought a twice a week course on ITIL fundamentals, instructing students on the fundamentals of tech support, customer service and helpdesks.
+- Taught a twice a week course on ITIL fundamentals, instructing students on the fundamentals of tech support, customer service and help desk management.

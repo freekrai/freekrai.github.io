@@ -97,12 +97,12 @@ published: true
 
 	<div class="resume-item">
 		<h4 class="resume-item-details">Databases</h4>
-		<p class="resume-item-copy">MongoDB, MySQL, PostgreSQL, BigTable, Redis, Firebase, Parse.com, LevelDB, ElasticSearch, Cassandra</p>
+		<p class="resume-item-copy">MongoDB, MySQL, PostgreSQL, BigTable, Redis, RethinkDB, CouchDB, Firebase, Parse.com, LevelDB, ElasticSearch, Cassandra</p>
 	</div>
 
 	<div class="resume-item">
 		<h4 class="resume-item-details">Platforms</h4>
-		<p class="resume-item-copy">AWS, Rackspace, Heroku, Google Cloud Platform, Digital Ocean, Apache, Nginx, Docker, Vagrant, Chef, Ansible,  Travis-CI, Cloud Foundry</p>
+		<p class="resume-item-copy">AWS, Rackspace, Heroku, Google Cloud Platform, Digital Ocean, Apache, Nginx, Docker, Vagrant, Chef, Ansible,  Travis-CI</p>
 	</div>
 
 	<div class="resume-item">
@@ -125,7 +125,7 @@ published: true
 		<div class="resume-item" itemscope itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
 			<h3 class="resume-item-title" itemprop="name">{{ degree.school }}</h3>
 			<h4 class="resume-item-details" itemprop="description">
-				{{ degree.degree }} &bull; 
+				{{ degree.degree }} &bull;
 				<small>{{ degree.date | date: "%B %Y" }}</small>
 			</h4>
 			<p class="resume-item-copy">{{ degree.emphasis }}</p>
@@ -148,9 +148,9 @@ published: true
 	   {% assign previous_employer=position.employer %}
 	<hr class="daybreak">
 	{% endfor %}
-	
+
 	## Education
-	
+
 	{% for degree in page.degrees %}
 	#### {{ degree.school }}
 	<div class="resumedate">{{ degree.date | date: "%B %Y" }}</div>
