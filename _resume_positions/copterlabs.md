@@ -5,9 +5,8 @@ start_date: 2012-01-01
 end_date: 2014-12-30
 ---
 
-Contract Position worked on WordPress sites for clients such as:
-
-- Lean Bodies Consulting (WordPress site and API for iOS and Android apps powered by WordPress)
+- Contract Position worked on WordPress sites for clients such as:
+  - Lean Bodies Consulting (WordPress site and API for iOS and Android apps powered by WordPress)
   - Intel
   - Curls and Whey
   - Lyman Motors
