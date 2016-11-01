@@ -1,7 +1,7 @@
 ---
 employer: Future Insights
 title: Conference Speaker
-start_date: 2015-05-01
+start_date: 2015-04-01
 end_date: 2015-06-30
 ---
 
