@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Marco Arment on Designing for the present over the future" 
 date: 2016-11-03T05:06:08.511Z 
 link: https://marco.org/2016/11/02/design-for-the-present 
