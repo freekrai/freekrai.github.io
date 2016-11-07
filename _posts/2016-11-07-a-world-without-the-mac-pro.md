@@ -1,9 +1,9 @@
 ---
 layout: post 
-published: false 
+published: true
 title: "A world without the Mac Pro" 
 date: 2016-11-07T15:30:26.159Z 
-link: https://marco.org/2016/11/05/world-without-mac-pro?utm_source=loopinsight.com%2Frss&utm_medium=referral&utm_campaign=Feed%3A+loopinsight%2FKqJb+(The+Loop)&utm_content=FeedBurner 
+link: https://marco.org/2016/11/05/world-without-mac-pro
 tags:
   - links
 ogtype: article 
@@ -19,6 +19,8 @@ Marco Arment:
 > The 5K iMac is a truly great computer. It’s the best general-purpose desktop Apple has ever made. It almost replaces the need for the Mac Pro. Many of us can get by with the 5K iMac.
 > 
 > But there are some things that only a Mac Pro can deliver.
+
+---
 
 [Craig Hockenberry](http://furbo.org/2016/11/05/apples-lenovo/) has another take on what Apple should do with the Mac Pro:
 
