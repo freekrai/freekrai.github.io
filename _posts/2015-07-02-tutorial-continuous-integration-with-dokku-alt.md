@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Continuous Integration with dokku-alt"
+published: true
+title:  "Continuous Integration with dokku"
 date:   2015-07-02 09:31:58
 tags:
  - code
