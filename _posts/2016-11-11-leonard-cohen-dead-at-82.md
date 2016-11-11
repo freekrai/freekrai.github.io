@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Leonard Cohen Dead at 82" 
 date: 2016-11-11T16:11:27.356Z 
 link: http://www.rollingstone.com/music/news/leonard-cohen-dead-at-82-w449792 
