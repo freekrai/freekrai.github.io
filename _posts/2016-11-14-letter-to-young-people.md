@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Marco Arment: A letter to today’s young people" 
 date: 2016-11-14T20:28:24.205Z 
 link: https://marco.org/2016/11/11/letter-to-young-people 
