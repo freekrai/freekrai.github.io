@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Apple’s big App Store purge is now underway" 
 date: 2016-11-15T23:37:00.228Z 
 link: https://techcrunch.com/2016/11/15/apples-big-app-store-purge-is-now-underway/ 
