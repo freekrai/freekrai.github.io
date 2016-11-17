@@ -1,11 +1,9 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Globe Making in 1955" 
-date: 2016-11-17T15:01:03.530Z 
-link: https://www.youtube.com/watch?v=4RWcWSN4HhI 
 tags:
-  - links
+  - misc
 ogtype: article 
 bodyclass: post 
 ---
