@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Facebook's Fight Against Fake News Was Undercut by Fear of Conservative Backlash" 
 date: 2016-11-18T03:24:45.797Z 
 link: http://gizmodo.com/facebooks-fight-against-fake-news-was-undercut-by-fear-1788808204 
@@ -10,7 +10,7 @@ ogtype: article
 bodyclass: post 
 ---
 
-Michael Nunez, reporting for Gizmodo:
+Michael Nunez, writing for Gizmodo:
 
 > According to two sources with direct knowledge of the company’s decision-making, Facebook executives conducted a wide-ranging review of products and policies earlier this year, with the goal of eliminating any appearance of political bias. One source said high-ranking officials were briefed on a planned News Feed update that would have identified fake or hoax news stories, but disproportionately impacted right-wing news sites by downgrading or removing that content from people’s feeds. According to the source, the update was shelved and never released to the public. It’s unclear if the update had other deficiencies that caused it to be scrubbed.
 > 
