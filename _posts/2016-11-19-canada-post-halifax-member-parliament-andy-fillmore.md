@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true
 title: "Woman's letter to Halifax MP keeps getting returned by Canada Post" 
 date: 2016-11-20T01:35:37.658Z 
 link: "http://www.cbc.ca/news/canada/nova-scotia/canada-post-halifax-member-parliament-andy-fillmore-1.3856959?campaign_id=A100"
