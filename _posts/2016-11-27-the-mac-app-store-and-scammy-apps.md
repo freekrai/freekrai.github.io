@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "The Mac App Store and Scammy Apps" 
 date: 2016-11-28T05:24:07.166Z 
 link: http://www.howtogeek.com/281849/dont-be-fooled-the-mac-app-store-is-full-of-scams/ 
