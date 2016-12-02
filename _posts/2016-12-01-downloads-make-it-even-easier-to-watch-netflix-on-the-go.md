@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Downloads Make It Even Easier to Watch Netflix on the Go" 
 date: 2016-12-02T00:32:47.218Z 
 link: https://media.netflix.com/en/company-blog/downloads-make-it-even-easier-to-watch-netflix-on-the-go 
