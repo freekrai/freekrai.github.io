@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Dear Apple: Give Us Control Over Stalkerware" 
 date: 2016-12-05T17:11:25.536Z 
 link: https://medium.com/@otterley/dear-apple-give-us-control-over-stalkerware-95c625f585fb#.ydyazo8u8 
