@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Pebble Joins Fitbit, and shuts down operations" 
 date: 2016-12-08T05:07:43.611Z 
 link: https://blog.getpebble.com/2016/12/07/fitbit/ 
@@ -18,7 +18,9 @@ Eric Migicovsky:
 > 
 > However—due to various factors—Pebble is no longer able to operate as an independent entity. We have made the tough decision to shut down the company and no longer manufacture Pebble devices. This news has several major implications, and we hope to answer as many questions as possible here
 > 
-> What you need to know
+> [..]
+> 
+> **What you need to know**
 > 
 > - Pebble is no longer promoting, manufacturing, or selling any devices.
 > - Pebble devices will continue to work as normal. No immediate changes to the Pebble user experience will happen at this time.
