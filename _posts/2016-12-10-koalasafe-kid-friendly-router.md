@@ -10,7 +10,7 @@ bodyclass: post
 image: http://rogerstringer.com/media/koala.jpg
 ---
 
-[![KoalaSafe Family Friendly Wireless Router(/media/koala.jpg)](http://amzn.to/2hgvC26)
+[![KoalaSafe Family Friendly Wireless Router](/media/koala.jpg)](http://amzn.to/2hgvC26)
 
 I'm a parent, and I like to look at how to keep my daughter safer online, as well as being able to set schedules for when she's allow to use the Internet, homework (or chore mode), etc.
 
