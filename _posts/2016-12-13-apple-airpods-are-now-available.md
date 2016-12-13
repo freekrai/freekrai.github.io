@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Apple AirPods are now available" 
 date: 2016-12-13T16:24:28.496Z 
 link: http://www.apple.com/newsroom/2016/12/apple-airpods-are-now-available.html 
