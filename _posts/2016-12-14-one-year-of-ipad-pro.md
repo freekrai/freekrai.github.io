@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "One Year of iPad Pro" 
 date: 2016-12-14T20:33:58.717Z 
 link: https://www.macstories.net/stories/one-year-of-ipad-pro/ 
