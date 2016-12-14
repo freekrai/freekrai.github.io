@@ -10,6 +10,8 @@ ogtype: article
 bodyclass: post 
 ---
 
+Federico Viticci:
+
 > I wasn't sure I needed a 12.9-inch iPad when Apple announced the iPad Pro in September 2015. 
 > 
 > And yet, over a year later, the iPad Pro is, by far, the best computer I've ever owned. 
