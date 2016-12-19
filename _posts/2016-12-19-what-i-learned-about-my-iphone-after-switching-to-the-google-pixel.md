@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "What I Learned about My iPhone After Switching to the Google Pixel" 
 date: 2016-12-19T20:12:55.903Z 
 link: https://www.subtraction.com/2016/12/14/switching-to-the-google-pixel/ 
