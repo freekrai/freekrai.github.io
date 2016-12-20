@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "The iFixit AirPods Teardown" 
 date: 2016-12-20T18:36:56.358Z 
 link: https://www.ifixit.com/Teardown/AirPods+Teardown/75578 
