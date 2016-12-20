@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Tim Cook says ‘great desktop’ Macs are in the works" 
 date: 2016-12-20T00:48:08.636Z 
 link: http://www.theverge.com/2016/12/19/14017952/apple-ceo-tim-cook-imac-mac-pro-desktop-computers 
