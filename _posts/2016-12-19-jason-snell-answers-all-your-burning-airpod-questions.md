@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Jason Snell answers all your burning AirPod questions" 
 date: 2016-12-20T00:43:51.227Z 
 link: https://sixcolors.com/post/2016/12/airpods-your-burning-questions-answered/ 
