@@ -15,7 +15,7 @@ bodyclass: post
 > Alright, we've got Apple's latest stocking stuffers on our teardown table, and it's time to see what they're made of. Here's the scoop so far:
 > 
 > - Each AirPod weighs 0.14 oz (4 g), while the charging case weighs 1.34 oz (38 g)
->  - Each AirPod measures in at 0.65" × 0.71" × 1.59" (16.5 mm × 18.0 mm × 40.5 mm) while the charging case measures in at 1.74" × 0.84" × 2.11" (44.3 mm × 21.3 mm × 53.5 mm)
+> - Each AirPod measures in at 0.65" × 0.71" × 1.59" (16.5 mm × 18.0 mm × 40.5 mm) while the charging case measures in at 1.74" × 0.84" × 2.11" (44.3 mm × 21.3 mm × 53.5 mm)
 > - Utilizes Bluetooth technology and Apple's new W1 chip for wireless connectivity
 > - Uses microphones, optical sensors, and a motion accelerometer for in-ear detection
 > - Beamforming microphones are coupled with an additional accelerometer in order to filter out unwanted noise
