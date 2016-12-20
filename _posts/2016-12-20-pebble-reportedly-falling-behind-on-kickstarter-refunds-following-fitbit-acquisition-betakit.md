@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Pebble reportedly falling behind on Kickstarter refunds following Fitbit acquisition | BetaKit" 
 date: 2016-12-20T18:27:13.909Z 
 link: http://betakit.com/pebble-reportedly-falling-behind-on-kickstarter-refunds-following-fitbit-acquisition/ 
