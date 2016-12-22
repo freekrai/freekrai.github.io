@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Nintendo Share Prices Decline in Reaction to Super Mario Run Pricing and Internet Connection Criticisms" 
 date: 2016-12-22T18:06:53.723Z 
 link: http://www.macrumors.com/2016/12/19/super-mario-run-criticisms/ 
