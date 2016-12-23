@@ -21,3 +21,5 @@ bodyclass: post
 > “Ladies and gentlemen, we found the device,” said the captain. “Luckily only the name of the device was changed to ‘Galaxy Note 7'. It was not a GN7.”
 
 (－‸ლ)
+
+Do not name your phone's hotspot after a banned phone while in the air... That's just common sense isn't it?
