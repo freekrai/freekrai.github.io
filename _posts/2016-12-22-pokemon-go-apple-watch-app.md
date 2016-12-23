@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Pokémon Go Apple Watch App Released" 
 date: 2016-12-23T03:21:51.427Z 
 link: http://pokemongo.nianticlabs.com/en/post/apple-watch/ 
