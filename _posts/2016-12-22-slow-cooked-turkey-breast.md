@@ -13,7 +13,7 @@ It's christmas, and one favourite christmas dish is turkey.
 
 ### What you need
 
-- 2 kg / 4 lb turkey breast, skin on, bone in or boneless (if using frozen, thaw it) (Note 1)
+- 2 kg / 4 lb turkey breast, skin on, bone in or boneless
 - 1 head of garlic, cut in half horizontally
 - 1 onion (brown, yellow or white), unpeeled, cut in half
 - 5 sprigs of thyme (or 2 tsp dried thyme leaves)
@@ -39,8 +39,9 @@ It's christmas, and one favourite christmas dish is turkey.
 3. Cover turkey with the Rub, using most for the side and top.
 4. Place the garlic, onion and thyme in the slow cooker.
 5. Place the turkey breast on top so it is elevated.
-6. Cook on low for 6-7 hours.
-7. Remove turkey from the slow cooker and let it rest for 20 minutes before crisping the skin.
+6. Cook on high for 1 hour
+7. Cook on low for 6-7 hours.
+8. Remove turkey from the slow cooker and let it rest for 20 minutes before crisping the skin.
 
 #### Gravy
 
