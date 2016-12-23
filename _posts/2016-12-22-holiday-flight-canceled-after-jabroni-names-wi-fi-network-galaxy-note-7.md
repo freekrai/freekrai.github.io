@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Holiday Flight Canceled After Jabroni Names Wi-Fi Network 'Galaxy Note 7'" 
 date: 2016-12-23T03:29:25.712Z 
 link: http://gizmodo.com/holiday-flight-canceled-after-jabroni-names-wi-fi-netwo-1790425625 
@@ -10,7 +10,7 @@ ogtype: article
 bodyclass: post 
 ---
 
-> This week, one Virgin America flight was delayed and another was reportedly canceled after crew members discovered a wi-fi hotspot named “Samsung Galaxy Note 7” mid-flight. Ultimately, however, no Note 7 was found on the plane, as the network belonged to another device named to resemble the banned smartphone.
+> This week, one Virgin America flight was delayed and another [was reportedly](http://www.bbc.com/news/technology-38404711?ocid=socialflow_twitter) canceled after crew members discovered a wi-fi hotspot named “Samsung Galaxy Note 7” mid-flight. Ultimately, however, no Note 7 was found on the plane, as the network belonged to another device named to resemble the banned smartphone.
 > 
 > According to one passenger, the trouble began when crew members on a flight from San Francisco to Boston tried to recover the smartphone associated with a network named “Samsung Galaxy Note7_1097” and no one came forward.
 > 
