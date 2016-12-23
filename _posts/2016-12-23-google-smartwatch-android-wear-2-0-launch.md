@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Google will launch two flagship smartwatches early next year - The Verge" 
 date: 2016-12-23T16:15:13.226Z 
 link: http://www.theverge.com/2016/12/22/14057656/google-smartwatch-android-wear-2-0-launch 
