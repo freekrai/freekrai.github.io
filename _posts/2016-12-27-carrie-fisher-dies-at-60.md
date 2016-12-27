@@ -1,7 +1,7 @@
 ---
 layout: post 
-published: false 
-title: "Carrie Fisher, Dies at 60" 
+published: true 
+title: "Carrie Fisher Dies at 60" 
 date: 2016-12-27T19:18:59.883Z 
 link: http://www.nytimes.com/2016/12/27/movies/carrie-fisher-dead-star-wars-princess-leia.html?_r=0 
 tags:
