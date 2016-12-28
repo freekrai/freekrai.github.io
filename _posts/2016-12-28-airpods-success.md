@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Tim Cook says AirPods are ‘a runaway success’" 
 date: 2016-12-28T22:46:23.495Z 
 link: http://www.theverge.com/2016/12/28/14101202/apple-airpods-runaway-success-tim-cook-no-sales-figures 
@@ -15,10 +15,6 @@ Jacob Kastrenakes, writing for The Verge:
 > Tim Cook wandered into the New York Stock Exchange this morning and started taking questions about his holiday plans, product sales, and AirPods. His responses raised some big questions — Why isn’t he at NASDAQ, where AAPL is traded? Does he really think the NYSE will be a fun trip for his nephew? — but the biggest question he left unanswered is around the initial success of AirPods.
 > 
 > In response to a comment about the AirPods selling after their launch this month, Cook said that the product has been “a runaway success” and that Apple is “making them just as fast as we can” in order to meet demand.
-> 
-> > NEW: Apple CEO Tim Cook tells CNBC that "it's been a great holiday" and the company's new Airpod headphones "are a run away success" [pic.twitter.com/lDo0Fdw7ym](https://t.co/lDo0Fdw7ym)
-> > 
-> >  — CNBC Now (@CNBCnow) [December 28, 2016](https://twitter.com/CNBCnow/status/814154469877239808)
 > 
 > By some measures, that appears to be true. Within a day of their December 13th launch, AirPods were shipping on a six-week delay that continues today. In-store pickup for AirPods units isn’t expected to be available again until mid-February.
 > 
