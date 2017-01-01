@@ -21,7 +21,3 @@ Jacob Kastrenakes, writing for The Verge:
 > But that’s all anecdotal, since the product’s availability is limited by how many units Apple was able to get off the assembly line before launch and how quickly it’s now able to make more of them. Cook’s comments don’t do much to elaborate on what we’re already seeing — they’re the kind of generically positive statement you’d expect him to make after any Apple product is released.
 > 
 > The reality is that we have no idea how well the AirPods are doing, and we’re unlikely to get firm info on them out of Apple anytime soon. Apple did not respond to a request for more details on the AirPods’ sales figures, nor on whether it would highlight the AirPods during its coming earnings releases.
-
-That the AirPods have been a success can be seen in their selling out so fast. 
-
-The author asking for sales figures, however,  almost sounds bitter about it.
