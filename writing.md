@@ -5,7 +5,7 @@ title: Writing
 permalink: /writing/
 ---
 
-I have over fifteen years of experience in developing web copy, ebooks, whitepapers, in-depth guides, print articles and blog content in a variety of verticals. 
+I have over twenty years of experience _<small>(wow, time really does fly doesn't it?)</small>_ in developing web copy, ebooks, whitepapers, in-depth guides, print articles and blog content in a variety of verticals.
 
 Topics that I am passionate about include, but are not limited to, the following.
 
@@ -31,8 +31,8 @@ And a variety of other topics.
 
 ## My Own Writing Projects
 
-For my own writing, I write here on this blog, as well as on [The Flybase Blog](http://blog.flybase.io), and I am also 
-currently focusing on writing two self-published books. 
+For my own writing, I write here on this blog, as well as on [The Flybase Blog](http://blog.flybase.io), and I am also
+currently focusing on writing two self-published books.
 
 Previously, I've [published with Pakt press](http://twiliocookbook.com/), but this time, I've chosen to go the self-publishing route via [Lean Pub](https://leanpub.com/u/freekrai).
 

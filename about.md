@@ -9,11 +9,11 @@ I’m Roger Stringer, and I’m a DevOps Engineer, full-stack software developer
 
 This blog is where I write and share. You will see everything from reviews, posts about tech and design, to [food](/tags/food).
 
-I’m the founder of [Flybase](http://flybase.io/ "Flybase"), a real-time app platform that enables developers to quickly build apps without having to worry about the backend stuff. You can find me blogging at the [Flybase Blog](http://blog.flybase.io) on various topics, and also at the [MVPin30](http://mvpin30.com) blog.
+I’m the founder of [Flybase](https://flybase.io/ "Flybase"), a real-time app platform that enables developers to quickly build apps without having to worry about the backend stuff. You can find me blogging at the [Flybase Blog](https://blog.flybase.io) on various topics, and also at the [MVPin30](http://mvpin30.com) blog.
 
 I also work heavily with [Twilio](http://twiliocookbook.com), PHP, Node.js / JavaScript, NoSQL, APIs, [DevOps](http://devops.freekrai.net), Angular.js, and WordPress, so you’ll see some posts about all of these on here, as well as a variety of other topics.
 
-I’m also a dad, music lover, film buff, comic book collector, [foodie](/tags/food) and electric scooter enthusiast _(specifically the Ecoped Pulse)_. I spend my spare time doing fun stuff with my daughter, and cooking up new recipes to post on here.
+I’m also a dad, music lover, film buff, comic book collector, [foodie](/tags/food) and electric scooter enthusiast _(specifically the Ecoped Pulse)_. I spend my spare time building things, doing fun stuff with my daughter, and cooking up new recipes to post on here.
 
 I’m also a type-2 insulin dependant diabetic, so once in a while, you’ll see some posts related to that as well.
 
@@ -21,18 +21,18 @@ I’m also a type-2 insulin dependant diabetic, so once in a while, you’ll see
 
 ### Additional Endeavors
 
+- Founder and Curator of [We Be Remote](http://weberemote.com), a job search site for remote workers.
+- Founder of [WorkerPod.com](http://workerpod.com "WorkerPod"), a job search site that brings together job listings from across the Internet and geared towards tech professionals
 - I also blog at [MVPin30](http://mvpin30.com/), where we talk about growth hacking, and building MVPs.
 - I wrote the [Twilio Cookbook](http://www.packtpub.com/twilio-cookbook/book) for Pakt Publishing
 - Founder, and lead developer at [Freekrai.net](http://freekrai.net)
-- Founder and Curator of [We Be Remote](http://weberemote.com), a job search site for remote workers.
-- Founder of [WorkerPod.com](http://workerpod.com "WorkerPod"), a job search site that brings together job listings from across the Internet and geared towards tech professionals
 - Developer of the [Jolt Micro Framework](https://github.com/freekrai/jolt) for PHP.
 
 ---
 
 ### Colophon
 
-This site is coded by hand in [Coda 2](http://panic.com/coda/) on a 13″ MacBook Pro with Retina, and [Diet Coda](http://panic.com/dietcoda) on an iPad Air 2. It is running on Jekyll and hosted on Github via [Github Pages](https://pages.github.com/) .
+This site is coded by hand in [Coda 2](http://panic.com/coda/) on a 12″ MacBook with Retina, and [Diet Coda](http://panic.com/dietcoda) on an iPad Air 2. It is running on Jekyll and hosted on Github via [Github Pages](https://pages.github.com/) .
 
 I use [Byword](http://bywordapp.com/) to draft and edit posts, usually on either my MacBook Pro, my iPad, iPad Mini or my iPhone.
 
