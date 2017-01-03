@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Apple’s 2016 in review" 
 date: 2017-01-03T19:37:21.788Z 
 link: https://chuqui.com/2017/01/apples-2016-in-review/ 
