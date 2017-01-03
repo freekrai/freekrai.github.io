@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Evolving iPad Desktop Usage" 
 date: 2017-01-03T19:41:19.288Z 
 link: https://brooksreview.net/2016/12/evovling-ipad-desktop-usage/ 
