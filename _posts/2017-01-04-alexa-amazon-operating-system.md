@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Alexa: Amazon’s Operating System" 
 date: 2017-01-04T18:00:32.911Z 
 link: https://stratechery.com/2017/amazons-operating-system/ 
@@ -18,4 +18,4 @@ Ben Thompson on how Amazon is building an operating system for the home with Ale
 > 
 > *   Secondly, “Alexa” and “Echo” are different names because they are different products: Alexa is the voice assistant, and much like AWS and Amazon.com, Echo is Alexa’s first customer, but hardly its only one. This year CES announcements are dominated by products that run Alexa, including [direct Echo competitors](https://www.cnet.com/products/lenovo-smart-assistant-with-amazon-alexa/), [lamps](https://www.cnet.com/products/c-by-ge-lamp-with-alexa/), [set-top boxes](https://www.cnet.com/news/dont-lift-a-finger-let-amazon-alexa-change-the-channel/), [TVs](http://variety.com/2017/digital/news/amazon-tv-4k-fire-tv-westinghouse-1201951335/), and [more](http://variety.com/2017/digital/news/amazon-tv-4k-fire-tv-westinghouse-1201951335/).
 
-I've been using Homekit / Siri myself as Alexa isn't widely available here in Canada, but it's still interesting to see how Alexa is growing as it gets added to more and more systems.
+I've been using Homekit / Siri myself at home for some tasks as Alexa isn't widely available here in Canada, but it's still interesting to see how Alexa is growing as it gets added to more and more systems.
