@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Apple sued over fatal 'FaceTime crash'" 
 date: 2017-01-04T16:33:46.718Z 
 link: http://www.bbc.com/news/technology-38496174 
