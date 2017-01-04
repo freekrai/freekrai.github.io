@@ -1,7 +1,7 @@
 ---
 layout: post 
 published: false 
-title: "Alexa: Amazon’s Operating System " 
+title: "Alexa: Amazon’s Operating System" 
 date: 2017-01-04T18:00:32.911Z 
 link: https://stratechery.com/2017/amazons-operating-system/ 
 tags:
