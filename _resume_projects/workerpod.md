@@ -1,6 +1,6 @@
 ---
 title: WorkerPod
-url: http://workerpod.com
+link: http://workerpod.com
 date: 2012-10-01
 active: true
 ---
