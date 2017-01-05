@@ -54,8 +54,8 @@ published: true
 {% for project in projects reversed %}
 	<div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
 		<h3 class="resume-item-title" itemprop="name">
-			{% if project.url %}
-				<a href="{{ project.url }}">{{ project.title }}</a>
+			{% if project.link %}
+				<a href="{{ project.link }}">{{ project.title }}</a>
 			{% else %}
 				{{ project.title }}
 			{% endif %}
