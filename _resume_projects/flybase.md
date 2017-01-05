@@ -1,6 +1,6 @@
 ---
 title: Flybase.io
-url: http://flybase.io
+link: http://flybase.io
 date: 2014-10-01
 active: true
 ---
