@@ -23,6 +23,7 @@ I’m also a type-2 insulin dependant diabetic, so once in a while, you’ll see
 
 - Founder and Curator of [We Be Remote](http://weberemote.com), a job search site for remote workers.
 - Founder of [WorkerPod.com](http://workerpod.com "WorkerPod"), a job search site that brings together job listings from across the Internet and geared towards tech professionals
+- I also blog at [Coded Geekery](http://codedgeekery.com/), which is a longer form, more opionated blog about finding a work life balance.
 - I also blog at [MVPin30](http://mvpin30.com/), where we talk about growth hacking, and building MVPs.
 - I wrote the [Twilio Cookbook](http://www.packtpub.com/twilio-cookbook/book) for Pakt Publishing
 - Founder, and lead developer at [Freekrai.net](http://freekrai.net)
