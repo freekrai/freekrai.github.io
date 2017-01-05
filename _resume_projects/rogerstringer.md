@@ -1,6 +1,6 @@
 ---
 title: RogerStringer.com
-url: http://rogerstringer.com
+link: http://rogerstringer.com
 date: 2004-04-01
 active: true
 ---
