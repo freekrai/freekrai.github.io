@@ -1,6 +1,6 @@
 ---
 title: weberemote.com
-url: http://weberemote.com
+link: http://weberemote.com
 date: 2016-07-01
 active: true
 ---
