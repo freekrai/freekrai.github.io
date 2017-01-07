@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Nick Offerman takes on the nonsense gadgets of CES 2017" 
 date: 2017-01-07T02:41:08.226Z 
 link: http://www.theverge.com/2017/1/6/14196836/nick-offerman-parks-and-tech-nonsense-gadgets-ces-2017 
