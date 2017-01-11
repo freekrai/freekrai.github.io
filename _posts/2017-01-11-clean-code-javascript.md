@@ -6,6 +6,7 @@ date: 2017-01-11T19:31:25.871Z
 link: https://github.com/ryanmcdermott/clean-code-javascript 
 tags:
   - links
+  - code
 ogtype: article 
 bodyclass: post 
 ---
