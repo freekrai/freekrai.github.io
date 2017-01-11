@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Spotify Job Opening: President of Playlists" 
 date: 2017-01-11T01:56:42.688Z 
 link: https://www.spotify.com/us/jobs/view/o0CA4fw0/ 
