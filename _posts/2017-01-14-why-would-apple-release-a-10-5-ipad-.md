@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Why would Apple release a 10.5" iPad?" 
 date: 2017-01-14T16:19:50.013Z 
 link: https://blog.studioneat.com/why-would-apple-release-a-10-5-ipad-ca4441f7f628#.1ps6xpg56 
