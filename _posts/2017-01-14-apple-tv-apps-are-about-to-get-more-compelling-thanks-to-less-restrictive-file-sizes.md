@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Apple TV Apps Are About to get More Compelling Thanks to Less Restrictive File Sizes" 
 date: 2017-01-14T16:28:27.977Z 
 link: https://www.macobserver.com/news/apple-tv-less-restrictive-file-sizes/ 
