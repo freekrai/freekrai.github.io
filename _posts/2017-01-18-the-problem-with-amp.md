@@ -16,6 +16,8 @@ Kyle Schreiber:
 > 
 > Make no mistake. AMP is about lock-in for Google. AMP is meant to keep publishers tied to Google. Clicking on an AMP link feels like you never even leave the search page, and links to AMP content are displayed prominently in Google’s news carousel. This is their response to similar formats from both Facebook and Apple, both of which are designed to keep users within their respective ecosystems. However, Google’s implementation of AMP is more broad and far reaching than the Apple and Facebook equivalents. Google’s implementation of AMP is on the open web and isn’t limited to just an app like Facebook or Apple.
 
-I've played with AMP, Facebook Instant Articles and Apple News. Apple News and Facebook Instant Articles work great, mostly using RSS feeds.
+I've played with AMP, Facebook Instant Articles and Apple News. Apple News and Facebook Instant Articles work great, mostly using RSS feeds and not needing many changes to your look. But that's not my biggest issue with AMP. 
 
-My biggest issue with AMP, is not having to do special webpage layouts that include inline CSS. My issue is canonical URLs. With things like Facebook Instant Articles and Apple News, the canonical URL for each story remains on the originating website.  With AMP, from the perspective of typical users, the canonical URL is on google.com.
+My biggest problem with AMP is not having to do special webpage layouts that include inline CSS. 
+
+My issue is canonical URLs. With things like Facebook Instant Articles and Apple News, the canonical URL for each story remains on the originating website.  While with AMP, the canonical URL is on google.com.
