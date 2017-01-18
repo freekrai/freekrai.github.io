@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Nintendo's Switch won't run 'Zelda' at 1080p" 
 date: 2017-01-18T16:46:46.067Z 
 link: https://www.engadget.com/2017/01/18/zelda-breath-wild-switch-wii-u-differences/ 
