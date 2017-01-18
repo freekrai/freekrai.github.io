@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "The Problem With AMP" 
 date: 2017-01-18T16:43:21.493Z 
 link: https://80x24.net/post/the-problem-with-amp/ 
