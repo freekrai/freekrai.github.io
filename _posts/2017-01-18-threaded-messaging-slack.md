@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Threaded messaging comes to Slack" 
 date: 2017-01-18T19:38:04.220Z 
 link: https://slackhq.com/threaded-messaging-comes-to-slack-417ffba054bd#.9c4yimrna 
