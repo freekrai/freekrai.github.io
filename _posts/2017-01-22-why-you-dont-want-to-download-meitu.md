@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Here's why you don't want to download Meitu" 
 date: 2017-01-23T04:45:45.491Z 
 link: https://www.cnet.com/news/meitu-app-privacy-issues-why/#ftag=CAD590a51e 
