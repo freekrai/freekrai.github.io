@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Samsung says bad batteries and rushed manufacturing doomed the Galaxy Note 7" 
 date: 2017-01-23T04:43:41.125Z 
 link: http://www.theverge.com/2017/1/22/14353686/samsung-galaxy-note-7-recall-reason-report 
