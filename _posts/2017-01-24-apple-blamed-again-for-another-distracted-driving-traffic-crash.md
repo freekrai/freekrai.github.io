@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Apple blamed again for another distracted driving traffic crash" 
 date: 2017-01-25T00:21:18.897Z 
 link: http://arstechnica.com/tech-policy/2017/01/apple-sued-again-for-not-deploying-iphone-tech-to-block-distracted-driving/ 
