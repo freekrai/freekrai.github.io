@@ -1,8 +1,8 @@
 ---
 employer: Pakt Publishing
-title: Contract Author (Twilio Cookbook second edition)
-start_date: 2013-11-01
-end_date: 2014-07-30
+title: Contract Author (Twilio Cookbook)
+start_date: 2012-11-01
+end_date: 2013-09-30
 ---
 
 - While writing the Twilio Cookbook, my duties included developing an outline, and then writing and developing code for each of the ten chapters of the book. This is followed by working with editors and reviewers to produce a finished product.
