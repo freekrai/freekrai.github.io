@@ -1,6 +1,6 @@
 ---
 employer: Devshed.com
-title: Freelance writerWebmaster / Web Developer
+title: Freelance writer
 start_date: 2004-03-01
 end_date: 2006-10-01
 ---
