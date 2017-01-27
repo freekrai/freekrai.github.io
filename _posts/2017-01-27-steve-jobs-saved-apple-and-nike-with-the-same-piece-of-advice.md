@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Steve Jobs saved Apple and Nike with the same piece of advice" 
 date: 2017-01-27T19:05:55.684Z 
 link: https://qz.com/884489/steve-jobs-saved-apple-and-nike-with-the-same-piece-of-advice/ 
@@ -18,11 +18,10 @@ Quartz:
 > 
 > During their call, Steve Jobs gave one piece of advice that stuck with Parker.
 > 
-> 
 > > Nike makes some of the best products in the world. Products that you lust after. 
-> > But you also make a lot of crap. Just get rid of the crappy stuff and focus on the good stuff.
 > > 
-> > — Steve Jobs
+> > But you also make a lot of crap. Just get rid of the crappy stuff and focus on the good stuff.
+> 
 > 
 > “He was absolutely right,” said Parker. “We had to edit.”
 
