@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Sam Altman: Time to Take a Stand" 
 date: 2017-01-29T02:51:19.311Z 
 link: http://blog.samaltman.com/time-to-take-a-stand 
