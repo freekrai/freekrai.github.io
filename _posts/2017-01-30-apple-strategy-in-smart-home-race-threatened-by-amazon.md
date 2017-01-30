@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Apple strategy in 'smart home' race threatened by Amazon" 
 date: 2017-01-30T20:54:58.133Z 
 link: http://www.reuters.com/article/us-apple-amazon-analysis-idUSKBN15B1AG 
@@ -44,4 +44,4 @@ Apple's approach is slower, but gives us more robust and secure devices. When yo
 
 But at the same time, this approach could lead to less people buying into the HomeKit ecosystem - especially if devices end up costing more. 
 
-I've mostly use HomeKit so far, and I love it, but that's mostly because Amazon Echo isn't really available in Canada easily.
+I've mostly use HomeKit so far, and I love it, but that's mostly because Amazon Echo isn't really available in Canada easily. But I can see the appeal for Echo and it's cheaper devices.
