@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Apple CEO Tim Cook on Immigration Executive Order: 'It is Not a Policy We Support'" 
 date: 2017-01-30T21:01:47.023Z 
 link: http://www.macrumors.com/2017/01/28/tim-cook-on-immigration-order/ 
