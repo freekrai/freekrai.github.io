@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Google's Sergey Brin and CEO speak at Trump immigration ban rally" 
 date: 2017-01-31T20:06:13.115Z 
 link: http://www.businessinsider.com/google-employees-simultaneous-walkout-to-rally-against-trump-immigration-ban-2017-1 
