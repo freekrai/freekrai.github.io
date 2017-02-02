@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Google, Apple, Facebook, Uber plan to draft joint letter opposing Trump’s travel ban" 
 date: 2017-02-02T04:42:39.755Z 
 link: http://www.recode.net/2017/2/1/14480988/google-apple-facebook-joint-letter-opposing-trump-travel-ban 
