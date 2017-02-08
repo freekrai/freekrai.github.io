@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Fire starts at Samsung’s Note 7 battery supplier" 
 date: 2017-02-08T18:09:24.049Z 
 link: http://www.theverge.com/2017/2/8/14549512/samsung-note-7-battery-supplier-fire 
@@ -9,6 +9,8 @@ tags:
 ogtype: article 
 bodyclass: post 
 ---
+
+ Jacob Kastrenakes, writing for the Verge:
 
 > A small fire broke out today at a Samsung-related factory responsible for producing batteries for none other than the Galaxy Note 7. [According to _Reuters_](http://www.reuters.com/article/samsung-sdi-batteries-fire-idUSL4N1FT3BX), the fire started in a waste facility and was caused by products including faulty batteries. The fire was reportedly extinguished before it could cause any substantial delays or harm to the factory. Samsung said that no one was killed.
 > 
