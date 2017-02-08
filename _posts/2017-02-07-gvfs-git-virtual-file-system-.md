@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "GVFS (Git Virtual File System)" 
 date: 2017-02-08T05:37:24.653Z 
 link: https://blogs.msdn.microsoft.com/visualstudioalm/2017/02/03/announcing-gvfs-git-virtual-file-system/ 
