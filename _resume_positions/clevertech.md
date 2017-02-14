@@ -41,6 +41,6 @@ skills:
 - Set up Ansible playbooks for server setup, server updates, server backups, background jobs that are needed to run on each server, and code deployments to prod servers on projects that required a scheduled prod deployment rather than automated deployments.
 - Assisted developers with coding issues on their various client projects as needed
 - Trained junior DevOps on DevOps setup and procedures
-- Mentored new developers on company culture
+- Mentored new developers on company culture and DevOps procedures
 - Kept documents updated via the internal field guide and DevOps wikis
-- Applicable Skills: PHP, New Relic, Datadog, Webrtc, Git, AWS, Docker, Node.js Angular.js, Ansible, Bash, System Administration, Travis-CI, Jenkins, Technical Writing, Mongo Redis, Python, e2e  Testing, functional unit testing, CircleCI, Cypress, Codeship, Heroku, Dokku, Customer Support
+- Applicable Skills: PHP, New Relic, Datadog, Webrtc, Git, AWS, Docker, Kubernetes, Node.js Angular.js, Ansible, Bash, System Administration, Travis-CI, Jenkins, Technical Writing, DynamoDB, Lambda, Mongo, Redis, Python, e2e Testing, functional unit testing, CircleCI, Cypress, Codeship, Heroku, Dokku, Nagios, Customer Support
