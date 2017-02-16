@@ -6,7 +6,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link href='http://fonts.googleapis.com/css?family=Lora:400,700|Open+Sans:400,300,800,700' rel='stylesheet' type='text/css'>
 	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-T8Gy5hrqNKT+hzMclPo118YTQO6cYprQmhrYwIiQ/3axmI1hQomh7Ud2hPOy8SP1" crossorigin="anonymous">
-	<link rel="stylesheet" href="/assets/resume/css/main.css?v=123">
+	<link rel="stylesheet" href="/assets/resume/css/main.css?v={{ site.time | date: '%s' }}">
 	<link rel="icon" type="image/x-icon" href="/assets/resume/favicon.png" />
 	{% seo %}
 </head>
@@ -35,15 +35,27 @@
 				</ul>
 			</div>
 			<div class="executive-summary" itemprop="description">
-				<p>Roger Stringer is a full-stack developer, DevOps Engineer and technical writer.</p>
+				<p>Roger Stringer is a Full-Stack Developer, DevOps Engineer, Public Speaker and Technical Writer. He wears many hats and would be happy to work with your company.</p>
 			</div>
-			<table width=100%>
+			<table width=100% id="bigbuttons" class="no-print">
 			<tr>
 				<td>
 					<a href="mailto:roger.stringer@me.com" class="contact-button" itemprop="email">Email me</a>
 				</td>
 				<td>
 					<a href="tel:12504861027" class="contact-button" itemprop="tel">Call me</a>
+				</td>
+			</tr>
+			</table>
+			<table width=100% id="contactme" class="print-only">
+			<tr>
+				<td>
+					Email: roger.stringer@me.com
+				</td>
+			</tr>
+			<tr>
+				<td>
+					Phone: 12504861027
 				</td>
 			</tr>
 			</table>

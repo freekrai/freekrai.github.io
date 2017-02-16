@@ -7,6 +7,28 @@ body {
     margin: 0
 }
 
+body:after {
+	content: 'desktop';
+	visibility: hidden;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 0;
+	height: 0;
+	z-index: -1;
+	pointer-events: none;
+}
+@media (max-width:991px) {
+	body: after {
+		content: 'tablet'
+    }
+}
+@media (max-width:600px) {
+	body: after {
+		content: 'mobile'
+	}
+}
+
 article,
 aside,
 details,
@@ -539,7 +561,7 @@ body {
     color: #9c9c9c
 }
 
-.content-section .resume-item-copy, 
+.content-section .resume-item-copy,
 .content-section p,
 .content-section ul li {
     margin: .75rem 0 0
@@ -561,4 +583,18 @@ body {
 .page-footer .footer-line>a {
     font-weight: 700;
     color: #333
+}
+
+
+.print-only{
+	display: none;
+}
+
+@media print {
+	.no-print {
+		display: none;
+	}
+	.print-only{
+		display: block;
+	}
 }
