@@ -1,7 +1,7 @@
 ---
 layout: post 
 published: false 
-title: "The Ultimate Cable Television Cord Cutting Solution for Apple TV" 
+title: "Cord Cutting for Apple TV" 
 date: 2017-02-16T20:50:41.358Z 
 link: https://appadvice.com/post/ultimate-cord-cutting-apple-tv/736679 
 tags:
