@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "White House Bars Times and Other News Outlets From Briefing" 
 date: 2017-02-24T20:48:37.348Z 
 link: https://www.nytimes.com/2017/02/24/us/politics/white-house-sean-spicer-briefing.html?smid=tw-share&_r=2 
