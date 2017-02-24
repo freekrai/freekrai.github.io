@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Cloudbleed: How to deal with it" 
 date: 2017-02-24T17:23:24.603Z 
 link: https://medium.com/@octal/cloudbleed-how-to-deal-with-it-150e907fd165#.l2mqxkha2 
