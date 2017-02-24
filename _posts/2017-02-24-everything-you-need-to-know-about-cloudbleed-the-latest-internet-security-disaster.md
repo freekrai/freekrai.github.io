@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Everything You Need to Know About Cloudbleed, the Latest Internet Security Disaster" 
 date: 2017-02-24T17:22:08.171Z 
 link: http://gizmodo.com/everything-you-need-to-know-about-cloudbleed-the-lates-1792710616 
