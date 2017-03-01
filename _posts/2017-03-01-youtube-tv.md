@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "YouTube is entering the cable cord-cutter business with youtube.tv" 
 date: 2017-03-01T22:27:38.746Z 
 link: https://news.fastcompany.com/its-official-youtube-is-entering-the-cable-cord-cutter-business--4031528 
