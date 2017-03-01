@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Uber CEO gets into an argument with driver" 
 date: 2017-03-01T21:40:01.405Z 
 link: http://www.reuters.com/article/us-uber-ceo-apology-idUSKBN168337 
