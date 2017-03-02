@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Google calls ‘time’ on the Pixel laptop" 
 date: 2017-03-02T04:04:56.657Z 
 link: https://techcrunch.com/2017/02/28/google-calls-time-on-the-pixel-laptop/ 
