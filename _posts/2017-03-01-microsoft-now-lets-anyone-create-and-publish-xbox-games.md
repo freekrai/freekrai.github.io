@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Microsoft now lets anyone create and publish Xbox games" 
 date: 2017-03-02T04:02:03.009Z 
 link: http://www.theverge.com/2017/3/1/14784684/microsoft-xbox-one-windows-10-indie-game-development 
