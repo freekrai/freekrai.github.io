@@ -11,7 +11,8 @@ end_date: 2013-10-30
 - Developed the Verisend system to handle file uploads and store and forward
 - Built the initial HTML5 version of the IPTV system to work on iPads, iPhones and other mobile devices.
 - Responsible for maintaining web servers and daily backup strategies on our various MediaTemple and Amazon servers.
-- Developer the Voddio Console which integrated with the Voddio and First Video apps and the MiMS Platform to provide a console for target and user management which talked to the iOS apps.
+- Developed the Voddio Console which integrated with the Voddio and First Video apps and the MiMS Platform to provide a console for target and user management which talked to the iOS apps.
 - Developed the initial VeriLocal framework for IPTV systems using WordPress
 - Maintained MiMS Platform on Google App Engine with Python
-- Applicable Skills: Webmaster / DevOps, Linux Systems Admin, NodeJS, MongoDB, Redis Amazon EC2, Amazon SimpleDB, Amazon S3, PHP, MySQL, Ajax, XML, JSON, WordPress Photoshop, Ruby, Scrum, Google App Engine, Python, Django, APC, Memcache, JavaScript Chef
+- Worked with Chef playbooks to handle deployment and testing.
+- Applicable Skills: Webmaster / DevOps, Linux Systems Admin, NodeJS, MongoDB, Redis Amazon EC2, Amazon SimpleDB, Amazon S3, PHP, MySQL, Ajax, XML, JSON, WordPress Photoshop, Ruby, Scrum, Google App Engine, Python, Django, APC, Memcache, JavaScript, Chef
