@@ -1,7 +1,7 @@
 ---
 layout: post 
-published: false 
-title: "Steve Jobs’s first reaction to the Genius Bar: That’s so idiotic! It’ll never work!" 
+published: true
+title: "Steve Jobs’s first reaction to the Genius Bar: 'That’s so idiotic! It will never work!'" 
 date: 2017-03-07T19:37:02.868Z 
 link: http://www.recode.net/2017/3/6/14823460/apple-store-steve-jobs-genius-bar-ron-johnson-recode-podcast 
 tags:
