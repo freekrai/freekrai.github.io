@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Amazon puts Alexa inside its main iPhone app" 
 date: 2017-03-17T13:57:40.858Z 
 link: http://venturebeat.com/2017/03/16/amazon-puts-alexa-inside-its-main-iphone-app/ 
