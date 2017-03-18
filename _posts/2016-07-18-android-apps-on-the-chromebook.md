@@ -16,7 +16,7 @@ What can I say, despite being an Apple guy, I'm also a fan of Chromebooks, they 
 
 Using tools like Cloud9 or CodeAnywhere, you can do most of your web coding, and even connect to servers to manage sites via terminal.
 
-_Heck, using [Appgyver](appgyver.com), I recently build an iOS app without needing Xcode at all, as I built it all using Cloud9, then deployed to their site and have Appgyver perform the xcode builds._
+_Heck, using [Appgyver](http://appgyver.com), I recently build an iOS app without needing Xcode at all, as I built it all using Cloud9, then deployed to their site and have Appgyver perform the xcode builds._
 
 Now, Google has released the Google Play Store and let you run Android Apps on it. This lets you do even more.
 
