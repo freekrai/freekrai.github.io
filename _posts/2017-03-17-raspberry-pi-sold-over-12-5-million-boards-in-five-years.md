@@ -1,7 +1,7 @@
 ---
 layout: post 
-published: false 
-title: "Raspberry Pi sold over 12.5 million boards in five years - The Verge" 
+published: true 
+title: "Raspberry Pi sold over 12.5 million boards in five years" 
 date: 2017-03-18T04:46:32.528Z 
 link: http://www.theverge.com/circuitbreaker/2017/3/17/14962170/raspberry-pi-sales-12-5-million-five-years-beats-commodore-64 
 tags:
