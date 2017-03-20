@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "John Gruber on the Purported 10.5-Inch iPad" 
 date: 2017-03-20T23:40:49.604Z 
 link: http://daringfireball.net/2017/03/about_that_10_point_5_inch_ipad 
