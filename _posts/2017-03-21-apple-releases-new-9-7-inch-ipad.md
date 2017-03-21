@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Apple releases new 9.7-inch iPad" 
 date: 2017-03-21T19:19:04.011Z 
 link: http://www.apple.com/newsroom/2017/03/new-9-7-inch-ipad-features-stunning-retina-display-and-incredible-performance.html 
