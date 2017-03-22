@@ -40,9 +40,9 @@ skills:
 - Performed Load testing and tuning of servers and apps to handle higher loads using jMeter, BlazeMeter, New Relic Synthetics, Monit and New Relic APM.
 - Set up Chef and Ansible playbooks for server setup, server updates, server backups, background jobs that are needed to run on each server, and code deployments to prod servers on projects that required a scheduled prod deployment rather than automated deployments.
 - Migrated existing customers from parse.com to a standalone Parse Server implmentation.
-- Implemented scalable microservices solutions using Node.js, travis, Docker cloud, Mongo, Redis and SQS to implement tasking between services.
+- Implemented scalable microservices solutions using Node.js, travis, Docker Cloud, Kubernetes / Helm, Mongo, Redis and SQS to implement tasking between services.
 - Assisted developers with coding issues on their various client projects as needed
 - Trained junior DevOps on DevOps setup and procedures
 - Mentored new developers on company culture and DevOps procedures
 - Kept documents updated via the internal field guide and DevOps wikis
-- Applicable Skills: PHP, New Relic, Datadog, Webrtc, Git, AWS, Docker, Kubernetes, Node.js Angular.js, Ansible, Chef, Bash, System Administration, Travis-CI, Jenkins, Technical Writing, SQS, DynamoDB, Lambda, Mongo, Redis, Python, e2e Testing, functional unit testing, CircleCI, Cypress, Codeship, Heroku, Dokku, Nagios, Sensu, Parse Server, Customer Support
+- Applicable Skills: PHP, New Relic, Datadog, Webrtc, Git, AWS, Docker, Kubernetes, Helm, Node.js Angular.js, Ansible, Chef, Bash, System Administration, Travis-CI, Jenkins, Technical Writing, SQS, DynamoDB, Lambda, Mongo, Redis, Python, e2e Testing, functional unit testing, CircleCI, Cypress, Codeship, Heroku, Dokku, Nagios, Sensu, Parse Server, Customer Support
