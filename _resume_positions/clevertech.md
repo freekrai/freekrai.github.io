@@ -45,4 +45,4 @@ skills:
 - Trained junior DevOps on DevOps setup and procedures
 - Mentored new developers on company culture and DevOps procedures
 - Kept documents updated via the internal field guide and DevOps wikis
-- Applicable Skills: PHP, New Relic, Datadog, Webrtc, Git, AWS, Docker, Kubernetes, Helm, Node.js, Angular.js, Ansible, Chef, Bash, System Administration, Travis-CI, Jenkins, Technical Writing, SQS, DynamoDB, Lambda, Mongo, Redis, Python, e2e Testing, functional unit testing, CircleCI, Cypress, Codeship, Heroku, Dokku, Nagios, Sensu, Parse Server, Customer Support, Twilio
+- Applicable Skills: PHP, New Relic, Datadog, Webrtc, Git, AWS, Docker, Kubernetes, Helm, Node.js, Angular.js, Ansible, Chef, Bash, System Administration, Travis-CI, Jenkins, Technical Writing, SQS, DynamoDB, Lambda, Mongo, Redis, Python, e2e Testing, functional unit testing, CircleCI, Cypress, Codeship, Heroku, Dokku, Nagios, Sensu, Parse Server, Customer Support, Twilio, Terraform
