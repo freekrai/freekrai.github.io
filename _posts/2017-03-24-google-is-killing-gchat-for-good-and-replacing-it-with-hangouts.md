@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Google is killing Gchat for good and replacing it with Hangouts" 
 date: 2017-03-24T17:49:05.181Z 
 link: http://www.theverge.com/2017/3/24/15051272/google-talk-gchat-replaced-hangouts-messaging-gmail 
