@@ -1,7 +1,7 @@
 ---
 layout: post 
-published: false 
-title: "David Sparks on The Case For and Against Apple's Purchase of Workflow" 
+published: true 
+title: "David Sparks on Apple's Purchase of Workflow" 
 date: 2017-03-24T18:26:21.529Z 
 link: https://www.macsparky.com/blog/2017/3/apple-buys-workflow 
 tags:
