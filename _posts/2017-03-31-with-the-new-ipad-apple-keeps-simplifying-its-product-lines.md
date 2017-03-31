@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "With the new iPad, Apple keeps simplifying its product lines" 
 date: 2017-03-31T18:50:23.840Z 
 link: http://www.macworld.com/article/3186546/macs/with-the-new-ipad-apple-keeps-simplifying-its-product-lines.html 
