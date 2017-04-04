@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Apple Reimbursing Customers Who Recently Purchased Now-Acquired App Workflow" 
 date: 2017-04-04T16:07:06.712Z 
 link: https://www.macrumors.com/2017/04/03/apple-reimbursing-workflow-purchases/ 
