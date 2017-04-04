@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "John Gruber on The Upcoming Mac Pro Updates" 
 date: 2017-04-04T15:54:48.916Z 
 link: http://daringfireball.net/2017/04/the_mac_pro_lives 
