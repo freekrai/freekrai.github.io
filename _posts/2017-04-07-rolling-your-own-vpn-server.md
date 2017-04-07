@@ -16,4 +16,4 @@ Dan Moren:
 
 Dan walks through how to set up OpenVPN on your own machine, which works great.
 
-I use ExpressVPN myself currently as my primary VPN which is nice.
+I use [ExpressVPN](http://www.expressrefer.com/refer-a-friend/30-days-free/?referrer_id=9547199&utm_campaign=referrals&utm_medium=copy_link&utm_source=referral_dashboard) myself currently as my primary VPN which is nice if you don't want to roll your own VPN server.
