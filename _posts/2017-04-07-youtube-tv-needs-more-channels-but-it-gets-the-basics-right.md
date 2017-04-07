@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "YouTube TV needs more channels, but it gets the basics right" 
 date: 2017-04-07T23:50:35.503Z 
 link: https://www.engadget.com/2017/04/07/youtube-tv-hands-on/ 
