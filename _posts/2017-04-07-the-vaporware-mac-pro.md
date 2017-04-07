@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "The Vaporware Mac Pro" 
 date: 2017-04-07T23:37:06.299Z 
 link: https://medium.com/@mgsiegler/the-vaporware-mac-pro-1f05151f5056 
