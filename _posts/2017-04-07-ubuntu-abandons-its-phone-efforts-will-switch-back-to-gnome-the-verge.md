@@ -1,7 +1,7 @@
 ---
 layout: post 
 published: false 
-title: "Ubuntu abandons its phone efforts, will switch back to GNOME - The Verge" 
+title: "Ubuntu abandons its phone efforts, will switch back to GNOME" 
 date: 2017-04-08T03:50:36.082Z 
 link: http://www.theverge.com/circuitbreaker/2017/4/5/15198178/ubuntu-abandons-phone-moves-back-to-gnome 
 tags:
