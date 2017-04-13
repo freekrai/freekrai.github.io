@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Nintendo Discontinues the NES Classic Edition" 
 date: 2017-04-13T23:24:13.951Z 
 link: http://ca.ign.com/articles/2017/04/13/nintendo-discontinues-the-nes-classic-edition 
