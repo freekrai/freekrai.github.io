@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Someone Made Their Own iPhone 6S" 
 date: 2017-04-13T23:15:11.673Z 
 link: https://strangeparts.com/how-i-made-my-own-iphone-in-china/ 
