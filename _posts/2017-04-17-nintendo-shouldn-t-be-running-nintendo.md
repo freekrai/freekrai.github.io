@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Nintendo Shouldn’t Be Running Nintendo" 
 date: 2017-04-17T14:32:54.698Z 
 link: https://500ish.com/nintendo-shouldnt-be-running-nintendo-3a4dc7bb469d 
@@ -38,4 +38,4 @@ I was lucky enough to get a Classic on launch day, by standing in line at 5am at
 
 The local EB games had nearly 200 people waiting in line for when they opened, hoping to get one of the 15 units they had in stock, and the insanity is that most people had called ahead and knew the stores were only getting X units, but still lined up hoping to get one.
 
-It's a great little unit, fun to play all the retro games.
+It's a great little unit, fun to play all the retro games, and I personally think Nintendo should have kept the Classic around for a year at least before they shelved it.
