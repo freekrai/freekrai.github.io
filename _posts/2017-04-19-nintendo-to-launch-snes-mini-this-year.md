@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Nintendo to launch SNES mini this year" 
 date: 2017-04-19T17:41:01.652Z 
 link: http://www.eurogamer.net/articles/2017-04-19-sources-nintendo-to-launch-snes-mini-this-year 
