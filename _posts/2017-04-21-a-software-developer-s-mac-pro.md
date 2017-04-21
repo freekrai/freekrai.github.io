@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "A Software Developer’s Mac Pro" 
 date: 2017-04-21T15:48:19.079Z 
 link: https://carpeaqua.com/2017/04/09/a-software-developers-mac-pro/ 
