@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "How Apple won silicon: Why Galaxy S8 can't go core-to-core with iPhone 7" 
 date: 2017-04-22T05:01:27.899Z 
 link: http://www.imore.com/heart-of-the-machine 
