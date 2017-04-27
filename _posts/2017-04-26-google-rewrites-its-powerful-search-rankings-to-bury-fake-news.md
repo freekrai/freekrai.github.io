@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Google Rewrites Its Powerful Search Rankings to Bury Fake News" 
 date: 2017-04-27T04:44:06.001Z 
 link: https://www.bloomberg.com/news/articles/2017-04-25/google-rewrites-its-powerful-search-rankings-to-bury-fake-news 
