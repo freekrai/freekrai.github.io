@@ -1,7 +1,7 @@
 ---
 layout: post 
-published: false 
-title: "Building a GTX 1080 Ti-powered Hackintosh" 
+published: true 
+title: "Building a Hackintosh" 
 date: 2017-04-27T17:47:42.483Z 
 link: https://9to5mac.com/2017/04/26/hackintosh-macos-gtx-1080-ti-build-performance-video-part-1/ 
 tags:
