@@ -3,9 +3,6 @@ layout: post
 published: false 
 title: "May the 4th be with you as the star characters sing All Star By Smash Mouth" 
 date: 2017-05-04T17:32:29.342Z 
-link: https://www.youtube.com/watch?v=lGxP9XU0pNA&feature=youtu.be 
-tags:
-  - links
 ogtype: article 
 bodyclass: post 
 ---
