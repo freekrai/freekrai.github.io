@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "May the 4th be with you as the star characters sing All Star By Smash Mouth" 
 date: 2017-05-04T17:32:29.342Z 
 ogtype: article 
