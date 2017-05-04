@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Amazon Alexa and Solar Panels" 
 date: 2017-05-04T16:08:37.230Z 
 link: https://shkspr.mobi/blog/2017/05/amazon-alexa-and-solar-panels/ 
