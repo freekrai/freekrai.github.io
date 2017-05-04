@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Matt Gemmell on damages to software values" 
 date: 2017-05-04T16:23:31.885Z 
 link: http://mattgemmell.com/damage/ 
