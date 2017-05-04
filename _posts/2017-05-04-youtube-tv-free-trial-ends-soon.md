@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "PSA: YouTube TV’s month-long free trial ends soon" 
 date: 2017-05-04T16:20:01.454Z 
 link: https://www.theverge.com/2017/5/4/15541272/youtube-tv-free-trial-ends-soon 
