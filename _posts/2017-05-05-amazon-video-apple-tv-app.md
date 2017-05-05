@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Amazon’s Video app may be finally coming to Apple TV this summer" 
 date: 2017-05-05T16:03:11.729Z 
 link: https://www.recode.net/2017/5/5/15552954/amazon-video-apple-tv-app-jeff-bezos-tim-cook 
