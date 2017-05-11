@@ -9,9 +9,9 @@ I’m Roger Stringer, and I’m a DevOps Engineer, full-stack software developer
 
 This blog is where I write and share. You will see everything from reviews, posts about tech and design, to [food](/tags/food).
 
-I’m the founder of [Flybase](https://flybase.io/ "Flybase"), a real-time app platform that enables developers to quickly build apps without having to worry about the backend stuff. You can find me blogging at the [Flybase Blog](https://blog.flybase.io) on various topics, and also at the [Coded Geekery](https://codedgeekery.com) blog, which is a more long form blog .
+I’m the founder of [Flybase](https://flybase.io/ "Flybase"), a real-time app platform that enables developers to quickly build apps without having to worry about the backend stuff. You can find me blogging at the [Flybase Blog](https://blog.flybase.io) on various topics, and also at the [Coded Geekery](https://codedgeekery.com) blog, which is a more opinionated long form blog .
 
-I also work heavily with [Twilio](http://twiliocookbook.com), PHP, Node.js / JavaScript, NoSQL, APIs, [DevOps](http://devops.freekrai.net), Angular.js, and WordPress, so you’ll see some posts about all of these on here, as well as a variety of other topics.
+I also work heavily with Twilio PHP, Node.js / JavaScript, NoSQL, APIs, DevOps, Angular.js, and WordPress, so you’ll see some posts about all of these on here, as well as a variety of other topics.
 
 I’m also a dad, music lover, film buff, comic book collector, [foodie](/tags/food) and electric scooter enthusiast _(specifically the Ecoped Pulse)_. I spend my spare time building things, doing fun stuff with my daughter, and cooking up new recipes to post on here.
 
@@ -21,6 +21,7 @@ I’m also a type-2 insulin dependant diabetic, so once in a while, you’ll see
 
 ### Additional Endeavors
 
+- Founder and Curator of [The Book Hacker](https://bookhacker.today/), a book site that collects books mentioned on hacker news and reddit and displays them by comments.
 - Founder and Curator of [We Be Remote](http://weberemote.com), a job search site for remote workers.
 - Founder of [WorkerPod.com](http://workerpod.com "WorkerPod"), a job search site that brings together job listings from across the Internet and geared towards tech professionals
 - I also blog at [Coded Geekery](http://codedgeekery.com/), which is a longer form, more opionated blog about finding a work life balance.
