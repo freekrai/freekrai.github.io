@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Microsoft's president on the WannaCrypt attacks" 
 date: 2017-05-15T15:47:46.688Z 
 link: https://blogs.microsoft.com/on-the-issues/2017/05/14/need-urgent-collective-action-keep-people-safe-online-lessons-last-weeks-cyberattack/#sm.004axasq1299f9k104d21r8ybr3l6 
@@ -21,4 +21,3 @@ Brad Smith, President and Chief Legal Officer for Microsoft on the WannaCrypt at
 > At the same time, it’s already apparent that there will be broader and important lessons from the “WannaCrypt” attack we’ll need to consider to avoid these types of attacks in the future. I see three areas where this event provides an opportunity for Microsoft and the industry to improve.
 > 
 > As a technology company, we at Microsoft have the first responsibility to address these issues. We increasingly are among the first responders to attacks on the internet. We have more than 3,500 security engineers at the company, and we’re working comprehensively to address cybersecurity threats. This includes new security functionality across our entire software platform, including constant updates to our Advanced Threat Protection service to detect and disrupt new cyberattacks. In this instance, this included the development and release of the patch in March, a prompt update on Friday to Windows Defender to detect the WannaCrypt attack, and work by our customer support personnel to help customers afflicted by the attack.
-
