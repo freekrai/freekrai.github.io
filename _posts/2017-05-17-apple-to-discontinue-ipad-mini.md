@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Apple to discontinue iPad mini" 
 date: 2017-05-17T16:52:22.427Z 
 link: https://bgr.com/2017/05/16/ipad-mini-ipad-pro-10-5-inch-wwdc/ 
