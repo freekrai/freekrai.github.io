@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Apple is testing a glucose tracker for the Apple Watch" 
 date: 2017-05-19T15:45:21.660Z 
 link: https://www.theverge.com/2017/5/19/15662316/apple-watch-glucose-tracker-tim-cook 
