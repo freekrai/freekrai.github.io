@@ -22,4 +22,4 @@ bodyclass: post
 > 
 > Although Apple has heavily promoted Apple Pay as an alternative to paying with a credit card at retail stores, in apps and on websites, it has not gained much traction with consumers or merchants. Users enroll a credit card on their phone, then touch a finger to the iPhone’s Touch ID sensor to pay a merchant that has installed a wireless terminal that can receive a signal from the phone.
 
-(－‸ლ)
+![](https://media.giphy.com/media/3og0INyCmHlNylks9O/giphy.gif)
