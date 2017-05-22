@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Apple Pay and Patents" 
 date: 2017-05-22T20:17:22.248Z 
 link: https://www.nytimes.com/2017/05/21/technology/apple-pay-patent-lawsuit.html?_r=0 
