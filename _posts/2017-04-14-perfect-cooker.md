@@ -27,3 +27,7 @@ She reads the included recipe book, and adds all the ingredients, she's even sta
 For example, the lasagna recipe is the standard one but she prefers _chicken alfredo lasagna_, so she's replaced the beef with sliced chicken breast and added alfredo sauce to get a nice dinner.
 
 If you have kids that want to get into doing more in the kitchen, then pick up a perfect cooker.
+
+### Shop This Post
+
+- [the Perfect Cooker](http://amzn.to/2oyPi6Y) is available on Amazon.com
