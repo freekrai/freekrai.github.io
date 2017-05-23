@@ -30,4 +30,4 @@ If you have kids that want to get into doing more in the kitchen, then pick up a
 
 ### Shop This Post
 
-- [the Perfect Cooker](http://amzn.to/2oyPi6Y) is available on Amazon.com
+- You can find the [The Perfect Cooker](http://amzn.to/2oyPi6Y) on Amazon.com
