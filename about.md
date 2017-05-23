@@ -63,3 +63,13 @@ I’m always available for product reviews as I enjoy checking out new gadgets, 
 ### Contact
 
 Feel free to [contact me](/contact "Contact Me") any time about anything!
+
+---
+
+### Disclaimer
+
+Some of the links on this site are affiliate links. That means that if you sign up or purchase something I've recommended after clicking the link, I'll make a little bit of money. **The presence of an affiliate link _does not_ increase the price you pay for an item**, but in some cases it gives you a discount or bonus.
+
+I use every product I recommend unless I've noted otherwise.
+
+This site is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.
