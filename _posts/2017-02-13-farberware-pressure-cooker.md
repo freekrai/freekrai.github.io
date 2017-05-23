@@ -42,3 +42,7 @@ I give this pressure cooker a 10, and highly recommend you grab one for your kit
 * Safety Pressure Release Valve: Automatically releases pressure from inside the pressure cooker when the pressure levels become too high. This safety feature not only protects you, but also your food!
 * Stainless Steel Construction: Crafted from premium stainless steel, you can rest assured that you will be able to use this pressure cooker for many years to come.
 * LED Display: Making it simple to read the menus and make the right selections.
+
+#### Shop This Post
+
+- You can find the [The Farberware 7 in 1 Programmable Pressure Cooker](http://amzn.to/2ladfjU) on Amazon.com
