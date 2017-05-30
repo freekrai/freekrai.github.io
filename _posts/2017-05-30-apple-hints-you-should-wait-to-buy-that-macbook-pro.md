@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Apple hints you should wait to buy that MacBook Pro" 
 date: 2017-05-30T15:50:45.023Z 
 link: https://www.engadget.com/2017/05/30/apple-macbook-pro-delays-hint-at-new-models/ 
