@@ -25,3 +25,10 @@ The Switch blurs the line between home and portable gaming, which makes what it 
 As far as game play and graphics go, for what is essentially a tablet, this is a nice package.
 
 As more games come out, it will be an even better experience but as far as current game play goes, Zelda is a great game right now.
+
+### Shop This Post
+
+You can find the Nintendo Switch for sale on:
+
+- [Amazon.com](http://amzn.to/2paxTiy)
+- [Amazon.ca](https://www.amazon.ca/gp/search/ref=as_li_qf_sp_sr_tl?ie=UTF8&tag=rogestri-20&keywords=Nintendo Switch&index=aps&camp=15121&creative=330641&linkCode=ur2&linkId=fbcda8f0376f38cf267639603fe1609)
