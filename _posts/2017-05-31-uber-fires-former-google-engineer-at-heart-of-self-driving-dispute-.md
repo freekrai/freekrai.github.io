@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Uber Fires Former Google Engineer at Heart of Self-Driving Dispute " 
 date: 2017-05-31T17:53:57.395Z 
 link: https://www.nytimes.com/2017/05/30/technology/uber-anthony-levandowski.html?_r=1 
