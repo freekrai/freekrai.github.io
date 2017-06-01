@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Pinboard has acquired Delicious" 
 date: 2017-06-01T20:16:04.648Z 
 link: https://blog.pinboard.in/2017/06/pinboard_acquires_delicious/ 
