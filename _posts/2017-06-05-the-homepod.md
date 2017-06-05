@@ -1,7 +1,7 @@
 ---
 layout: post 
-published: false 
-title: "The HomePod" 
+published: true 
+title: "The Apple HomePod" 
 date: 2017-06-05T23:23:04.163Z 
 link: https://www.apple.com/newsroom/2017/06/homepod-reinvents-music-in-the-home/ 
 tags:
