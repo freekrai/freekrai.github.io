@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true
 title: "Apple's new iMac Pro costs $5000, but is it overpriced?" 
 date: 2017-06-08T20:38:58.447Z 
 link: http://www.pcgamer.com/apples-new-imac-pro-costs-5000-but-is-it-overpriced/ 
