@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "A history of Taylor Swift’s odd, conflicting stances on streaming services" 
 date: 2017-06-09T16:04:57.005Z 
 link: https://www.theverge.com/2017/6/9/15767986/taylor-swift-apple-music-spotify-statements-timeline 
@@ -18,4 +18,4 @@ bodyclass: post
 > 
 > She’s uniquely positioned to speak authoritatively on this issue as a public-facing brand and  a behind-the-scenes creative. Though, that doesn’t guarantee that her stance on streaming is logically sound.
 
-My9 year old will be happy that she can listen to Taylor Swift on Spotify again at least.
+My 9 year old will be happy that she can listen to Taylor Swift on Spotify again at least.
