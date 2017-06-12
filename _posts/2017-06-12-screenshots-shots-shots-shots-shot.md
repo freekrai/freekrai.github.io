@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Screenshots, Shots, Shots, Shots, Shots…" 
 date: 2017-06-12T22:46:07.029Z 
 link: https://500ish.com/screenshots-shots-shots-shots-shots-e0be8fa1bb9 
