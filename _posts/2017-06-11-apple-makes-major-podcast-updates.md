@@ -1,7 +1,7 @@
 ---
 layout: post 
-published: false 
-title: " Apple makes major podcast updates" 
+published: true 
+title: "Apple makes major podcast updates" 
 date: 2017-06-12T00:14:20.268Z 
 link: https://sixcolors.com/post/2017/06/apple-makes-major-podcast-updates/ 
 tags:
