@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "WWDC 2017 — Some Thoughts" 
 date: 2017-06-12T16:03:49.314Z 
 link: https://medium.learningbyshipping.com/wwdc-2017-some-thoughts-3ff3230cdd58 
