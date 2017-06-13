@@ -25,7 +25,7 @@ title: Home
 			{% endif %}
 			</h2>
 			<div class="meta">
-				 itemprop="datePublished">
+				<span class="postDate">
 					<i class="fa fa-calendar"></i> <time class="time" dateTime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%b %-d, %Y" }}</time>
 				</span>
 				{% if post.tags.size > 0 %}
