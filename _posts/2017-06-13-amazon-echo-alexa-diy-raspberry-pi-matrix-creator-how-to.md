@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Here's how to make a DIY Amazon Echo" 
 date: 2017-06-13T15:41:43.005Z 
 link: https://www.theverge.com/circuitbreaker/2017/6/13/15787808/amazon-echo-alexa-diy-raspberry-pi-matrix-creator-how-to 
