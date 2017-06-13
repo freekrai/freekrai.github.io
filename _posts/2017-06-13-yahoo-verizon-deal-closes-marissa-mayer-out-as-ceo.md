@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Yahoo-Verizon Deal Closes, Marissa Mayer Out as CEO" 
 date: 2017-06-13T15:44:21.980Z 
 link: https://marissamayr.tumblr.com/post/161775943139/nostalgia-gratitude-optimism 
@@ -10,7 +10,7 @@ ogtype: article
 bodyclass: post 
 ---
 
-Marissa Mayer, writing on the Verizon-owned Tumblr:
+Marissa Mayer, writing on the _Verizon-owned_ Tumblr:
 
 > It’s been my great honor and privilege to be a part of this team for the last 5 years. Together, we have rebuilt, reinvented, strengthened, and modernized our products, our business, and our company.
 > 
