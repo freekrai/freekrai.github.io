@@ -1,7 +1,7 @@
 ---
 layout: post 
-published: false 
-title: " The Apple Pencil from a non-artist's perspective" 
+published: true 
+title: "The Apple Pencil from a non-artist's perspective" 
 date: 2017-06-15T21:53:32.224Z 
 link: https://sixcolors.com/post/2017/06/the-apple-pencil-from-a-non-artists-perspective/ 
 tags:
