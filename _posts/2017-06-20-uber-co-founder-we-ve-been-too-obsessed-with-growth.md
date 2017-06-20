@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Uber co-founder: We’ve been too obsessed with growth" 
 date: 2017-06-20T21:21:35.289Z 
 link: https://www.recode.net/2017/6/20/15842770/uber-co-founder-garrett-camp-growth-culture-drivers-leadership 
