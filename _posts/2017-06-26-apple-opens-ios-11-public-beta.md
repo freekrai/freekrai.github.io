@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Apple Opens iOS 11 Public Beta" 
 date: 2017-06-26T21:38:23.935Z 
 link: https://beta.apple.com/sp/betaprogram/welcome 
