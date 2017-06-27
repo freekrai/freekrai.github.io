@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Samsung will reportedly release Note 7 ‘fandom’ edition soon" 
 date: 2017-06-27T19:30:07.595Z 
 link: https://www.engadget.com/2017/06/27/samsung-note-7-fandom-edition/ 
