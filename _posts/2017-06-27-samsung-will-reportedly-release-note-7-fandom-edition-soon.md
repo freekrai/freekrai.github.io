@@ -15,3 +15,5 @@ bodyclass: post
 > Samsung continues to deal with the fallout from its exploding Note 7 devices. The company has been sued for the problem, and has issued short-term fixes, apologies and a hurried recall to try and contain the damage to its brand. Apparently it's working, as the Galaxy S8 has gotten a record number of pre-orders despite the issues of its predecessor.
 > 
 > Now Samsung is looking to sweeten Note 7 lovers up with the Galaxy Note 7 "Fandom Edition." According to the Wall Street Journal, this FE model will be a refurbished Note 7 with upgraded components.
+
+Why won't they just let the Note 7 die?
