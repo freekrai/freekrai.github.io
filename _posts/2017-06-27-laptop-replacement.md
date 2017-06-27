@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "Laptop Replacement" 
 date: 2017-06-27T19:38:25.909Z 
 link: http://mattgemmell.com/laptop-replacement/ 
@@ -10,7 +10,11 @@ ogtype: article
 bodyclass: post 
 ---
 
-Matt Gemmell in in response to Joshua Topolsky’s assertion on Twitter that: "If you think you can replace your laptop with an iPad, you cannot."
+[Joshua Topolsky](https://twitter.com/joshuatopolsky/status/879513526750072833):
+
+> If you think you can replace your laptop with an iPad, you cannot.
+
+[Matt Gemmell](http://mattgemmell.com/laptop-replacement/), in response:
 
 > I occasionally see the phrase “laptop replacement” regarding the iPad, despite the bizarreness of both the concept and the generalisation. Intelligent people like journalists and tech pundits use it, seemingly without humorous intent, and it puzzles me.
 > 
@@ -30,4 +34,4 @@ Matt Gemmell in in response to Joshua Topolsky’s assertion on Twitter that: "I
 > 
 > Meanwhile, the rest of us are just getting things done.
 
-This comes up so much. If I'm at a coffeeshop coding or writing on my iPad Pro, I get asked the question all the time.
+This comes up so much. If I'm at a coffeeshop coding or writing on my iPad Pro, I get asked the question all the time. I still use my macbook or chromebook too, but my iPad gets a lot of use.
