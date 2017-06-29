@@ -1,6 +1,6 @@
 ---
 layout: post 
-published: false 
+published: true 
 title: "iPad Pro plus Mac is a whole greater than the sum of its parts" 
 date: 2017-06-29T15:59:10.095Z 
 link: https://techpinions.com/stop-asking-if-the-ipad-pro-can-replace-your-pc-start-asking-if-it-fits-your-workflow/50433 
