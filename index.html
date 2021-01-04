@@ -1,59 +1,34 @@
----
-layout: default
-bodyclass: homepage
-title: Home
----
-<div class="day">
-	<div class="articles">
-{% for post in paginator.posts %}
-{% comment %}
-	{% capture day %}{{post.date | date: "%d"}}{% endcapture %}
-	{% capture nday %}{{ post.next.date | date: '%d' }}{% endcapture %}
-	{% if day != nday %}
-		<hr class="daybreak" />
-		</div></div>
-		<div class="day"><div class="articles">
-	{% endif %}
-{% endcomment %}
-	<article class="{% if post.link %}link{% endif %}">
-		<header>
-			<h2>
-			{% if post.link %}
-			<a href="{{ post.link }}" class="post-title linked">{{ post.title }} <span class="link-arrow">&rarr;</span></a>
-			{% else %}
-			<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-			{% endif %}
-			</h2>
-			<div class="meta">
-				<span class="postDate">
-					<i class="fa fa-calendar"></i> <time class="time" dateTime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%b %-d, %Y" }}</time>
-				</span>
-				{% if post.tags.size > 0 %}
-				<span class="tag">
-					<i class="fa fa-tag"></i>
-					{% for tag in post.tags %}
-					<a href="/tags/{{ tag | downcase | replace:' ','-'}}" class="tag">{{ tag | capitalize }}</a>
-					{% if forloop.last %}{% else %}, {% endif %}
-					{% endfor %}
-				</span>
-				{% endif %}
-				<a class="permalink" title="Permalink to {{post.title}}" href="{{ post.url }}"><i class="fa fa-anchor"></i></a>
-			</div>
-		</header>
-		<div class="entry">
-			{{ post.content }}
-		</div>
-	</article>
-	<hr class="daybreak" />
-{% endfor %}
-	</div>
-</div>
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<nav id="pagination">
-	{% if paginator.next_page %}
-		<span class="next"><a href="/page{{paginator.next_page}}">← Older</a></span>
-	{% endif %}
-	{% if paginator.previous_page %}
-		<span class="prev"><a href="/page{{paginator.previous_page}}">Newer →</a></span>
-	{% endif %}
-</nav>
+	<title>Roger Stringer | Full Stack Developer, Devops Engineer, Author And Dad.</title>
+
+	<link href="https://fonts.googleapis.com/css?family=Reem+Kufi|Roboto:300" rel="stylesheet">
+	<link href="https://use.fontawesome.com/releases/v5.15.0/css/all.css" rel="stylesheet">
+	<link rel="stylesheet" href="css/reset.css">
+	<link rel="stylesheet" href="css/styles.css">
+	<link rel="stylesheet" href="css/themes/indigo-white.css">
+</head>
+<body>
+	<main>
+		<div class="intro">Hello, I'm Roger</div>
+		<div class="tagline">Full Stack Developer, Devops Engineer, Author And Dad.</div>
+		<div class="tagline2">
+			<p>I build a lot of things using many stacks, currently mostly working with React / Nextjs and nodejs with GraphQL APIs which is fun to work with.</p>
+			<p>For more information about me, check out rogerstringer.com or Coded Geekery.</p>	
+		</div>
+		
+		<div class="icons-social">
+			<a target="_blank" href="https://github.com/freekrai"><i class="fab fa-github"></i></a>
+			<a target="_blank" href="https://twitter.com/freekrai"><i class="fab fa-twitter"></i></a>
+			<a target="_blank" href="https://rogerstringer.com"><i class="fa fa-rss"></i></a>
+			<a target="_blank" href="https://codedgeekery.com"><i class="fa fa-rss"></i></a>
+    </div>
+	</main>
+</body>
+</html>
+
